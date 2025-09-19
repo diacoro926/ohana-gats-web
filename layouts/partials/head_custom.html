@@ -1,0 +1,230 @@
+<style>
+/* === Global background and text === */
+body {
+  background-color: #f3e2d0 !important; /* soft beige background */
+  color: #2b2b2b; /* default dark text */
+  padding-top: 100px; /* space for fixed navbar */
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Ensure all headings and paragraphs use dark text */
+p, h1, h2, h3, h4, h5, h6 {
+  color: #2b2b2b !important;
+  margin-bottom: 1rem;
+}
+
+/* === Header & Footer === */
+.navbar,
+footer {
+  background-color: #87a8c4 !important; /* muted blue */
+  color: #505369;
+}
+
+.navbar a,
+footer a {
+  color: #2a292f !important;
+}
+
+footer {
+  padding: 20px 0;
+  font-size: 0.9rem;
+}
+
+/* === Content area === */
+.content-wrapper {
+  padding: 20px;
+}
+
+.content-box {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* === Buttons === */
+.btn,
+button,
+input[type="submit"] {
+  background-color: #e98a65;
+  border: none;
+  color: #fff !important;
+  font-weight: 600;
+  padding: 0.5rem 1.25rem;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover,
+button:hover,
+input[type="submit"]:hover {
+  background-color: #d8744f;
+}
+
+/* === Cat grid styles === */
+ /* === Cat grid styles === */
+.cats-grid {
+  margin-top: 2rem;
+}
+
+/* Card styling */
+.cat-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 15px;
+  height: 260px; /* keeps cards uniform */
+  transition: transform 0.2s ease;
+  text-align: center;
+}
+
+.cat-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Cat image as small circular preview */
+.cat-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;             /* circle preview */
+  border: 3px solid #e98a65;      /* orange border like mockup */
+  margin-bottom: 0.75rem;
+}
+
+/* Cat info */
+.cat-name {
+  font-size: 1.2rem;              /* larger for emphasis */
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  color: #2b2b2b;
+}
+
+.cat-meta {
+  font-size: 0.9rem;              /* smaller than name */
+  color: #555;
+  margin: 0;
+}
+
+/* === Cat Detail Page === */
+.cat-detail-img {
+  max-width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+  border: 4px solid #e98a65;
+}
+
+.cat-detail-name {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.cat-detail-meta {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.cat-detail-summary {
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 1rem;
+}
+
+.cat-detail-content {
+  text-align: left;
+}
+
+ 
+.cat-detail-nav .btn {
+  min-width: 45px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 50%;
+  padding: 0.5rem 0.75rem;
+}
+
+
+/* Overlay text */
+.overlay-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.overlay-subtitle {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.overlay .btn {
+  background-color: #ffffff;
+  color: #e98a65 !important;
+  font-size: 0.9rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 4px;
+}
+
+.overlay .btn:hover {
+  background-color: #f9f9f9;
+}
+
+/* === Responsive Adjustments === */
+
+/* Cat images responsive sizing */
+.cat-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  max-height: 200px; /* desktop default */
+}
+
+/* Medium screens (tablets) */
+@media (max-width: 991px) {
+  body {
+    padding-top: 80px; /* smaller navbar space */
+  }
+  .cat-img {
+    max-height: 180px;
+  }
+  .overlay-title {
+    font-size: 1.1rem;
+  }
+  .overlay-subtitle {
+    font-size: 0.9rem;
+  }
+}
+
+/* Small screens (phones) */
+@media (max-width: 575px) {
+  body {
+    padding-top: 70px;
+  }
+  h1 {
+    font-size: 1.75rem;
+  }
+  p {
+    font-size: 0.95rem;
+  }
+  .cat-img {
+    max-height: 150px;
+  }
+  .overlay-title {
+    font-size: 1rem;
+  }
+  .overlay-subtitle {
+    font-size: 0.85rem;
+  }
+  .overlay .btn {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.7rem;
+  }
+}
+</style>

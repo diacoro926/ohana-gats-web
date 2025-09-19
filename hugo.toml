@@ -1,0 +1,90 @@
+baseurl = "https://username.github.io"
+title = "PotetaBlava"
+theme = "beautifulhugo"
+
+DefaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  subtitle = "Asociación de gatos PotetaBlava"
+  logo = "img/Potetablava.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  since = 2024 
+  hideAuthor = true
+
+[Params.author]
+  facebook = "username"
+  instagram = "username"
+  tiktok = "username"
+  Teaming = "username"
+
+# --------------------
+# Languages
+# --------------------
+[languages]
+
+[languages.es]
+  weight = 1
+  title = "PotetaBlava"
+  languageName = "Español"
+
+  [[languages.es.menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[languages.es.menu.main]]
+    name = "Adoptame"
+    url = "/cats/"
+    weight = 2
+
+  [[languages.es.menu.main]]
+    name = "Acerca de"
+    url = "/page/about/"
+    weight = 3
+
+  [[languages.es.menu.main]]
+    name = "Ayudanos"
+    url = "/page/helpus/"
+    weight = 4
+
+
+[languages.ca]
+  weight = 2
+  title = "PotetaBlava"
+  languageName = "Català"
+
+  [[languages.ca.menu.main]]
+    name = "Inici"
+    url = "/"
+    weight = 1
+
+  [[languages.ca.menu.main]]
+    name = "Adoptame"
+    url = "/cats/"
+    weight = 2
+
+  [[languages.ca.menu.main]]
+    name = "Sobre nosaltres"
+    url = "/page/about/"
+    weight = 3
+
+ [[languages.ca.menu.main]]
+    name = "Helpus"
+    url = "/page/helpus/"
+    weight = 4

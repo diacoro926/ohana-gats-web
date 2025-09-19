@@ -1,0 +1,46 @@
+{{ define "main" }}
+<div class="container cat-detail" role="main">
+  <div class="row justify-content-center">
+    <div class="col-lg-8 col-md-10">
+
+      <!-- Big Cat Image -->
+      {{ with .Params.image }}
+        <div class="text-center mb-4">
+          <img class="cat-detail-img img-fluid" src="{{ . | relURL }}" alt="{{ $.Title }}">
+        </div>
+      {{ end }}
+
+      <!-- Cat Info -->
+      <div class="cat-detail-info text-center mb-4">
+        <h1 class="cat-detail-name">{{ .Title }}</h1>
+
+        <p class="cat-detail-meta">
+          {{ with .Params.age }}{{ . }} {{ end }}
+          {{ with .Params.gender }}· {{ . }}{{ end }}
+        </p>
+      </div>
+      
+      <!-- Cat Description & Summary in same box -->
+      <div class="cat-detail-content content-box">
+        {{ with .Params.summary }}
+          <p class="cat-detail-summary"><strong>{{ . }}</strong></p>
+        {{ end }}
+        {{ .Content }}
+      </div>
+<!-- Navigation Arrows -->
+<div class="cat-detail-nav row text-center mt-4">
+  <div class="col-4 text-left">
+    {{ with .PrevInSection }}
+      <a class="btn btn-outline-secondary" href="{{ .RelPermalink }}" title="{{ i18n "previousCat" }}">&larr;</a>
+    {{ end }}
+  </div>
+  <div class="col-4 text-center">
+    <a class="btn btn-primary" href="{{ .Parent.RelPermalink }}" title="{{ i18n "backToList" }}">&uarr;</a>
+  </div>
+  <div class="col-4 text-right">
+    {{ with .NextInSection }}
+      <a class="btn btn-outline-secondary" href="{{ .RelPermalink }}" title="{{ i18n "nextCat" }}">&rarr;</a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

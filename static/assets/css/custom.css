@@ -1,0 +1,15 @@
+/* Make header and footer blue */
+.navbar,
+footer {
+  background-color: #007bff !important; /* Bootstrap blue */
+}
+
+/* Change the whole page background to yellow */
+body {
+  background-color: #fff176 !important; /* soft yellow */
+}
+
+/* Optional: adjust text so it's readable on yellow */
+body, p, h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+}

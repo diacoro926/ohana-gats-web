@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="content-wrapper">
+  <div class="content-box">
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.subtitle }}
+      <h2 class="subtitle">{{ .Params.subtitle }}</h2>
+    {{ end }}
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

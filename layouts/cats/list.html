@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="container" role="main">
+
+  <!-- Section header -->
+  <div class="row text-center mb-4">
+    <div class="col-lg-12 col-md-12">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.summary }}
+        <p class="text-muted small">{{ . }}</p>
+      {{ end }}
+    </div>
+  </div>
+
+  <!-- Cats grid -->
+  <div class="row cats-grid">
+    {{ range .Pages }}
+      {{ $page := . }}
+      <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
+        <div class="cat-card text-center p-3">
+          {{ with $page.Params.image }}
+            <a href="{{ $page.RelPermalink }}">
+              <img class="cat-img rounded-circle mb-2" src="{{ . | relURL }}" alt="{{ $page.Title }}">
+            </a>
+          {{ end }}
+
+          <h5 class="cat-name">{{ $page.Title }}</h5>
+
+          <p class="cat-meta">
+            {{ with $page.Params.age }}{{ . }} {{ end }}
+            {{ with $page.Params.gender }} · {{ . }}{{ end }}
+          </p>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

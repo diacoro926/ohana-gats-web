@@ -1,46 +1,55 @@
 {{ define "main" }}
-<div class="container cat-detail" role="main">
+<div class="container" role="main">
+
+  <!-- Cat detail card -->
   <div class="row justify-content-center">
     <div class="col-lg-8 col-md-10">
+      <div class="cat-detail-card content-box text-center">
 
-      <!-- Big Cat Image -->
-      {{ with .Params.image }}
-        <div class="text-center mb-4">
-          <img class="cat-detail-img img-fluid" src="{{ . | relURL }}" alt="{{ $.Title }}">
-        </div>
-      {{ end }}
+        <!-- Big image -->
+        {{ with .Params.image }}
+          <img class="cat-detail-img mb-4" src="{{ . | relURL }}" alt="{{ $.Title }}">
+        {{ end }}
 
-      <!-- Cat Info -->
-      <div class="cat-detail-info text-center mb-4">
+        <!-- Name -->
         <h1 class="cat-detail-name">{{ .Title }}</h1>
 
+        <!-- Age & Gender -->
         <p class="cat-detail-meta">
-          {{ with .Params.age }}{{ . }} {{ end }}
-          {{ with .Params.gender }}· {{ . }}{{ end }}
+          {{ with .Params.age }}{{ . }} años · {{ end }}
+          {{ with .Params.gender }}{{ . | title }}{{ end }}
         </p>
-      </div>
-      
-      <!-- Cat Description & Summary in same box -->
-      <div class="cat-detail-content content-box">
+
+        <!-- Summary -->
         {{ with .Params.summary }}
-          <p class="cat-detail-summary"><strong>{{ . }}</strong></p>
+          <p class="cat-detail-summary font-weight-bold">{{ . }}</p>
         {{ end }}
-        {{ .Content }}
+
+        <!-- Full content -->
+        <div class="cat-detail-content text-left mt-3">
+          {{ .Content }}
+        </div>
+
+        <!-- Navigation Arrows -->
+<div class="cat-detail-nav mt-4 d-flex justify-content-between align-items-center">
+  {{ with .PrevInSection }}
+    <a class="btn nav-btn" href="{{ .RelPermalink }}" title="{{ i18n "previousCat" }}">&larr;</a>
+  {{ else }}
+    <span></span>
+  {{ end }}
+
+  <a class="btn nav-btn back-btn mx-3" href="{{ .Parent.RelPermalink }}" title="{{ i18n "backToList" }}">&uarr;</a>
+
+  {{ with .NextInSection }}
+    <a class="btn nav-btn" href="{{ .RelPermalink }}" title="{{ i18n "nextCat" }}">&rarr;</a>
+  {{ else }}
+    <span></span>
+  {{ end }}
+</div>
+
       </div>
-<!-- Navigation Arrows -->
-<div class="cat-detail-nav row text-center mt-4">
-  <div class="col-4 text-left">
-    {{ with .PrevInSection }}
-      <a class="btn btn-outline-secondary" href="{{ .RelPermalink }}" title="{{ i18n "previousCat" }}">&larr;</a>
-    {{ end }}
+    </div>
   </div>
-  <div class="col-4 text-center">
-    <a class="btn btn-primary" href="{{ .Parent.RelPermalink }}" title="{{ i18n "backToList" }}">&uarr;</a>
-  </div>
-  <div class="col-4 text-right">
-    {{ with .NextInSection }}
-      <a class="btn btn-outline-secondary" href="{{ .RelPermalink }}" title="{{ i18n "nextCat" }}">&rarr;</a>
-    {{ end }}
-  </div>
+
 </div>
 {{ end }}

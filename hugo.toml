@@ -63,6 +63,10 @@ pygmentsCodefencesGuessSyntax = true
     url = "/page/helpus/"
     weight = 4
 
+  [[languages.es.menu.main]]
+    name = "Contacto"
+    url = "/page/contact/"
+    weight = 5
 
 [languages.ca]
   weight = 2
@@ -88,3 +92,7 @@ pygmentsCodefencesGuessSyntax = true
     name = "Helpus"
     url = "/page/helpus/"
     weight = 4
+ [[languages.ca.menu.main]]
+    name = "Contacte"
+    url = "/page/contactus/"
+    weight = 5   

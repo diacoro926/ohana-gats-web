@@ -4,6 +4,7 @@ theme = "beautifulhugo"
 
 DefaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
+enableEmoji = true
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true

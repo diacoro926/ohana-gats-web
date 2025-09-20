@@ -1,10 +1,26 @@
 ---
-title: "Bienvenidos a PotetaBlava"
-subtitle: "Asociación de gatos"
+title: "Bienvenidos a Poteta Blava"
+subtitle: "Hogar digital de los bigotes más adorables de la ciudad"
 layout: "home"
 ---
 
-PotetaBlava es una asociación sin ánimo de lucro dedicada a rescatar, cuidar y encontrar hogares para gatos abandonados.
+
+Bienvenido al rincón donde cada ronroneo cuenta. :wave:
+
+Aquí no solo rescatamos gatitos, rescatamos historias. 
+
+Detrás de cada mirada felina hay una vida que merece amor, cuidado y un hogar donde dormir sin miedo.
+
+Somos Poteta Blava, una asociación sin ánimo de lucro que cree en la magia de las segundas oportunidades.
+
+Nos dedicamos a proteger, cuidar y encontrar familias para esos pequeños bigotes que un día lo perdieron todo… menos la esperanza.
+
+En esta web encontrarás mucho más que fotos de gatitos: descubrirás corazones  :heart: latiendo fuerte, voluntarios incansables, y una comunidad que cree que el amor puede cambiar vidas, incluso las más peludas.
+
+
+Gracias por estar aquí. Tu visita ya es un gesto de cariño. Y quién sabe… tal vez hoy conozcas al compañero de vida que no sabías que estabas buscando.
+
+
 
 Conoce a nuestros [gatos disponibles](/cats/) o descubre más [sobre nosotros](/page/about/).
 

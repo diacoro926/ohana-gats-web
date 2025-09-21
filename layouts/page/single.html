@@ -1,11 +1,24 @@
 {{ define "main" }}
-<div class="content-wrapper">
-  <div class="content-box">
-    <h1>{{ .Title }}</h1>
-    {{ if .Params.subtitle }}
-      <h2 class="subtitle">{{ .Params.subtitle }}</h2>
-    {{ end }}
-    {{ .Content }}
+<div role="main" class="container-fluid">
+
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 col-md-12 text-center">
+
+      <!-- Title and subtitle outside the box -->
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <p class="text-muted">{{ . }}</p>
+      {{ end }}
+
+      <!-- Main content inside the box -->
+      {{ with .Content }}
+        <div class="content-box text-left mt-4 p-3 shadow-sm rounded">
+          {{ . }}
+        </div>
+      {{ end }}
+
+    </div>
   </div>
+
 </div>
 {{ end }}

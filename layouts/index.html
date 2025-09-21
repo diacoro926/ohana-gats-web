@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div role="main" class="container-fluid">
 
-  <!-- Main title + content -->
+  <!-- Main content box (keep as in your working version) -->
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1 col-md-12 text-center">
       <h1>{{ .Title }}</h1>
@@ -17,25 +17,26 @@
     </div>
   </div>
 
-  <!-- Featured Cat + News in the same row -->
-  <div class="row mt-5 section-gap">
+  {{ $cat := .Site.GetPage "cats/cat1.md" }}
+  {{ $news := where site.RegularPages "Type" "news" | first 2 }}
+
+  <!-- Featured Cat + News row (new version, properly centered) -->
+  <div class="row mt-5 section-gap justify-content-center">
+
     <!-- Left: Featured Cat -->
     <div class="col-lg-6 col-md-12 mb-4">
-      {{ with .Site.GetPage "cats/cat1.md" }} <!-- change cat1.md as needed -->
+      <h3 class="text-center mb-3">{{ i18n "cat_of_the_month" }}</h3>
+      {{ with $cat }}
         <div class="content-box p-3 shadow-sm rounded h-100">
           <div class="row align-items-center">
-            <!-- Left: image -->
             <div class="col-6 text-center">
               <a href="{{ .RelPermalink }}">
                 <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-fluid rounded">
               </a>
             </div>
-            <!-- Right: text -->
             <div class="col-6">
               <h4>
-                <a href="{{ .RelPermalink }}" class="text-decoration-none text-dark">
-                  {{ .Title }}
-                </a>
+                <a href="{{ .RelPermalink }}" class="text-decoration-none text-dark">{{ .Title }}</a>
               </h4>
               {{ with .Params.age }}
                 <p class="text-muted mb-1"><strong>{{ i18n "label_age" }}:</strong> {{ . }}</p>
@@ -52,9 +53,9 @@
       {{ end }}
     </div>
 
-    <!-- Right: Two News Boxes stacked -->
-    <div class="col-lg-6 col-md-12">
-      {{ $news := where site.RegularPages "Type" "news" | first 2 }}
+    <!-- Right: News stacked -->
+    <div class="col-lg-6 col-md-12 mb-4">
+      <h3 class="text-center mb-3">{{ i18n "news_section_title" }}</h3>
       {{ range $news }}
         <div class="content-box p-3 shadow-sm rounded mb-4">
           <h4><a href="{{ .RelPermalink }}" class="text-decoration-none text-dark">{{ .Title }}</a></h4>
@@ -63,6 +64,7 @@
         </div>
       {{ end }}
     </div>
+
   </div>
 
 </div>

@@ -2,11 +2,11 @@
 <div class="container" role="main">
 
   <!-- Section header -->
-  <div class="row text-center mb-4">
-    <div class="col-lg-12 col-md-12">
+<div class="row">
+    <div class="col-lg-12 col-md-12 text-center">
       <h1>{{ .Title }}</h1>
-      {{ with .Params.summary }}
-        <p class="text-muted small">{{ . }}</p>
+      {{ with .Params.subtitle }}
+        <p class="text-muted">{{ . }}</p>
       {{ end }}
     </div>
   </div>
@@ -14,23 +14,18 @@
   <!-- Intro box from cats/_index.md -->
   {{ with .Site.GetPage "section" "cats" }}
     <div class="row mb-5">
-      <div class="col-lg-10 col-lg-offset-1 col-md-12">
-        <div class="content-box p-3 shadow-sm rounded">
-          <div class="row align-items-start">
-            <div class="col-12 text-center">
-              <!-- Subtitle -->
-              {{ with .Params.subtitle }}
-                <p class="text-muted mb-2">{{ . }}</p>
-              {{ end }}
+      <div class="col-lg-12 col-md-12">
+         <!-- Subtitle -->
+          
+        <div class="content-box p-3 shadow-sm rounded text-center">
+         
 
-              <!-- Body content -->
-              {{ with .Content }}
-                <div class="text-left">
-                  {{ . }}
-                </div>
-              {{ end }}
+          <!-- Body content -->
+          {{ with .Content }}
+            <div class="text-left">
+              {{ . }}
             </div>
-          </div>
+          {{ end }}
         </div>
       </div>
     </div>

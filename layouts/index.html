@@ -1,9 +1,9 @@
 {{ define "main" }}
-<div role="main" class="container-fluid">
+<div role="main" class="container">
 
-  <!-- Main content box (keep as in your working version) -->
+  <!-- Main content box -->
   <div class="row">
-    <div class="col-lg-10 col-lg-offset-1 col-md-12 text-center">
+    <div class="col-lg-12 col-md-12 text-center">
       <h1>{{ .Title }}</h1>
       {{ with .Params.subtitle }}
         <p class="text-muted">{{ . }}</p>
@@ -20,8 +20,8 @@
   {{ $cat := .Site.GetPage "cats/cat1.md" }}
   {{ $news := where site.RegularPages "Type" "news" | first 2 }}
 
-  <!-- Featured Cat + News row (new version, properly centered) -->
-  <div class="row mt-5 section-gap justify-content-center">
+  <!-- Featured Cat + News row -->
+  <div class="row mt-5 section-gap">
 
     <!-- Left: Featured Cat -->
     <div class="col-lg-6 col-md-12 mb-4">

@@ -97,3 +97,9 @@ pygmentsCodefencesGuessSyntax = true
     name = "Contacte"
     url = "/page/contactus/"
     weight = 5   
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    

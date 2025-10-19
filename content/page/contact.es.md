@@ -4,7 +4,7 @@ subtitle: ¡Escríbenos!
 comments: false
 ---
 
-Si quieres ponerte en contacto con nosotros, rellena el formulario y tu programa de correo electrónico se abrirá automáticamente.
+¿Quieres ronronear con nosotros? Solo rellena el formulario y tu humano-mail se abrirá solito. ¡Fácil como un salto al sofá!"
 
 {{< contact-form
     recipient="info@tuasociaciongatuna.org"

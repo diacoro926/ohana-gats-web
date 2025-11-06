@@ -8,7 +8,7 @@ comments: false
 
 
 <!-- Sección OHANA: Todo comenzó con un transportín -->
-<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color: #f1f5f8; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
+<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color:  #e0e9f0ff; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
 
   <h2 style="color: #2972b6; font-size: 2em; text-align: center; margin-bottom: 20px;">
     🐾 Todo comenzó con un transportín…
@@ -56,12 +56,11 @@ comments: false
 
 
 
-<!-- Misión y Valores OHANA -->
-<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color: #f1f5f8; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
+ <!-- Misión -->
+<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color:  #f0f0f0; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
 
-  <!-- Misión -->
-  <h2 style="color: #2972b6; font-size: 2em; text-align: center; margin-bottom: 16px;">
-    🌺 Nuestra Misión
+  <h2 style="color: #2972b6; font-size: 2em; text-align: left; margin-bottom: 16px;">
+    🌺 Nuestra Misión 
   </h2>
 
   <p>
@@ -78,10 +77,10 @@ comments: false
   </p>
 </section>
 
-<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color: #f1f5f8; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
+<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color: #f0f0f0; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
 
   <!-- Valores -->
-  <h2 style="color: #2972b6; font-size: 2em; text-align: center; margin: 40px 0 20px;">
+  <h2 style="color: #2972b6; font-size: 2em; text-align: left; margin: 40px 0 20px;">
     💖 Nuestros Valores OHANA
   </h2>
 

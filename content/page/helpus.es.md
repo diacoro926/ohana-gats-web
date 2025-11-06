@@ -3,23 +3,33 @@ title: Ayudanos
 subtitle: ¿Como puedo ayudar?
 comments: false
 ---
-🧡 Ayúdanos a seguir cuidando
+## 🧡 Ayúdanos a seguir cuidando
 
-En OHANA, cada gesto cuenta. Si alguna vez te has preguntado cómo cambiar una vida… aquí empieza tu respuesta.
+En OHANA, cada gesto cuenta.  
+Si alguna vez te has preguntado cómo cambiar una vida… aquí empieza tu respuesta.
 
-🐾 Formas de ayudar
+---
 
-🐱 Adopta o acoge Dale un hogar temporal o definitivo a un gatito que lo necesita.
+### 🐾 Formas de ayudar
 
-🧶 Dona mantas, comida o transportines Lo que para ti es poco, para ellos es abrigo, alimento y seguridad.
+- 🐱 **Adopta o acoge**  
+  Dale un hogar temporal o definitivo a un gatito que lo necesita.
 
-💸 Apoya económicamente Cada euro ayuda a cubrir vacunas, esterilizaciones y urgencias.
+- 🧶 **Dona mantas, comida o transportines**  
+  Lo que para ti es poco, para ellos es abrigo, alimento y seguridad.
 
-📣 Difunde nuestras historias Compartir es cuidar. Ayúdanos a llegar a más corazones.
+- 💸 **Apoya económicamente**  
+  Cada euro ayuda a cubrir vacunas, esterilizaciones y urgencias.
 
-🧤 Hazte voluntari@ Ven a limpiar, jugar, transportar, fotografiar… ¡todo suma!
+- 📣 **Difunde nuestras historias**  
+  Compartir es cuidar. Ayúdanos a llegar a más corazones.
 
-🐾 Apadrina un bigote Elige un gatito y acompáñalo con tu apoyo hasta que encuentre familia.
+- 🧤 **Hazte voluntari@**  
+  Ven a limpiar, jugar, transportar, fotografiar… ¡todo suma!
+
+- 🐾 **Apadrina un bigote**  
+  Elige un gatito y acompáñalo con tu apoyo hasta que encuentre familia.
+
 
 
 

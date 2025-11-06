@@ -1,7 +1,7 @@
 ---
 title: "Mary Jane"
 type: "cats"
-image: "/img/cats/MaryJane.png"
+image: "/img/cats/MaryJane2.jpg"
 age: Aproximadamente 1 año
 gender: "🐱♀ Hembra"
 summary: "Mary Jane: la heroína que aún espera a su Spider-Man"

@@ -1,5 +1,5 @@
 ---
-title: "Simón"
+title: "Taz"
 type: "cats"
 image: "/img/cats/cat3.png"
 age: "5 años"
@@ -9,3 +9,4 @@ adopted: true
 ---
 Simón es un gato adulto que adora dormir cerca de la ventana.  
 Es muy cariñoso y se lleva bien con perros tranquilos.
+asdsdssds

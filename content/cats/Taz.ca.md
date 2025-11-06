@@ -1,5 +1,5 @@
 ---
-title: "Simó"
+title: "taz"
 type: "cats"
 image: "/img/cats/cat3.png"
 age: "5 anys"

@@ -11,4 +11,9 @@
   translation: "Gat del mes" 
 
 - id: news_section_title
-  translation: "Notícies"  
+  translation: "Notícies" 
+
+- id: label_age
+  translation: "Edad"
+- id: label_gender
+  translation: "Sexo"       

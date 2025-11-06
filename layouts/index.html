@@ -34,20 +34,22 @@
                 <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-fluid rounded">
               </a>
             </div>
-            <div class="col-6">
-              <h4>
-                <a href="{{ .RelPermalink }}" class="text-decoration-none text-dark">{{ .Title }}</a>
-              </h4>
-              {{ with .Params.age }}
-                <p class="text-muted mb-1"><strong>{{ i18n "label_age" }}:</strong> {{ . }}</p>
-              {{ end }}
-              {{ with .Params.gender }}
-                <p class="text-muted mb-1"><strong>{{ i18n "label_gender" }}:</strong> {{ . }}</p>
-              {{ end }}
-              {{ with .Params.summary }}
-                <p>{{ . }}</p>
-              {{ end }}
-            </div>
+   <div class="col-6">
+  <h4>
+    <a href="{{ .RelPermalink }}" class="text-decoration-none text-dark">{{ .Title }}</a>
+  </h4>
+  {{ with .Params.age }}
+    <p class="text-muted mb-0" style="line-height: 1.4;"><strong>{{ i18n "label_age" }}:</strong> {{ . }}</p>
+  {{ end }}
+  {{ with .Params.gender }}
+    <p class="text-muted mb-1" style="line-height: 1.4; margin-top: 2px;"><strong>{{ i18n "label_gender" }}:</strong> {{ . }}</p>
+  {{ end }}
+  {{ with .Params.summary }}
+    <p style="line-height: 1.4; margin-top: 6px;">{{ . }}</p>
+  {{ end }}
+</div>
+
+
           </div>
         </div>
       {{ end }}
@@ -59,12 +61,10 @@
       {{ range $news }}
         <div class="content-box p-3 shadow-sm rounded mb-4">
           <h4><a href="{{ .RelPermalink }}" class="text-decoration-none text-dark">{{ .Title }}</a></h4>
-          <p class="text-muted mb-2">{{ .Date.Format "02/01/2006" }}</p>
           <p>{{ .Params.summary }}</p>
         </div>
       {{ end }}
     </div>
-
   </div>
 
 </div>

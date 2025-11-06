@@ -11,5 +11,11 @@
   translation: "VIP (Very Important Patita) del Mes ⭐"
 
 - id: news_section_title
-  translation: "Noticias"  
+  translation: "Noticias" 
+
+ 
+- id: label_age
+  translation: "Edad"
+- id: label_gender
+  translation: "Sexo"         
 

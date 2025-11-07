@@ -3,107 +3,69 @@ title: Ayudanos
 subtitle: ¿Como puedo ayudar?
 comments: false
 ---
-## 🧡 Ayúdanos a seguir cuidando
+# 🐾 **Ayúdanos a cambiar vidas gatunas**
 
 En OHANA, cada gesto cuenta.  
 Si alguna vez te has preguntado cómo cambiar una vida… aquí empieza tu respuesta.
+Cada ronroneo que escuchamos, cada mirada que se atreve a confiar, cada patita que pisa segura por primera vez…es gracias a personas como tú.
+
+Nuestra asociación rescata, cuida y acompaña a gatos que han vivido el abandono, el miedo y la indiferencia.  
+Aquí, cada uno tiene nombre, historia y una segunda oportunidad.   *Pero no podemos hacerlo solos*
+
+![Gatos felices en su refugio](URL-de-la-imagen)
 
 ---
 
-### 🐾 Formas de ayudar
+## 💛 ¿Cómo puedes ayudar?
 
-- 🐱 **Adopta o acoge**  
-  Dale un hogar temporal o definitivo a un gatito que lo necesita.
+### 🛒 Wishlist de Amazon
+¿Quieres ayudarnos con lo que más necesitamos?  
+Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishlist](#) es una caricia directa para nuestros gatos.  
+**¡Tú eliges qué regalarles!**
 
-- 🧶 **Dona mantas, comida o transportines**  
-  Lo que para ti es poco, para ellos es abrigo, alimento y seguridad.
+![Gato jugando con un juguete donado](URL-de-la-imagen)
 
-- 💸 **Apoya económicamente**  
-  Cada euro ayuda a cubrir vacunas, esterilizaciones y urgencias.
+---
 
-- 📣 **Difunde nuestras historias**  
-  Compartir es cuidar. Ayúdanos a llegar a más corazones.
+### 🤝 Teaming: 1€ al mes que cambia vidas
+Con solo **1 euro al mes**, puedes formar parte de nuestro equipo de apoyo constante.  
+Es menos que un café, pero para ellos puede significar comida, medicación o una visita al veterinario.  
+Únete a nuestro [Teaming](#) y sé parte de su historia.
 
-- 🧤 **Hazte voluntari@**  
-  Ven a limpiar, jugar, transportar, fotografiar… ¡todo suma!
+![Infografía: 1€ = comida + cuidados + esperanza](URL-de-la-imagen)
 
-- 🐾 **Apadrina un bigote**  
-  Elige un gatito y acompáñalo con tu apoyo hasta que encuentre familia.
+---
 
+### 🐱 Apadrina un gato
+¿Te gustaría tener un vínculo especial con uno de nuestros peluditos?  
+Con el sistema de apadrinamiento, puedes ayudar a cubrir sus gastos, recibir noticias sobre su evolución y saber que estás marcando la diferencia en su vida.  
+**Apadrinar es amar a distancia.**
 
+![Retrato de un gato apadrinado con su nombre](URL-de-la-imagen)
 
+---
 
-<!-- Botones alineados OHANA -->
-<style>
-  .ohana-botones {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
-    margin: 32px auto;
-    font-family: 'Quicksand', sans-serif;
-  }
+## 🌈 Otras formas de colaborar
 
-  .ohana-botones a {
-    display: inline-block;
-    padding: 12px 24px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-    color: #fff;
-    white-space: nowrap;
-    transition: background-color 0.3s ease;
-  }
+### 📣 Difunde
+Compartir sus historias en redes sociales puede hacer que el hogar perfecto los encuentre.  
+Cada publicación, cada “me gusta”, cada comentario… **¡cuenta!**
 
-  .ohana-botones a:hover {
-    opacity: 0.9;
-  }
+![Captura de pantalla de una publicación compartida](URL-de-la-imagen)
 
-  .btn-contacto { background-color: #2972b6; }
-  .btn-adopciones { background-color: #945cb4; }
-  .btn-donar { background-color: #2c3e50; }
-  .btn-necesidades { background-color: #f18f01; }
+### 🎨 Arte solidario
+¿Eres artista, ilustrador, artesano? Dona una obra para rifas o ventas solidarias.  
+Tu talento puede transformarse en alimento, vacunas o esterilizaciones.
 
-  @media (max-width: 600px) {
-    .ohana-botones {
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>
+![Foto de productos artesanales donados](URL-de-la-imagen)
 
-<div class="ohana-botones">
-  <a href="/contacto" class="btn-contacto">💌 Quiero ayudar</a>
-  <a href="/adopciones" class="btn-adopciones">🐾 Ver gatos en adopción</a>
-  <a href="/donar" class="btn-donar">🎁 Donar ahora</a>
-  <a href="/necesidades" class="btn-necesidades">📦 Lista de necesidades</a>
-</div>
+### 🕒 Voluntariado
+Si estás cerca, puedes venir a ayudarnos con limpieza, cuidados, socialización o transporte.  
+**Tu tiempo es oro para ellos.**
 
-<!-- Cierre emocional OHANA -->
-<div style="max-width: 800px; margin: 40px auto; padding: 32px; background-color: #f1f5f8; border-left: 6px solid #945cb4; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.8; font-size: 1.15em; text-align: center;">
+![Voluntarios acariciando o jugando con gatos](URL-de-la-imagen)
 
-  <p style="font-style: italic; color: #2972b6; font-size: 1.3em; margin-bottom: 24px;">
-    En OHANA no pedimos ayuda.<br>
-    La compartimos.
-  </p>
-
-  <p>
-    Como quien ofrece una manta en una noche fría,<br>
-    o abre su casa a un ronroneo tímido.
-  </p>
-
-  <p>
-    Porque aquí, cada vida importa.<br>
-    Cada patita que pisa suelo seguro.<br>
-    Cada mirada que deja de temer.<br>
-    Cada humano que decide cuidar.
-  </p>
-
-  <p style="margin-top: 24px;">
-    Y tú también importas.<br>
-    Porque en esta familia, nadie se queda atrás.<br>
-    Ni los gatos.<br>
-    Ni los que los aman.
-  </p>
-
-</div>
+### 💌 Donaciones puntuales
+¿Prefieres hacer una aportación única?  
+También puedes hacerlo por Bizum, transferencia o PayPal.  
+**Cada euro suma, cada gesto importa.**

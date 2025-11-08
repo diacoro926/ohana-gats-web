@@ -1,7 +1,7 @@
 ---
 title: "Ivar"
 type: "cats"
-image: "/img/cats/cat3.png"
+image: "/img/cats/Ivar.jpeg"
 age: 1 año
 gender: "🐱♀ Macho"
 summary: "Ivar: El explorador con corazón tímido (y estómago sin fondo)"

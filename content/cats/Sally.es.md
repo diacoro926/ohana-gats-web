@@ -1,7 +1,7 @@
 ---
 title: "Sally"
 type: "cats"
-image: "/img/cats/cat3.png"
+image: "/img/cats/Sally.jpeg"
 age: 2 años
 gender: "🐱♀ Hembra"
 summary: "Sally: Dulce como un pastel de cumpleaños"

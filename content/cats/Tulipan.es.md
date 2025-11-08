@@ -1,7 +1,7 @@
 ---
 title: "Tulipan"
 type: "cats"
-image: "/img/cats/cat3.png"
+image: "/img/cats/Tulipan.jpeg"
 age: 1 año
 gender: "🐱♀ Hembra"
 summary: "Tulipán: La mamá valiente que empieza a confiar"

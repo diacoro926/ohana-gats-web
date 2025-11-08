@@ -13,8 +13,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   subtitle = "Asociación de gatos PotetaBlava"
-  logo = "img/Potetablava.png"
-  favicon = "img/favicon.ico"
+  logo = "img/Ohana.png"
+  favicon = "img/OhanaIco.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
@@ -30,9 +30,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params.author]
   facebook = "username"
-  instagram = "username"
+  instagram = "adopta.gats.prat/"
   tiktok = "username"
-  Teaming = "username"
+  Teaming = "adoptagatsprat/"
 
 # --------------------
 # Languages

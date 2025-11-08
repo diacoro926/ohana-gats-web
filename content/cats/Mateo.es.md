@@ -1,7 +1,7 @@
 ---
 title: "Mateo"
 type: "cats"
-image: "/img/cats/cat3.png"
+image: "/img/cats/Mateo.png"
 age: 2 años
 gender: "🐱♂ Macho"
 summary: "Mateo: El gigante tierno que solo quiere amor"

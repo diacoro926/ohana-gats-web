@@ -1,7 +1,7 @@
 ---
 title: "taz"
 type: "cats"
-image: "/img/cats/cat3.png"
+image: "/img/cats/Taz.png"
 age: "5 anys"
 gender: "mascle"
 summary: "Un gat tranquil que gaudeix de llargues migdiades."

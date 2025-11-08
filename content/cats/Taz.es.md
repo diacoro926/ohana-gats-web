@@ -1,7 +1,7 @@
 ---
 title: "Taz"
 type: "cats"
-image: "/img/cats/cat3.png"
+image: "/img/cats/Taz.png"
 age: "5 años"
 gender: "🐱♂ Macho"
 summary: "Taz: El gato sombra que busca luz"

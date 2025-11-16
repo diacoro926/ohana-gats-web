@@ -23,7 +23,7 @@ Aquí, cada uno tiene nombre, historia y una segunda oportunidad.   *Pero no pod
      style="width:150px; float:left; margin-right:20px; border-radius:12px;" />
 
 ¿Quieres ayudarnos con lo que más necesitamos?  
-Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishlist](#) es una caricia directa para nuestros gatos.  
+Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishlist](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share&fbclid=PAb21jcAOGcudleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcIY2FsbHNpdGUCMTUAAac29xLqcYxi2uETKIhBcs0J8n0AP8RiucND90w7x-JGZs92E8P0iF6XYQfnaw_aem_xQgJXqUfcNC0GxdbW-LE6g) es una caricia directa para nuestros gatos.  
 **¡Tú eliges qué regalarles!**
 
 <div style="clear:both;"></div>
@@ -33,7 +33,7 @@ Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishl
 ### 🤝 Teaming: 1€ al mes que cambia vidas
 Con solo **1 euro al mes**, puedes formar parte de nuestro equipo de apoyo constante.  
 Es menos que un café, pero para ellos puede significar comida, medicación o una visita al veterinario.  
-Únete a nuestro [Teaming](#) y sé parte de su historia.
+Únete a nuestro [Teaming](https://www.teaming.net/adoptagatsprat/) y sé parte de su historia.
 
 <img src="/img/Otras/Teaming.png" alt="Teaming-donaciones"  />
 <div style="clear:both;"></div>

@@ -54,8 +54,4 @@ Tal vez uno de ellos te está esperando. Tal vez tú también necesitas una fami
 
 ---
 
-  <!-- Cierre emocional -->
- <img src="/img/cats/Adopta-Frase.png" alt="FraseAdopdta" 
-       style="width:100vw; max-width:100%; height:auto; display:block; margin:0 auto; border-radius: 0 0 20px 20px;" loading="lazy" />
-
 </section>

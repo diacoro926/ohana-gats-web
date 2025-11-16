@@ -31,7 +31,3 @@ Es un gato que no pide mucho, solo respeto, paciencia y un rincón tranquilo.
 Un hogar sereno, donde pueda florecer a su ritmo.  
 Alguien que entienda que los vínculos más profundos no se imponen, se construyen.
 
----
-
-### 📩 ¿Le das la oportunidad de sentirse en casa?
-**Maomao está listo para comenzar su nueva historia contigo.**

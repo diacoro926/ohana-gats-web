@@ -19,11 +19,14 @@ Aquí, cada uno tiene nombre, historia y una segunda oportunidad.   *Pero no pod
 ## 💛 ¿Cómo puedes ayudar?
 
 ### 🛒 Wishlist de Amazon
+<img src="/img/Otras/Amazon.jpeg" alt="Amazon-donaciones" 
+     style="width:150px; float:left; margin-right:20px; border-radius:12px;" />
+
 ¿Quieres ayudarnos con lo que más necesitamos?  
 Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishlist](#) es una caricia directa para nuestros gatos.  
 **¡Tú eliges qué regalarles!**
 
-![Gato jugando con un juguete donado](URL-de-la-imagen)
+<div style="clear:both;"></div>
 
 ---
 
@@ -32,16 +35,16 @@ Con solo **1 euro al mes**, puedes formar parte de nuestro equipo de apoyo const
 Es menos que un café, pero para ellos puede significar comida, medicación o una visita al veterinario.  
 Únete a nuestro [Teaming](#) y sé parte de su historia.
 
-![Infografía: 1€ = comida + cuidados + esperanza](URL-de-la-imagen)
+<img src="/img/Otras/Teaming.png" alt="Teaming-donaciones"  />
+<div style="clear:both;"></div>
 
 ---
 
 ### 🐱 Apadrina un gato
 ¿Te gustaría tener un vínculo especial con uno de nuestros peluditos?  
 Con el sistema de apadrinamiento, puedes ayudar a cubrir sus gastos, recibir noticias sobre su evolución y saber que estás marcando la diferencia en su vida.  
-**Apadrinar es amar a distancia.**
 
-![Retrato de un gato apadrinado con su nombre](URL-de-la-imagen)
+<img src="/img/Otras/Apadrina.png" alt="Teaming-donaciones"  />
 
 ---
 

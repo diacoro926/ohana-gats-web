@@ -12,7 +12,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [Params]
-  subtitle = "Asociación de gatos PotetaBlava"
+  subtitle = "Asociación de gatos Ohana"
   logo = "img/Ohana.png"
   favicon = "img/OhanaIco.ico"
   dateFormat = "January 2, 2006"
@@ -95,7 +95,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 4
  [[languages.ca.menu.main]]
     name = "Contacte"
-    url = "/page/contactus/"
+    url = "/page/contact/"
     weight = 5   
 
 

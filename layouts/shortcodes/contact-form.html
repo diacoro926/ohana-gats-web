@@ -2,15 +2,19 @@
   <div class="content-box" style="text-align: center;">
 
     <form class="contact-form" onsubmit="sendEmail(); return false;">
+      <!-- Name -->
       <label for="name">{{ .Get "labelName" }}</label>
       <input type="text" id="name" name="name" placeholder="{{ .Get "placeholderName" }}" required>
 
+      <!-- Email -->
       <label for="email">{{ .Get "labelEmail" }}</label>
       <input type="email" id="email" name="email" placeholder="{{ .Get "placeholderEmail" }}" required>
 
+      <!-- Message -->
       <label for="message">{{ .Get "labelMessage" }}</label>
-      <textarea id="message" name="message" rows="5" placeholder="{{ .Get "placeholderMessage" }}" required></textarea>
+      <textarea id="message" name="message" rows="15" required>{{ .Get "defaultMessage" }}</textarea>
 
+      <!-- Submit -->
       <button type="submit" class="btn">{{ .Get "buttonText" }}</button>
     </form>
   </div>

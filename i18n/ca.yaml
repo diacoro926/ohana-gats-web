@@ -16,4 +16,7 @@
 - id: label_age
   translation: "Edad"
 - id: label_gender
-  translation: "Sexo"       
+  translation: "Sexo"   
+
+- id: contact_link
+  translation: "Contacta'ns"

@@ -30,6 +30,13 @@
           {{ .Content }}
         </div>
 
+
+ <!-- Contact link -->
+<div class="mt-4 text-center">
+  <a href="{{ "page/contact/" | relLangURL }}" class="btn btn-primary">{{ i18n "contact_link" }}</a>
+</div>
+
+
         <!-- Navigation Arrows -->
 <div class="cat-detail-nav mt-4 d-flex justify-content-between align-items-center">
   {{ with .PrevInSection }}

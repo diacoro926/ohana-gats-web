@@ -1,8 +1,8 @@
 ---
-title: "Mercadillo Solidario Segunda Mano - Cementerio Vell"
+title: "OHANA Market · Mercadillo Solidario en el Cementerio Vell 📍"
 date: 2025-09-20
 type: "news"
-summary: "Primer domingo del mes de 10:00 a 14:00 "
+summary: "Ven al Cementerio Vell 📍, curiosea y ayuda a los michis con cada compra."
 ---
 
 ## 🐾 ¡Cada primer domingo es especial!

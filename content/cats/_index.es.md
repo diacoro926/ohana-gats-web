@@ -62,17 +62,17 @@ Solo tienes que enviarnos un **video** enseñando las protecciones. Prometo no j
 
 ---
 ##### 📝 3. Contrato de adopción + donación (cosas serias pero necesarias)
-Firmaremos un **contrato de adopción**, donde tú te comprometes a quererme, cuidarme y no dejarme sin latitas ricas.
+Firmaremos :writing_hand: un **contrato de adopción**, donde tú te comprometes a quererme, cuidarme y no dejarme sin latitas ricas.
 
 Según el gatito que adoptes, habrá una **donación** que ayuda a que otros peluditos como yo también tengan su oportunidad.
 
-No te preocupes: yo firmaría con mi huellita, pero siempre me mancho.
+No te preocupes: yo firmaría con mi huellita :paw_prints:	 :paw_prints:	, pero siempre me mancho.
 
 ---
 
-##### 💙 Y ya está, humano bonito 
+#### 💙 Y ya está, humano bonito 
 
-Si cumples todo esto… entonces yo cumplo lo mío: **quererte con mis bigotes, ronronearte hasta que te duelan las mejillas de sonreír, dormirme encima de ti como si fueras mi nube favorita y convertirme, sin remedio, en tu sombra peluda para toda la vida.** 
+Si cumples todo esto… entonces yo cumplo lo mío: **Quererte con mis bigotes, ronronearte hasta que te duelan las mejillas de sonreír, dormirme encima de ti como si fueras mi nube favorita y convertirme, sin remedio, en tu sombra peluda para toda la vida.** 
 
 Porque cuando un gato OHANA te elige… no es casualidad. Es destino con patitas.
 

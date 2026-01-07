@@ -1,7 +1,7 @@
 ---
 title: "Dante"
 type: "cats"
-image: "/img/cats/Dante.png"
+image: "/img/cats/DaikiPrueba.jpeg"
 age: 5 Años
 gender: "🐱♂ Macho"
 summary: "Dante: El alma silenciosa que espera ser escuchada"

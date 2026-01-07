@@ -1,6 +1,6 @@
 ---
-title: "Speed‑Dating Felino 😻 ven a enamorarte"
-date: 2024-01-01
+title: "Nova campanya d’adopció"
+date: 2025-09-15
 type: "news"
 summary: "Llancem la nostra nova campanya per trobar llars per a gats i gossos."
 ---

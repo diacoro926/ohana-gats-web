@@ -1,109 +1,53 @@
 ---
-title: Sobre OHAMA
+title: Sobre OHANA
 subtitle: Todo empezó con un transportín… y una promesa de amor
 comments: false
 ---
 
-<img src="/img/home/Gato-Jaula-temporal.jpg" alt="Portada Poteta Blava" style="width:100%; max-width:660px; border-radius:12px; float:left; margin-right:20px;" />
+## 🐾 **Todo comenzó con un transportín…**
 
+Somos voluntarias, y después de años en las calles de El Prat hemos aprendido que un transportín puede cambiar una vida. No es bonito ni heroico: es lo que tenemos para sacar a un gato del frío, del hambre y de la indiferencia.
 
-<!-- Sección OHANA: Todo comenzó con un transportín -->
-<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color:  #e0e9f0ff; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
+Hemos visto muchos: gatos que se encogen, que maúllan sin entender, que solo miran en silencio. Y aun así, cada uno nos recuerda por qué seguimos. Con comida pagada de nuestro bolsillo, horas robadas al descanso y más cansancio del que admitimos, hacemos lo que podemos porque no sabemos mirar hacia otro lado.
 
-  <h2 style="color: #2972b6; font-size: 2em; text-align: center; margin-bottom: 20px;">
-    🐾 Todo comenzó con un transportín…
-  </h2>
+Un día, al cerrar un transportín con cuidado, entendimos que necesitábamos algo más grande que nosotras. Algo que uniera esfuerzos y diera estabilidad a todo este trabajo que llevamos años sosteniendo.
 
-  <p>
-    Hola, humano.<br>
-    Soy uno de esos gatitos que un día estuvo solo. Con frío, miedo… y sin saber si alguien alguna vez me vería como algo más que un animal callejero.
-  </p>
+Por eso, en **Enero de 2026**, nace **OHANA**.  
+Para organizarnos, para llegar más lejos, para que ningún gato dependa solo de la suerte.
 
-  <p>
-    Vivía en El Prat de Llobregat, donde muchos como yo vagamos sin rumbo, esperando que alguien nos tienda una patita.  
-    Y entonces, apareció algo que cambió mi vida: <strong>un transportín</strong>.  
-    Sí, una caja con puertas. Pero para mí, fue una promesa.  
-    Una promesa de que alguien me veía. De que alguien creía que merecía ayuda.
-  </p>
+Gracias por estar aquí.  
+Gracias por mirar donde otros no miran.  
+Gracias por creer que juntos podemos cambiar algo.
 
-  <p>
-    Dentro de ese transportín, sentí por primera vez que no estaba solo.  
-    Me recogieron con manos suaves, voces que no daban órdenes sino caricias.  
-    Me prometieron que nunca más volvería a estar solo.
-  </p>
+---
+## 🌺 Nuestra Misión
 
-  <p>
-    Y ahora, en <strong>diciembre de 2025</strong>, <span style="color: #945cb4;"><strong>nace OHANA</strong></span>.  
-    No como una simple asociación, sino como una familia.  
-    Una familia que rescata, que cuida, que lucha por lo que aún no existe:  
-    <em>una protectora de verdad</em>. Una que no nos ignore.  
-    Una que no dependa solo de voluntarias incansables que hacen magia con lo que tienen.
-  </p>
+En **OHANA**, nuestra misión es acariciar vidas que el mundo olvidó… y recordarles que nunca estuvieron solas.
 
-  <p>
-    El ayuntamiento no quiere crearla.  
-    Pero ellas no se rinden. Y yo tampoco.  
-    Porque ahora tengo un hogar, una manta, un nombre… y una historia que contar.
-  </p>
+Rescatamos, cuidamos y buscamos hogares para los gatitos de **El Prat de Llobregat**, porque creemos que cada patita merece caminar sin miedo, cada ronroneo merece ser escuchado, y cada mirada felina merece encontrar un corazón que la abrace.
 
-  <p style="margin-top: 30px; text-align: center; font-style: italic; color: #264653;">
-    Gracias por leerme.  
-    <br>Gracias por mirar más allá de mis bigotes.  
-    <br>Gracias por creer que cada vida, por pequeña que sea, merece ser cuidada.
-  </p>
+Luchamos por una **protectora digna** en nuestro municipio, porque los animales no son un problema: *son parte de nuestra familia*.  
+Y mientras esa protectora no exista, seremos nosotros quienes la encarnemos, con mantas, latitas, caricias… y mucho amor.
 
-</section>
+---
 
+## 💖 Nuestros Valores OHANA
 
+- 🐱 **Amor sin condiciones:**  
+  Como el de un gato que se acurruca sin pedir nada a cambio.  
+  Amamos a cada uno, sin importar su edad, estado o historia.
 
- <!-- Misión -->
-<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color:  #f0f0f0; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
+- 🐾 **Respeto por cada vida:**  
+  Porque incluso el más tímido, el más herido, el más invisible… merece ser visto, cuidado y valorado.
 
-  <h2 style="color: #2972b6; font-size: 2em; text-align: left; margin-bottom: 16px;">
-    🌺 Nuestra Misión 
-  </h2>
+- 🐈 **Compromiso ronroneante:**  
+  No descansamos hasta que cada bigote tenga un lugar seguro.  
+  Nuestro motor es el ronroneo de los que ya no temen.
 
-  <p>
-    En <strong style="color:#945cb4;">OHANA</strong>, nuestra misión es acariciar vidas que el mundo olvidó… y recordarles que nunca estuvieron solas.
-  </p>
+- 🌸 **Lucha con suavidad:**  
+  Defendemos con firmeza, pero desde la ternura.  
+  Porque creemos que el cambio empieza con una caricia.
 
-  <p>
-    Rescatamos, cuidamos y buscamos hogares para los gatitos de <strong>El Prat de Llobregat</strong>, porque creemos que cada patita merece caminar sin miedo, cada ronroneo merece ser escuchado, y cada mirada felina merece encontrar un corazón que la abrace.
-  </p>
-
-  <p>
-    Luchamos por una <strong>protectora digna</strong> en nuestro municipio, porque los animales no son un problema: <em>son parte de nuestra familia</em>.  
-    Y mientras esa protectora no exista, seremos nosotros quienes la encarnemos, con mantas, latitas, caricias… y mucho amor.
-  </p>
-</section>
-
-<section style="width:100vw; max-width:100%; margin: 40px auto; padding: 24px; background-color: #f0f0f0; border-left: 6px solid #2972b6; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); font-family: 'Quicksand', sans-serif; color: #2c3e50; line-height: 1.7; font-size: 1.1em; text-align: justify;">
-
-  <!-- Valores -->
-  <h2 style="color: #2972b6; font-size: 2em; text-align: left; margin: 40px 0 20px;">
-    💖 Nuestros Valores OHANA
-  </h2>
-
-  <ul style="list-style: none; padding: 0 0 0 8px; margin: 0; color: #2c3e50;">
-    <li style="margin-bottom: 16px;">
-      🐱 <strong style="color:#945cb4;">Amor sin condiciones:</strong> Como el de un gato que se acurruca sin pedir nada a cambio.  
-      Amamos a cada uno, sin importar su edad, estado o historia.
-    </li>
-    <li style="margin-bottom: 16px;">
-      🐾 <strong style="color:#945cb4;">Respeto por cada vida:</strong> Porque incluso el más tímido, el más herido, el más invisible… merece ser visto, cuidado y valorado.
-    </li>
-    <li style="margin-bottom: 16px;">
-      🐈 <strong style="color:#945cb4;">Compromiso ronroneante:</strong> No descansamos hasta que cada bigote tenga un lugar seguro.  
-      Nuestro motor es el ronroneo de los que ya no temen.
-    </li>
-    <li style="margin-bottom: 16px;">
-      🌸 <strong style="color:#945cb4;">Lucha con suavidad:</strong> Defendemos con firmeza, pero desde la ternura.  
-      Porque creemos que el cambio empieza con una caricia.
-    </li>
-    <li style="margin-bottom: 0;">
-      🧡 <strong style="color:#945cb4;">Comunidad con alma felina:</strong> Somos muchas manos, muchas voces, muchos corazones latiendo juntos.  
-      Como una gran familia de humanos y gatos que se cuidan mutuamente.
-    </li>
-  </ul>
-
-</section>
+- 🧡 **Comunidad con alma felina:**  
+  Somos muchas manos, muchas voces, muchos corazones latiendo juntos.  
+  Como una gran familia de humanos y gatos que se cuidan mutuamente.

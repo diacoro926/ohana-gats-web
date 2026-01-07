@@ -1,8 +1,8 @@
 ---
-title: "Concurso Tu gato y tu"
-date: 2025-09-20
+title: "📚😼💥Club de Lectura… edición con pelos"
+date: 2025-09-18
 type: "news"
-summary: "Instagram"
+summary: "Leemos, debatimos y aportamos 1 € solidario. Un club de lectura con pelos, risas y buen karma."
 ---
 
 # 📸 ¡Concurso “Tu gato y tú”! 🐱💕

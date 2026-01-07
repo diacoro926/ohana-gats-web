@@ -1,43 +1,83 @@
 ---
-title: "Recogida solidaria de alimentos"
-date: 2025-09-15
+title: "Speed‑Dating Felino 😻 ven a enamorarte"
+date: 2026-01-01
 type: "news"
-summary: "Recogida de alimentos para nuestros gatitos en Kiwoko Sant Boi. ¡Ven a colaborar y salvar barriguitas peludas"
+summary: "¿Preparada para la cita más caótica, adorable y peluda de tu vida?  Conoce a varios michis en citas rápidas llenas de encanto, drama y ronroneos estratégicos."
 ---
-## 🐾 ¡Operación Croquetita en Marcha!
----
+### 🎉 **Speed Dating Felino — Evento Presencial en OHANA**  
+Porque encontrar el amor… o al menos una buena siesta compartida, también es cosa de gatos.
 
-Hola humano adorable, soy uno de los michis de OHANA y vengo a darte una misión muy importante (y sabrosa):  
-**¡Este sábado 18 de octubre tenemos recogida de comida en [Kiwoko Sant Boi](https://www.kiwoko.com/tiendas/kiwoko-sant-boi/)!**
-
-Mientras tú paseas por el centro comercial, nuestras humanas favoritas —las **Karens voluntarias**— estarán en  Kiwoko de **10:00 a 20:00** recogiendo pienso, latitas y vendiendo cositas bonitas para ayudarnos a llenar nuestras barriguitas peludas.
-
-Esta vez no estamos solos: colaboramos con nuestros amigos de **@asociacion.livera** para conseguir suficiente comida como para sobrevivir este mes sin tener que aprender a cazar (¡uf, qué estrés!).
+Te invitamos a un evento muy especial donde podrás conocer a nuestros michis en persona, descubrir sus personalidades y ver si hacéis “match”.  
+Un encuentro cercano, divertido y lleno de bigotes sinceros.
 
 ---
 
-### 🛍️ ¿Cómo puedes ayudarnos?
+### 🗓️ **¿Qué es este evento?**  
+Un espacio donde podrás:
 
-🫱 **Ven a vernos a [Kiwoko Sant Boi](https://www.kiwoko.com/tiendas/kiwoko-sant-boi/) este sábado 18 de octubre**  
-🫱 **¿No puedes venir?** No pasa nada, humano ocupado. Puedes dejar tu donación en:
-- 🧸 *Electrónica Labella* (Plaza Louis Braille 25)  
-- 🧶 *Menamorau* (C/Ferran Puig, 40)
-
-🫱 **¿Eres más de clic que de paseo?**  
-También puedes ayudarnos desde casa con nuestra *wishlist de Amazon* (¡clic y croqueta directa!).
+- **Conocer a cada gato en pocos minutos** y descubrir su carácter.  
+- **Interactuar con ellos** en un ambiente tranquilo y seguro.  
+- **Saber si hay conexión real** antes de iniciar un proceso de adopción.  
+- **Recibir orientación del equipo OHANA** para encontrar el compañero ideal.
 
 ---
 
-### 🐱 ¿Por qué es importante?
+---
 
-Porque mientras tú lees esto, yo estoy practicando mi mejor mirada de “tengo hambre y soy adorable” para que no nos falte comida este mes.  
-Las Karens trabajan, los gatos comemos. Así funciona el universo. ¡Y tú puedes ser parte de él!
+### 🌟 **Concursantes Destacados**
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px;">
+
+  <!-- CARLITOS -->
+  <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
+    <img src="/img/cats/Carlitos.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    <strong>Carlitos</strong><br>
+    <em>El Romántico Prudente</em><br>
+    Calmado, observador y con un corazón enorme.
+  </div>
+
+  <!-- Mary Jane -->
+  <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
+    <img src="/img/cats/MaryJane.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    <strong>Maru Jane</strong><br>
+    <em>La Dulzura en Miniatura</em><br>
+    Cariñosa, equilibrada y adaptable.
+  </div>
+
+  <!-- Tigrito -->
+  <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
+    <img src="/img/cats/Tigrito.jpeg" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    <strong>Tigrito</strong><br>
+    <em>El Aventurero Profesional</em><br>
+    Curioso, activo y siempre listo para explorar.
+  </div>
+
+</div>
 
 ---
 
-**¡Te esperamos con las patitas abiertas y el corazón lleno de gratitud!**  
-Gracias por ayudarnos a seguir ronroneando 🐾💕
+### 📅 **¿Quieres conocerlos en persona?**  
+Si alguno de estos concursantes te ha hecho sonreír, puedes venir a conocerlos en vivo.  
+**Agenda una visita** y descubre si hacéis “match” cara a cara.
 
+👉 **[Agendar visita](#)**
 
+---
 
+### 📍 **Dónde**  
+En nuestro espacio OHANA (El Prat / Barcelona).
+
+### ⏰ **Cuándo**  
+Elige el día y la hora que mejor te vaya.
+
+### 📅 **Reserva tu plaza**  
+Las visitas son individuales para garantizar un ambiente tranquilo.
+
+👉 **[Agendar visita](#)**
+
+---
+
+### 💞 **¿Por qué lo hacemos?**  
+Porque cada gato merece mostrarse tal como es.  
+Y porque tú mereces conocerlos de una forma cercana, honesta y llena de magia.
 

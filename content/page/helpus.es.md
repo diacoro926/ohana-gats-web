@@ -12,15 +12,19 @@ Cada ronroneo que escuchamos, cada mirada que se atreve a confiar, cada patita q
 Nuestra asociación rescata, cuida y acompaña a gatos que han vivido el abandono, el miedo y la indiferencia.  
 Aquí, cada uno tiene nombre, historia y una segunda oportunidad.   *Pero no podemos hacerlo solos*
 
-![Gatos felices en su refugio](URL-de-la-imagen)
+<img src="/img/Otras/AyudanosES.png" alt="Ayudanos" style="width:60%" />
 
 ---
 
-## 💛 ¿Cómo puedes ayudar?
+<!-- Ayudanos banner -->
+<div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #91b9f4  ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
+ 💛 <strong>¿Cómo puedes ayudarnos?</strong>
+</div>
+<br>
 
-### 🛒 Wishlist de Amazon
+#### 🛒 Wishlist de Amazon
 <img src="/img/Otras/Amazon.jpeg" alt="Amazon-donaciones" 
-     style="width:150px; float:left; margin-right:20px; border-radius:12px;" />
+     style="width:250px; float:left; margin-right:20px; border-radius:12px;" />
 
 ¿Quieres ayudarnos con lo que más necesitamos?  
 Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishlist](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share&fbclid=PAb21jcAOGcudleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcIY2FsbHNpdGUCMTUAAac29xLqcYxi2uETKIhBcs0J8n0AP8RiucND90w7x-JGZs92E8P0iF6XYQfnaw_aem_xQgJXqUfcNC0GxdbW-LE6g) es una caricia directa para nuestros gatos.  
@@ -29,46 +33,49 @@ Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishl
 <div style="clear:both;"></div>
 
 ---
+<div style="float:right; margin-left:15px; width:500px;">
+  <img src="/img/Otras/TeamingDiana.png" alt="Teaming-donaciones" style="width:100%;" />
+</div>
 
-### 🤝 Teaming: 1€ al mes que cambia vidas
+#### 🤝 Teaming: 1€ al mes que cambia vidas
 Con solo **1 euro al mes**, puedes formar parte de nuestro equipo de apoyo constante.  
 Es menos que un café, pero para ellos puede significar comida, medicación o una visita al veterinario.  
 Únete a nuestro [Teaming](https://www.teaming.net/adoptagatsprat/) y sé parte de su historia.
 
-<img src="/img/Otras/Teaming.png" alt="Teaming-donaciones"  />
 <div style="clear:both;"></div>
 
 ---
+####  🎁 Donaciones de material
 
-### 🐱 Apadrina un gato
-¿Te gustaría tener un vínculo especial con uno de nuestros peluditos?  
-Con el sistema de apadrinamiento, puedes ayudar a cubrir sus gastos, recibir noticias sobre su evolución y saber que estás marcando la diferencia en su vida.  
+En OHANA aprovechamos absolutamente todo. Cada manta, cada lata y cada transportín se convierte en bienestar para un gato que lo necesita. Si quieres ayudar de forma directa y práctica, estas son las cosas que más nos sostienen:
 
-<img src="/img/Otras/Apadrina.png" alt="Teaming-donaciones"  />
+- Alimentación: pienso de calidad, latas húmedas, comida gastrointestinal o de recuperación.
+- Camas y mantas lavables, suaves y en buen estado.
+- Transportines rígidos y seguros, fáciles de limpiar.
+- Juguetes y rascadores para reducir estrés y mejorar la socialización.
+
+Si tienes dudas sobre si algo puede servir, pregúntanos: en OHANA siempre encontramos un gato que lo necesita.
 
 ---
 
-## 🌈 Otras formas de colaborar
+#### 🧶 Artesanía y talento solidario
 
-### 📣 Difunde
-Compartir sus historias en redes sociales puede hacer que el hogar perfecto los encuentre.  
-Cada publicación, cada “me gusta”, cada comentario… **¡cuenta!**
+Cada talento puede convertirse en refugio. Puedes colaborar con:
 
-![Captura de pantalla de una publicación compartida](URL-de-la-imagen)
+- Artesanía solidaria: collares, juguetes, mantas, ilustraciones, tote bags, chapas, velas…
+- Transporte solidario para visitas veterinarias o recogida de material.
 
-### 🎨 Arte solidario
-¿Eres artista, ilustrador, artesano? Dona una obra para rifas o ventas solidarias.  
-Tu talento puede transformarse en alimento, vacunas o esterilizaciones.
+Si tienes una idea, aunque sea pequeña, nos encantará escucharla.
 
-![Foto de productos artesanales donados](URL-de-la-imagen)
+---
+#### 🤝 Voluntariado: Tu tiempo puede cambiar una vida
 
-### 🕒 Voluntariado
-Si estás cerca, puedes venir a ayudarnos con limpieza, cuidados, socialización o transporte.  
-**Tu tiempo es oro para ellos.**
+En OHANA creemos que la magia ocurre cuando alguien decide dar un poco de sí para que un gato tenga mucho más. No hace falta experiencia, ni grandes horas, ni saber “hacerlo perfecto”. Solo ganas de cuidar, acompañar y ser parte de una gran familia!
 
-![Voluntarios acariciando o jugando con gatos](URL-de-la-imagen)
+- **Colonias**: un cuenco lleno, una mirada atenta… y un gato que deja de sentirse solo.
+- **Transporte solidario**: un trayecto corto para ti, un paso gigante para su recuperación.
+- **Eventos**: cada sonrisa que recibes es una caricia que ellos no olvidan.
+- **Talento profesional**: lo que tú sabes hacer puede convertirse en refugio.
 
-### 💌 Donaciones puntuales
-¿Prefieres hacer una aportación única?  
-También puedes hacerlo por Bizum, transferencia o PayPal.  
-**Cada euro suma, cada gesto importa.**
+Si alguna vez has sentido que querías ayudar “de alguna manera”, esta es.  
+

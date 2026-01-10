@@ -39,7 +39,7 @@ Un espacio donde podrás:
   <!-- Mary Jane -->
   <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
     <img src="/img/cats/MaryJane.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
-    <strong>Maru Jane</strong><br>
+    <strong>Mary Jane</strong><br>
     <em>La Dulzura en Miniatura</em><br>
     Cariñosa, equilibrada y adaptable.
   </div>

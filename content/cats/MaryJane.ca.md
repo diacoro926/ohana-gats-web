@@ -1,7 +1,7 @@
 ---
-title: "Bigotis"
+title: "Mary Jane"
 type: "cats"
-image: "/img/cats/cat1.png"
+image: "/img/cats/MaryJane_2.JPG"
 age: 2 anys
 gender: "mascle"
 summary: "Un gat juganer que adora perseguir plomes."

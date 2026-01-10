@@ -1,7 +1,7 @@
 ---
 title: "Carlitos"
 type: "cats"
-image: "/img/cats/Carlitos.png"
+image: "/img/cats/Carlitos.JPG"
 age: 1 año
 gender: "🐱♂ Macho"
 summary: " Carlitos: el valiente que aprendió a confiar"

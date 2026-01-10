@@ -20,3 +20,6 @@
 
 - id: contact_link
   translation: "Contacta'ns"
+
+- id: label_adopted
+  translation: "RESERVAT"  

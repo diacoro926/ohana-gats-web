@@ -21,3 +21,6 @@
 
 - id: contact_link
   translation: "Contáctanos"
+
+- id: label_adopted
+  translation: "RESERVADO"

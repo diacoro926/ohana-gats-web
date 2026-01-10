@@ -6,6 +6,13 @@
     <div class="col-lg-8 col-md-10">
       <div class="cat-detail-card content-box text-center">
 
+
+  {{ if .Params.adopted }}
+    <div class="adopted-watermark adopted-detail">
+      {{ i18n "label_adopted" }}
+    </div>
+  {{ end }}
+
         <!-- Big image -->
         {{ with .Params.image }}
           <img class="cat-detail-img mb-4" src="{{ . | relURL }}" alt="{{ $.Title }}">

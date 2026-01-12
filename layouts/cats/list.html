@@ -36,6 +36,11 @@
     {{ range .Pages }}
       {{ $page := . }}
       <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
+         {{ if $page.Params.adopted }}
+          <div class="adopted-watermark">
+              {{ i18n "label_adopted" }}
+          </div>
+        {{ end }}
         <div class="cat-card text-center p-3">
           {{ with $page.Params.image }}
             <a href="{{ $page.RelPermalink }}">

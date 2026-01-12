@@ -300,4 +300,46 @@ text-decoration: none;
 .my-link:hover {
   color: #000000; /* hover color */
 }
+
+/* === Adopted Watermark === */
+
+/* Ensure cards can host absolute-positioned watermark */
+.cat-card,
+.cat-detail-card {
+  position: relative;
+}
+
+/* Default watermark (list view) */
+.adopted-watermark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-20deg);
+  font-size: 2.2rem;
+  font-weight: 900;
+  color: rgba(177, 76, 117, 0.70);
+  text-transform: uppercase;
+  pointer-events: none;
+  z-index: 10;
+  white-space: nowrap;
+}
+
+/* Single cat page: bigger & stronger */
+.cat-detail-card .adopted-watermark,
+.adopted-detail {
+  font-size: 4rem;
+  color: rgba(177, 76, 117, 0.70); 
+}
+
+/* Responsive adjustments */
+@media (max-width: 575px) {
+  .adopted-watermark {
+    font-size: 1.8rem;
+  }
+  .cat-detail-card .adopted-watermark,
+  .adopted-detail {
+    font-size: 2.6rem;
+  }
+}
+
 </style>

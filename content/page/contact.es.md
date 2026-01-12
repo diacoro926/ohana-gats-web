@@ -4,11 +4,12 @@ subtitle: ¡Escríbenos!
 comments: false
 ---
 
-¿Quieres ronronear con nosotros?  
-Solo rellena el formulario y tu humano-mail se abrirá solito. ¡Fácil como un salto al sofá! 🐾
+¿Quieres ponerte en contacto con nosotros?  
+Completa el formulario y tu humano‑mail se abrirá automáticamente. A veces, una nueva historia empieza con un gesto sencillo 🐾
 
-Antes de escribirnos, por favor cuéntanos un poco sobre ti y tu hogar.  
-Esto nos ayuda a velar por el bienestar de nuestros gatitos 💛
+Antes de escribirnos, cuéntanos un poco sobre ti y sobre el hogar que imaginas para uno de nuestros gatitos.  
+Conocer tu entorno y tus expectativas nos ayuda a asegurarnos de que cada pequeño encuentre un lugar donde crecer, sentirse protegido y formar un vínculo para toda la vida 💛
+
 
 ---
 
@@ -18,30 +19,20 @@ Esto nos ayuda a velar por el bienestar de nuestros gatitos 💛
     labelName="Nombre"
     labelEmail="Correo electrónico"
     labelMessage="Mensaje"
-    defaultMessage=`
+    defaultMessage=` 
+👉 POR FAVOR COMPLETA LA INFORMACION A CONTINUACIÓN. 
+
+Nos ayudará a conocer mejor tu hogar y asegurarnos de que nuestro gatito encuentre un lugar seguro, estable y lleno de cariño💛 
+
+📞 Teléfono de contacto: 
+🏙️ Ciudad: 
+
+🐾 ¿Tienes otros animales en casa? Si es así, ¿han convivido con gatos? 
+✨ ¿Qué te ha llamado la atención para preguntarnos por este gatito? 
+💛 ¿Qué valoras en un gato? (temperamento, energía, independencia, compañía…) 
+🏡 ¿Tienes protecciones en la vivienda? (ventanas, balcones o espacios con redes de seguridad) 
+🌱 Si algún día te ocurriese algo, ¿quién podría hacerse cargo del gato?    
     
-    
-    
-
-Por favor completa la información a continuación:
-
-
-
-Teléfono de contacto:
-Ciudad:
-
-¿Tienes otros animales en casa?
-
-En caso afirmativo, ¿han convivido con gatos?
-
-¿Qué te ha llamado la atención para preguntarnos por nuestro gatito?
-
-¿Qué valoras en un gato?
-
-
-¿Tienes protecciones en la vivienda? (ventanas, balcones, etc. con redes)
-
-Si te ocurriese algo, ¿quién se haría cargo del gato?
 `
     buttonText="Enviar"
 >}}

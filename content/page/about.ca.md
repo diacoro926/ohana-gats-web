@@ -4,21 +4,19 @@ subtitle: Tot va començar amb un transportí… i una promesa
 comments: false
 ---
 
- ## 🐾 **Tot va començar amb un transportí…**
+ ## 🐾 **Així va néixer la nostra família**
+---
 
+Tot va començar amb una cosa tan senzilla com un transportí i amb molt poques persones intentant ajudar com podien.
 
- Som voluntàries, i després d’anys als carrers del Prat hem après que un transportí pot canviar una vida. No és bonic ni heroic: és el que tenim per treure un gat del fred, de la fam i de la 
+Durant anys, als carrers del Prat, vam aprendre que, de vegades, un gest petit —com obrir un transportí amb cura— pot canviar la vida d’un gat.
 
-N’hem vist molts: gats que s’encongeixen, que miolen sense entendre, que només miren en silenci. I tot i així, cadascun ens recorda per què seguim. Amb menjar pagat de la nostra butxaca, hores robades al descans i més cansament del que admetem, fem el que podem perquè no sabem mirar cap a una altra banda.
+No hi havia grans mitjans ni grans plans. Només la voluntat d’oferir escalfor quan feia fred, menjar quan no n’hi havia i companyia quan ningú més hi era.
+I, a poc a poc, aquest amor pels gats va començar a moure més gent: persones totalment diferents entre elles, de llocs, cultures i nacionalitats diverses, unides per un mateix sentiment.
 
-Un dia, en tancar un transportí amb cura, vam entendre que necessitàvem alguna cosa més gran que nosaltres. Alguna cosa que unís esforços i donés estabilitat a tota aquesta feina que fa anys que sostenim.
+Amb el temps, vam entendre que necessitàvem alguna cosa més estable, alguna cosa que reunís totes aquestes mans i cors que s’havien anat sumant.
 
-Per això, al **gener de 2026**, neix **OHANA**. 
-Per organitzar-nos, per arribar més lluny, perquè cap gat depengui només de la sort.
-
-Gràcies per ser aquí. 
-Gràcies per mirar on altres no miren. 
-Gràcies per creure que junts podem canviar alguna cosa.
+Així va néixer **OHANA**: com una manera d’organitzar-nos millor, d’arribar més lluny i d’assegurar-nos que cap gat depengui únicament de la sort.
 
 ---
 <!-- Bloque quienes formamos OHANA-->

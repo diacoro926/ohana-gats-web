@@ -4,20 +4,19 @@ subtitle: Todo empezó con un transportín… y una promesa de amor
 comments: false
 ---
 
-## 🐾 **Todo comenzó con un transportín…**
+## 🐾 **Así nació nuestra familia**
+---
 
-Somos voluntarias, y después de años en las calles de El Prat hemos aprendido que un transportín puede cambiar una vida. No es bonito ni heroico: es lo que tenemos para sacar a un gato del frío, del hambre y de la indiferencia.
+Todo empezó con algo tan sencillo como un transportín y con muy pocas personas intentando ayudar como podían.
 
-Hemos visto muchos: gatos que se encogen, que maúllan sin entender, que solo miran en silencio. Y aun así, cada uno nos recuerda por qué seguimos. Con comida pagada de nuestro bolsillo, horas robadas al descanso y más cansancio del que admitimos, hacemos lo que podemos porque no sabemos mirar hacia otro lado.
+Durante años, en las calles de El Prat, aprendimos que a veces un gesto pequeño —como abrir un transportín con cuidado— puede cambiar la vida de un gato.
 
-Un día, al cerrar un transportín con cuidado, entendimos que necesitábamos algo más grande que nosotras. Algo que uniera esfuerzos y diera estabilidad a todo este trabajo que llevamos años sosteniendo.
+No había grandes medios ni grandes planes. Solo la voluntad de ofrecer calor cuando hacía frío, comida cuando no la había y compañía cuando nadie más estaba allí.
+Y, poco a poco, ese amor por los gatos empezó a mover a más gente: personas totalmente diferentes entre sí, de distintos lugares, culturas y nacionalidades, unidas por un mismo sentimiento.
 
-Por eso, en **Enero de 2026**, nace **OHANA**.  
-Para organizarnos, para llegar más lejos, para que ningún gato dependa solo de la suerte.
+Con el tiempo, entendimos que necesitábamos algo más estable, algo que reuniera todas esas manos y corazones que se habían ido sumando.
 
-Gracias por estar aquí.  
-Gracias por mirar donde otros no miran.  
-Gracias por creer que juntos podemos cambiar algo.
+Así nació **OHANA**: como una forma de organizarnos mejor, de llegar más lejos y de asegurarnos de que ningún gato dependa únicamente de la suerte.
 
 ---
 <!-- Bloque quienes formamos OHANA-->

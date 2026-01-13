@@ -13,7 +13,7 @@ subtitle: "Conoce a la familia OHANA: bigotes curiosos, patitas valientes y cora
 
 
   <!-- Banner -->
-  <img src="/img/cats/BannerAdopta.png" alt="Banner con gatitos adorables para adopción" 
+  <img src="/img/cats/BannerAdoptaES.png" alt="Banner con gatitos adorables para adopción" 
        style="width:100vw; max-width:100%; height:auto; display:block; margin:0 auto; border-radius: 0 0 20px 20px;" loading="lazy" />
 
 
@@ -81,7 +81,5 @@ Porque cuando un gato OHANA te elige… no es casualidad. Es destino con patitas
 ## Bonus
 > **Mirarnos puede provocar suspiros 💕, enamoramientos repentinos 😍 y ganas de adoptar 🏡.**  
 > Prepárate para sentir cosas que no sabías que un bigote podía despertar.
-
 ---
-
 </section>

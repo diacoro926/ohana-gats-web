@@ -10,7 +10,7 @@ layout: "home"
 
 
 
-<img src="/img/home/PortadaOhanaDante.png" alt="Portada Ohana" style="width:100%; max-width:660px; border-radius:12px; float:left; margin-right:20px;" />
+<img src="/img/home/PortadaOhanaCA.png" alt="Portada Ohana" style="width:100%; max-width:660px; border-radius:12px; float:left; margin-right:20px;" />
 
 <br>
 <br>

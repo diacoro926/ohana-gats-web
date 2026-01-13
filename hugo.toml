@@ -31,7 +31,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params.author]
   facebook = "username"
   instagram = "adopta.gats.prat/"
-  tiktok = "username"
+  tiktok = "adopta.gats.prat"
   Teaming = "adoptagatsprat/"
 
 # --------------------
@@ -41,7 +41,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [languages.es]
   weight = 1
-  title = "PotetaBlava"
+  title = "Ohana"
   languageName = "Español"
 
   [[languages.es.menu.main]]
@@ -71,7 +71,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [languages.ca]
   weight = 2
-  title = "PotetaBlava"
+  title = "Ohana"
   languageName = "Català"
 
   [[languages.ca.menu.main]]
@@ -80,7 +80,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
   [[languages.ca.menu.main]]
-    name = "Adoptame"
+    name = "Adopta’m"
     url = "/cats/"
     weight = 2
 
@@ -90,7 +90,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
  [[languages.ca.menu.main]]
-    name = "Helpus"
+    name = "Ajuda’ns"
     url = "/page/helpus/"
     weight = 4
  [[languages.ca.menu.main]]

@@ -6,9 +6,9 @@ comments: false
 
  ## 🐾 **Així va néixer la nostra família**
 ---
+<img src="/img/Otras/Ohana.png" alt="Portada Ohana" style="width:100%; max-width:600px; border-radius:10px; float:left; margin-right:18px;" />
 
 Tot va començar amb una cosa tan senzilla com un transportí i amb molt poques persones intentant ajudar com podien.
-
 Durant anys, als carrers del Prat, vam aprendre que, de vegades, un gest petit —com obrir un transportí amb cura— pot canviar la vida d’un gat.
 
 No hi havia grans mitjans ni grans plans. Només la voluntat d’oferir escalfor quan feia fred, menjar quan no n’hi havia i companyia quan ningú més hi era.
@@ -23,13 +23,17 @@ Així va néixer **OHANA**: com una manera d’organitzar-nos millor, d’arriba
 <div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
  💌 <strong>Qui formem OHANA</strong>
 </div>
+<img src="/img/Otras/OhanaVoluntariado.png" alt="Ohana voluntariado" style="width:50%; max-width:400px; border-radius:10px; float:right; margin-left:10px;" />
 
 A OHANA no parlem només de voluntariat: parlem de família. Una família que no s’uneix per sang, sinó per valors, per propòsit i per amor.  
+
 Persones diferents, amb vides diferents, però unides per una cosa que travessa cadascuna:  
+
 **La certesa que cap vida mereix passar fred, por o fam.**
 
 Aquí comença la nostra història.  
 La història de qui sosté allò invisible.
+<div style="height:100px;"></div>
 
 ---
 <!-- Bloque Lo que significa OHANA-->

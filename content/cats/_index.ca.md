@@ -13,7 +13,7 @@ subtitle: "Coneix la família OHANA: bigotis curiosos, patetes valentes i cors q
 
 
   <!-- Banner -->
-  <img src="/img/cats/BannerAdopta.png" alt="Banner amb gatets adorables per a adopció" 
+  <img src="/img/cats/BannerAdoptaCA.png" alt="Banner amb gatets adorables per a adopció" 
        style="width:100vw; max-width:100%; height:auto; display:block; margin:0 auto; border-radius: 0 0 20px 20px;" loading="lazy" />
 
 
@@ -80,7 +80,5 @@ Perquè quan un gat OHANA et tria… no és casualitat. És destí amb patetes.
 ## Bonus
 > **Mirar-nos pot provocar sospirs 💕, enamoraments sobtats 😍 i ganes d’adoptar 🏡.**  
 > Prepara’t per sentir coses que no sabies que un bigoti podia despertar.
-
 ---
-
 </section>

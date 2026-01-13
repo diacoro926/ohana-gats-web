@@ -6,9 +6,9 @@ comments: false
 
 ## 🐾 **Así nació nuestra familia**
 ---
+<img src="/img/Otras/Ohana.png" alt="Portada Ohana" style="width:100%; max-width:600px; border-radius:10px; float:left; margin-right:18px;" />
 
 Todo empezó con algo tan sencillo como un transportín y con muy pocas personas intentando ayudar como podían.
-
 Durante años, en las calles de El Prat, aprendimos que a veces un gesto pequeño —como abrir un transportín con cuidado— puede cambiar la vida de un gato.
 
 No había grandes medios ni grandes planes. Solo la voluntad de ofrecer calor cuando hacía frío, comida cuando no la había y compañía cuando nadie más estaba allí.
@@ -24,12 +24,20 @@ Así nació **OHANA**: como una forma de organizarnos mejor, de llegar más lejo
  💌 <strong>Quienes formamos OHANA</strong>
 </div>
 
+<img src="/img/Otras/OhanaVoluntariado.png" alt="Portada Ohana" 
+     style="width:50%; max-width:400px; border-radius:10px; float:right; margin-left:10px;" />
+
+
 En OHANA no hablamos solo de voluntariado: hablamos de familia. Una familia que no se une por sangre, sino por valores, por propósito y por amor.  
+
 Personas distintas, con vidas distintas, pero unidas por algo que atraviesa a cada una:  
+
 **La certeza de que ninguna vida merece pasar frío, miedo o hambre.**
 
 Aquí empieza nuestra historia.  
 La historia de quienes sostienen lo invisible.
+
+<div style="height:100px;"></div>
 
 ---
 <!-- Bloque Lo que significa OHANA-->

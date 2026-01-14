@@ -29,10 +29,10 @@ pygmentsCodefencesGuessSyntax = true
   hideAuthor = true
 
 [Params.author]
-  facebook = "username"
   instagram = "adopta.gats.prat/"
   tiktok = "adopta.gats.prat"
   Teaming = "adoptagatsprat/"
+  email = "info@tuasociaciongatuna.org"
 
 # --------------------
 # Languages

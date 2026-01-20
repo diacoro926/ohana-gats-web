@@ -5,7 +5,7 @@ image: "/img/cats/Carlitos.JPG"
 age: 1 año
 gender: "🐱♂ Macho"
 summary: " Carlitos: el valiente que aprendió a confiar"
-adopted: true
+adopted: false
 ---
 
 Carlitos fue rescatado en **enero de 2025**, temblando y escondido en su pequeña cueva, como si el mundo fuera demasiado grande para él.  

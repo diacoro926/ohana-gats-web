@@ -5,7 +5,7 @@ image: "/img/cats/MaryJane_2.JPG"
 age: Aproximadamente 1 año
 gender: "🐱♀ Hembra"
 summary: "Mary Jane: la heroína que aún espera a su Spider-Man"
-adopted: false
+adopted: true
 ---
 Rescatada junto a sus hermanos Peter Parker y Tía May, Mary Jane es parte de una camada con nombre de leyenda. Pero mientras ellos ya encontraron su final feliz, ella sigue esperando… como en las mejores historias, donde la verdadera heroína florece poco a poco.
 

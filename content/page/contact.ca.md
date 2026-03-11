@@ -13,7 +13,7 @@ comments: false
 ---
 
 {{< contact-form
-    recipient="info@tuasociaciongatuna.org"
+    recipient="Ohanagatspray@gmail.com"
     subjectPrefix="Contacto desde la web"
     labelName="Nombre"
     labelEmail="Correo electrónico"

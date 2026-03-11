@@ -14,7 +14,7 @@ Conocer tu entorno y tus expectativas nos ayuda a asegurarnos de que cada peque√
 ---
 
 {{< contact-form
-    recipient="info@tuasociaciongatuna.org"
+    recipient="Ohanagatsprat@gmail.com"
     subjectPrefix="Contacto desde la web"
     labelName="Nombre"
     labelEmail="Correo electr√≥nico"

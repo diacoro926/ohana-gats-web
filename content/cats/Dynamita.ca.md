@@ -1,7 +1,7 @@
 ---
 title: "Dynamita"
 type: "cats"
-image: "/img/cats/Dinamita.JPG"
+image: "img/cats/Dinamita.JPG"
 age: 1 any
 gender: "🐱♀ Femella"
 summary: "Dinamita: La dolçor silenciosa que espera el seu moment"

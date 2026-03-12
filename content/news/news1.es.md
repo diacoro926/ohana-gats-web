@@ -30,7 +30,7 @@ Un espacio donde podrás:
 
   <!-- CARLITOS -->
   <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
-    <img src="/img/cats/Carlitos.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    <img src="img/cats/Carlitos.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
     <strong>Carlitos</strong><br>
     <em>El Romántico Prudente</em><br>
     Calmado, observador y con un corazón enorme.
@@ -38,7 +38,7 @@ Un espacio donde podrás:
 
   <!-- Mary Jane -->
   <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
-    <img src="/img/cats/MaryJane.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    <img src="img/cats/MaryJane.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
     <strong>Mary Jane</strong><br>
     <em>La Dulzura en Miniatura</em><br>
     Cariñosa, equilibrada y adaptable.

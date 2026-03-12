@@ -28,7 +28,7 @@ Un espai on podràs:
 
   <!-- CARLITOS -->
   <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
-    <img src="/img/cats/Carlitos.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    <img src="img/cats/Carlitos.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
     <strong>Carlitos</strong><br>
     <em>El Romàntic Prudent/em><br>
     Calmat, observador i amb un cor enorme.
@@ -36,7 +36,7 @@ Un espai on podràs:
 
   <!-- Mary Jane -->
   <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
-    <img src="/img/cats/MaryJane.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    <img src="img/cats/MaryJane.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
     <strong>Mary Jane</strong><br>
     <em>La Dolçor en Miniatura</em><br>
     Afectuosa, equilibrada i adaptable.

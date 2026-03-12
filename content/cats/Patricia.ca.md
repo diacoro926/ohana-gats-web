@@ -1,7 +1,7 @@
 ---
 title: "Patricia"
 type: "cats"
-image: "/img/cats/Patricia.JPG"
+image: "img/cats/Patricia.JPG"
 age: 1 año
 gender: "🐱♂ Macho"
 summary: "Tigrito: El rey del churu y de los juegos"

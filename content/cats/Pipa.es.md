@@ -1,7 +1,7 @@
 ---
 title: "Pipa"
 type: "cats"
-image: "/img/cats/Pipa.JPG"
+image: "img/cats/Pipa.JPG"
 age: 1 año
 gender: "🐱♂ Hembra"
 summary: "Boira: "

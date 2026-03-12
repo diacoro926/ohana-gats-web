@@ -15,7 +15,7 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 
 <!-- Bastidores solidarios -->
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="/img/TiendaSolidaria/Bastidor.jpeg" width="200" style="flex-shrink: 0;" />
+  <img src="img/TiendaSolidaria/Bastidor.jpeg" width="200" style="flex-shrink: 0;" />
   <div>
     <strong>Bastidores de bordado</strong><br>
     Un pequeño círculo que guarda grandes creaciones.
@@ -24,7 +24,7 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 
 <!-- TOTE BAGS -->
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="/img/TiendaSolidaria/ToteBag.jpeg" width="200" style="flex-shrink: 0;" />
+  <img src="img/TiendaSolidaria/ToteBag.jpeg" width="200" style="flex-shrink: 0;" />
   <div>
     <strong>DemoCat Tote bag</strong><br>
     para que cargues tus cosas… y mis snacks
@@ -33,7 +33,7 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 
 <!-- AGUMIS -->
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="/img/TiendaSolidaria/Amigurumi.jpeg" width="200" style="flex-shrink: 0;" />
+  <img src="img/TiendaSolidaria/Amigurumi.jpeg" width="200" style="flex-shrink: 0;" />
   <div>
     <strong>Agumis hechos a mano</strong><br>
     Criaturas blanditas tejidas bajo mi supervisión
@@ -42,7 +42,7 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 
 <!-- PRINTS -->
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="/img/TiendaSolidaria/Amigurumi.jpeg" width="200" style="flex-shrink: 0;" />
+  <img src="img/TiendaSolidaria/Amigurumi.jpeg" width="200" style="flex-shrink: 0;" />
   <div>
     <strong>Prints e ilustraciones</strong><br>
     tan monas que casi me hacen competencia

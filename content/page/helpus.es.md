@@ -12,7 +12,7 @@ Cada ronroneo que escuchamos, cada mirada que se atreve a confiar, cada patita q
 Nuestra asociación rescata, cuida y acompaña a gatos que han vivido el abandono, el miedo y la indiferencia.  
 Aquí, cada uno tiene nombre, historia y una segunda oportunidad.   *Pero no podemos hacerlo solos*
 
-<img src="/img/Otras/AyudanosES.png" alt="Ayudanos" style="width:60%" />
+<img src="img/Otras/AyudanosES.png" alt="Ayudanos" style="width:60%" />
 
 ---
 
@@ -23,7 +23,7 @@ Aquí, cada uno tiene nombre, historia y una segunda oportunidad.   *Pero no pod
 <br>
 
 #### 🛒 Wishlist de Amazon
-<img src="/img/Otras/Amazon.jpeg" alt="Amazon-donaciones" 
+<img src="img/Otras/Amazon.jpeg" alt="Amazon-donaciones" 
      style="width:250px; float:left; margin-right:20px; border-radius:12px;" />
 
 ¿Quieres ayudarnos con lo que más necesitamos?  
@@ -34,7 +34,7 @@ Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishl
 
 ---
 <div style="float:right; margin-left:15px; width:500px;">
-  <img src="/img/Otras/TeamingDiana.png" alt="Teaming-donaciones" style="width:100%;" />
+  <img src="img/Otras/TeamingDiana.png" alt="Teaming-donaciones" style="width:100%;" />
 </div>
 
 #### 🤝 Teaming: 1€ al mes que cambia vidas

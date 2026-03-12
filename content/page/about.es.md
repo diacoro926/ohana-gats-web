@@ -24,7 +24,7 @@ Así nació **OHANA**: como una forma de organizarnos mejor, de llegar más lejo
  💌 <strong>Quienes formamos OHANA</strong>
 </div>
 
-{{< img src="img/Otras/OhanaVoluntariado.png" alt="Ohana" voluntariado" style="width:50%; max-width:400px; border-radius:10px; float:right; margin-left:10px;" >}}
+{{< img src="img/Otras/OhanaVoluntariado.png" alt="Ohana voluntariado" style="width:50%; max-width:400px; border-radius:10px; float:right; margin-left:10px;" >}}
 
 En OHANA no hablamos solo de voluntariado: hablamos de familia. Una familia que no se une por sangre, sino por valores, por propósito y por amor.  
 

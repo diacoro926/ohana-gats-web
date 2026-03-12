@@ -24,7 +24,7 @@ Aquí, cada uno tiene nombre, historia y una segunda oportunidad. *Pero no podem
 <br>
 
 #### 🛒 Wishlist de Amazon
-<img src="/img/Otras/Amazon.jpeg" alt="Amazon-donaciones" 
+<img src="{{ "/img/Otras/Amazon.jpeg" | relURL }}" alt="Amazon-donaciones" 
      style="width:250px; float:left; margin-right:20px; border-radius:12px;" />
 
 ¿Quieres ayudarnos con lo que más necesitamos?  

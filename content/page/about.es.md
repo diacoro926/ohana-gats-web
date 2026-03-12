@@ -6,7 +6,7 @@ comments: false
 
 ## 🐾 **Así nació nuestra familia**
 ---
-<img src="/img/Otras/Ohana.png" alt="Ohana" style="width:100%; max-width:600px; border-radius:10px; float:left; margin-right:18px;" />
+{{< img src="img/Otras/Ohana.png" alt="Ohana" style="width:100%; max-width:600px; border-radius:10px; float:left; margin-right:18px;" >}}
 
 Todo empezó con algo tan sencillo como un transportín y con muy pocas personas intentando ayudar como podían.
 Durante años, en las calles de El Prat, aprendimos que a veces un gesto pequeño —como abrir un transportín con cuidado— puede cambiar la vida de un gato.
@@ -24,8 +24,7 @@ Así nació **OHANA**: como una forma de organizarnos mejor, de llegar más lejo
  💌 <strong>Quienes formamos OHANA</strong>
 </div>
 
-<img src="/img/Otras/OhanaVoluntariado.png" alt="Ohana voluntariado" style="width:50%; max-width:400px; border-radius:10px; float:right; margin-left:10px;" />
-
+{{< img src="img/Otras/OhanaVoluntariado.png" alt="Ohana" voluntariado" style="width:50%; max-width:400px; border-radius:10px; float:right; margin-left:10px;" >}}
 
 En OHANA no hablamos solo de voluntariado: hablamos de familia. Una familia que no se une por sangre, sino por valores, por propósito y por amor.  
 
@@ -44,8 +43,7 @@ La historia de quienes sostienen lo invisible.
  💌 <strong>Lo que significa OHANA para quienes formamos parte</strong>
 </div>
 
-<img src="/img/Ohana.png" alt="Ohana voluntariado" style="width:50%; max-width:400px; border-radius:10px; float:left; margin-left:10px;" />
-
+{{< img src="img/Ohana.png" alt="Ohana voluntariado" style="width:50%; max-width:400px; border-radius:10px; float:left; margin-left:10px;" >}}
 Para quienes formamos OHANA, esta palabra significa **FAMILIA**.  
 La que se encuentra por el camino, la que abraza sin juicios, la que sostiene cuando hay dudas. Es hogar, confianza, conexión profunda.  
 Es sentir que se está en el lugar adecuado, con las personas adecuadas, haciendo algo que llena el alma.

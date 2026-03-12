@@ -12,7 +12,7 @@ Cada ronroneig que escoltem, cada mirada que s’atreveix a confiar, cada pateta
 La nostra associació rescata, cuida i acompanya gats que han viscut l’abandonament, la por i la indiferència.  
 Aquí, cadascun té nom, història i una segona oportunitat. *Però no ho podem fer sols.*
 
-<img src="../img/Otras/Ayudanosca.png" alt="Ajuda'ns" style="width:60%" />
+{{< img src="img/Otras/Ayudanosca.png" alt=""Ajuda'ns" style="width:60%" >}}
 
 ---
 
@@ -23,8 +23,12 @@ Aquí, cadascun té nom, història i una segona oportunitat. *Però no ho podem 
 <br>
 
 #### 🛒 Wishlist d’Amazon
-<img src="../img/Otras/Amazon.jpeg" alt="Amazon-donacions" 
-     style="width:250px; float:left; margin-right:20px; border-radius:12px;" />
+
+{{< img 
+    src="img/Otras/Amazon.jpeg" 
+    alt="Amazon-donacions" 
+    style="width:180px; float:left; margin-right:20px; border-radius:12px;" 
+>}}     
 
 Vols ajudar-nos amb allò que més necessitem?  
 Des d’arena fins a llaunetes, joguines i mantes… cada article de la nostra [wishlist](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share&fbclid=PAb21jcAOGcudleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcIY2FsbHNpdGUCMTUAAac29xLqcYxi2uETKIhBcs0J8n0AP8RiucND90w7x-JGZs92E8P0iF6XYQfnaw_aem_xQgJXqUfcNC0GxdbW-LE6g) és una carícia directa per als nostres gats.  
@@ -34,7 +38,7 @@ Des d’arena fins a llaunetes, joguines i mantes… cada article de la nostra [
 
 ---
 <div style="float:right; margin-left:15px; width:500px;">
-  <img src="../img/Otras/TeamingDiana.png" alt="Teaming-donacions" style="width:100%;" />
+  {{< img src="img/Otras/TeamingDiana.png" alt="Teaming-donacions" style="width:100%" >}}
 </div>
 
 #### 🤝 Teaming: 1€ al mes que canvia vides

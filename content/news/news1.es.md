@@ -4,6 +4,7 @@ date: 2026-01-01
 type: "news"
 summary: "¿Preparada para la cita más caótica, adorable y peluda de tu vida?  Conoce a varios michis en citas rápidas llenas de encanto, drama y ronroneos estratégicos."
 ---
+
 ### 🎉 **Speed Dating Felino — Evento Presencial en OHANA**  
 Porque encontrar el amor… o al menos una buena siesta compartida, también es cosa de gatos.
 
@@ -22,15 +23,13 @@ Un espacio donde podrás:
 
 ---
 
----
-
 ### 🌟 **Concursantes Destacados**
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px;">
 
   <!-- CARLITOS -->
   <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
-    <img src="img/cats/Carlitos.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    {{< img src="img/cats/Carlitos.png" alt="Carlitos - El Romántico Prudente" style="width:100%; border-radius:12px; margin-bottom:12px;" >}}
     <strong>Carlitos</strong><br>
     <em>El Romántico Prudente</em><br>
     Calmado, observador y con un corazón enorme.
@@ -38,7 +37,7 @@ Un espacio donde podrás:
 
   <!-- Mary Jane -->
   <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
-    <img src="img/cats/MaryJane.png" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    {{< img src="img/cats/MaryJane.png" alt="Mary Jane - La Dulzura en Miniatura" style="width:100%; border-radius:12px; margin-bottom:12px;" >}}
     <strong>Mary Jane</strong><br>
     <em>La Dulzura en Miniatura</em><br>
     Cariñosa, equilibrada y adaptable.
@@ -46,7 +45,7 @@ Un espacio donde podrás:
 
   <!-- Tigrito -->
   <div style="border: 1px solid #ddd; padding: 16px; border-radius: 12px; background: #fafafa;">
-    <img src="/img/cats/Tigrito.jpeg" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+    {{< img src="img/cats/Tigrito.jpeg" alt="Tigrito - El Aventurero Profesional" style="width:100%; border-radius:12px; margin-bottom:12px;" >}}
     <strong>Tigrito</strong><br>
     <em>El Aventurero Profesional</em><br>
     Curioso, activo y siempre listo para explorar.
@@ -80,4 +79,3 @@ Las visitas son individuales para garantizar un ambiente tranquilo.
 ### 💞 **¿Por qué lo hacemos?**  
 Porque cada gato merece mostrarse tal como es.  
 Y porque tú mereces conocerlos de una forma cercana, honesta y llena de magia.
-

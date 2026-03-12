@@ -24,9 +24,7 @@ Aquí, cada uno tiene nombre, historia y una segunda oportunidad. *Pero no podem
 <br>
 
 #### 🛒 Wishlist de Amazon
-<img src="{{ "/img/Otras/Amazon.jpeg" | relURL }}" alt="Amazon-donaciones" 
-     style="width:250px; float:left; margin-right:20px; border-radius:12px;" />
-
+<img src='{{ "/img/Otras/Amazon.jpeg" | relURL }}' alt="Amazon-donaciones" style="width:250px; float:left; margin-right:20px; border-radius:12px;" />
 ¿Quieres ayudarnos con lo que más necesitamos?  
 Desde arena hasta latitas, juguetes y mantas… cada artículo de nuestra [wishlist](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share) es una caricia directa para nuestros gatos.  
 **¡Tú eliges qué regalarles!**

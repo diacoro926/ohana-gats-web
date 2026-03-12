@@ -12,7 +12,7 @@ Cada ronroneig que escoltem, cada mirada que s’atreveix a confiar, cada pateta
 La nostra associació rescata, cuida i acompanya gats que han viscut l’abandonament, la por i la indiferència.  
 Aquí, cadascun té nom, història i una segona oportunitat. *Però no ho podem fer sols.*
 
-{{< img src="img/Otras/Ayudanosca.png" alt=""Ajuda'ns" style="width:60%" >}}
+{{< img src="img/Otras/Ayudanosca.png" alt="Ajuda'ns" style="width:60%" >}}
 
 ---
 

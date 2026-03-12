@@ -1,8 +1,8 @@
-baseurl = "https://diacoro926.github.io/ohana-gats-web"
-title = "PotetaBlava"
+baseURL = "https://diacoro926.github.io/ohana-gats-web/"
+title = "Ohana"
 theme = "beautifulhugo"
 
-DefaultContentLanguage = "es"
+defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 enableEmoji = true
 
@@ -25,7 +25,7 @@ pygmentsCodefencesGuessSyntax = true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
-  since = 2024 
+  since = 2024
   hideAuthor = true
 
 [Params.author]
@@ -37,6 +37,7 @@ pygmentsCodefencesGuessSyntax = true
 # --------------------
 # Languages
 # --------------------
+
 [languages]
 
 [languages.es]
@@ -46,28 +47,29 @@ pygmentsCodefencesGuessSyntax = true
 
   [[languages.es.menu.main]]
     name = "Inicio"
-    url = "/"
+    url = ""
     weight = 1
 
   [[languages.es.menu.main]]
     name = "Adoptame"
-    url = "/cats/"
+    url = "cats/"
     weight = 2
 
   [[languages.es.menu.main]]
     name = "Acerca de"
-    url = "/page/about/"
+    url = "page/about/"
     weight = 3
 
   [[languages.es.menu.main]]
     name = "Ayudanos"
-    url = "/page/helpus/"
+    url = "page/helpus/"
     weight = 4
 
   [[languages.es.menu.main]]
     name = "Contacto"
-    url = "/page/contact/"
+    url = "page/contact/"
     weight = 5
+
 
 [languages.ca]
   weight = 2
@@ -76,30 +78,31 @@ pygmentsCodefencesGuessSyntax = true
 
   [[languages.ca.menu.main]]
     name = "Inici"
-    url = "/"
+    url = ""
     weight = 1
 
   [[languages.ca.menu.main]]
     name = "Adopta’m"
-    url = "/cats/"
+    url = "cats/"
     weight = 2
 
   [[languages.ca.menu.main]]
     name = "Sobre nosaltres"
-    url = "/page/about/"
+    url = "page/about/"
     weight = 3
 
- [[languages.ca.menu.main]]
+  [[languages.ca.menu.main]]
     name = "Ajuda’ns"
-    url = "/page/helpus/"
+    url = "page/helpus/"
     weight = 4
- [[languages.ca.menu.main]]
+
+  [[languages.ca.menu.main]]
     name = "Contacte"
-    url = "/page/contact/"
-    weight = 5   
+    url = "page/contact/"
+    weight = 5
 
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true    
+      unsafe = true

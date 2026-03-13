@@ -1,1 +1,1 @@
-<img src="{{ .Get "src" | relURL }}" alt="{{ .Get "alt" }}" style="{{ .Get "style" }}">
+<img src="{{ .Get "src" | relURL }}" alt="{{ .Get "alt" }}" style="{{ .Get "style" | safeCSS }}">

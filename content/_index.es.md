@@ -9,7 +9,7 @@ layout: "home"
 </div>
 
 
-{{< img src="img/home/PortadaOhanaES.png" alt="Portada Ohana" style="width:100%; max-width:660px; border-radius:12px; float:left; margin-right:20px;" >}}
+{{< img src="img/home/PortadaOhanaDante.png" alt="Portada Ohana" style="width:100%; max-width:660px; border-radius:12px; float:left; margin-right:20px;" >}}
 
 Detrás de cada mirada felina hay una vida que merece amor, cuidado y un hogar donde dormir sin miedo.
 

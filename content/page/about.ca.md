@@ -6,8 +6,7 @@ comments: false
 
 ## 🐾 **Així va néixer la nostra família**
 ---
-<img src="/img/Otras/Ohana.png" alt="Ohana" style="width:100%; max-width:600px; border-radius:10px; float:left; margin-right:18px;" />
-
+{{< img src="img/Otras/Ohana.png" alt="Ohana" style="width:100%; max-width:600px; border-radius:10px; float:left; margin-right:18px;" >}}
 Tot va començar amb una cosa tan senzilla com un transportí i amb molt poques persones intentant ajudar com podien.
 Durant anys, als carrers del Prat, vam aprendre que a vegades un gest petit —com obrir un transportí amb cura— pot canviar la vida d’un gat.
 
@@ -108,4 +107,4 @@ Som qui estima sense pressa, sense condicions, sense descans.
 Som llar per a qui mai no n’ha tingut. Som OHANA. 
 **I AQUÍ, NINGÚ ES QUEDA ENRERE.**
 
-![Voces Ohana](/img/Otras/LoQueNosUne.png)
+{{< img src="img/Otras/LoQueNosUne.png" alt="Voces Ohana" >}}

@@ -11,11 +11,11 @@ summary: "Vendemos cositas hechas con amor, humor y algún pelo de gato infiltra
 Hola, humano. Soy yo, el gato. El que manda.  
 En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente inferiores a mí**, pero aun así muy recomendables:
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:24px; align-items:start;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start;">
 
 <!-- Bastidores solidarios -->
-<div style="display:flex; align-items:center; gap:16px;">
-  {{< img src="img/TiendaSolidaria/Bastidor.jpeg" alt="Bastidor bordado" style="width:200px; flex-shrink:0;" >}}
+<div style="display: flex; align-items: center; gap: 16px;">
+   {{< img src="img/TiendaSolidaria/Bastidor.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
   <div>
     <strong>Bastidores de bordado</strong><br>
     Un pequeño círculo que guarda grandes creaciones.
@@ -23,8 +23,8 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 </div>
 
 <!-- TOTE BAGS -->
-<div style="display:flex; align-items:center; gap:16px;">
-  {{< img src="img/TiendaSolidaria/ToteBag.jpeg" alt="DemoCat Tote bag" style="width:200px; flex-shrink:0;" >}}
+<div style="display: flex; align-items: center; gap: 16px;">
+   {{< img src="img/TiendaSolidaria/ToteBag.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
   <div>
     <strong>DemoCat Tote bag</strong><br>
     para que cargues tus cosas… y mis snacks
@@ -32,8 +32,8 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 </div>
 
 <!-- AGUMIS -->
-<div style="display:flex; align-items:center; gap:16px;">
-  {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="Agumis hechos a mano" style="width:200px; flex-shrink:0;" >}}
+<div style="display: flex; align-items: center; gap: 16px;">
+    {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
   <div>
     <strong>Agumis hechos a mano</strong><br>
     Criaturas blanditas tejidas bajo mi supervisión
@@ -41,13 +41,14 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 </div>
 
 <!-- PRINTS -->
-<div style="display:flex; align-items:center; gap:16px;">
-  {{< img src="img/TiendaSolidaria/Prints.jpeg" alt="Prints e ilustraciones" style="width:200px; flex-shrink:0;" >}}
+<div style="display: flex; align-items: center; gap: 16px;">
+   {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
   <div>
     <strong>Prints e ilustraciones</strong><br>
     tan monas que casi me hacen competencia
   </div>
 </div>
+
 
 </div>
 

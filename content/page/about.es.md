@@ -111,5 +111,4 @@ Somos hogar para quienes nunca lo tuvieron.
 Somos OHANA.  
 **Y AQUÍ, NADIE SE QUEDA ATRÁS.**
 
-
-![Voces Ohana](/img/Otras/LoQueNosUne.png)
+{{< img src="img/Otras/LoQueNosUne.png" alt="Voces Ohana" >}}

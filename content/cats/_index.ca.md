@@ -11,12 +11,10 @@ subtitle: "Coneix la família OHANA: bigotis curiosos, patetes valentes i cors q
   ⚠️ <strong style="color:#457b9d;">Advertència gatuna:</strong> Aquesta pàgina pot provocar afecte espontani, sospirs prolongats i ganes d’adoptar sense avís previ.🐾.
 </div>
 
-
   <!-- Banner -->
-  <img src="img/cats/BannerAdoptaCA.png" alt="Banner amb gatets adorables per a adopció" 
-       style="width:100vw; max-width:100%; height:auto; display:block; margin:0 auto; border-radius: 0 0 20px 20px;" loading="lazy" />
 
-
+  {{< img src="img/cats/BannerAdoptaCA.png" alt="Banner con gatitos adorables para adopción" style="width:100vw; max-width:100%; height:auto; display:block; margin:0 auto; border-radius: 0 0 20px 20px;" loading="lazy">}}
+ 
 ## Benvingut/da a la família OHANA 🐾!
 ---
 

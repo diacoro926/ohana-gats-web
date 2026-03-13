@@ -14,7 +14,7 @@ subtitle: "Conoce a la familia OHANA: bigotes curiosos, patitas valientes y cora
 
   <!-- Banner -->
 
-  {{< img src="img/cats/BannerAdopta.png" alt="Banner con gatitos adorables para adopción" style="width:100vw; max-width:100%; height:auto; display:block; margin:0 auto; border-radius: 0 0 20px 20px;" loading="lazy">}}
+  {{< img src="img/cats/BannerAdoptaES.png" alt="Banner con gatitos adorables para adopción" style="width:100vw; max-width:100%; height:auto; display:block; margin:0 auto; border-radius: 0 0 20px 20px;" loading="lazy">}}
  
 
 ## ¡Bienvenid@ a la familia OHANA 🐾!

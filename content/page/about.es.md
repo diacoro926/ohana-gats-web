@@ -35,8 +35,6 @@ Personas distintas, con vidas distintas, pero unidas por algo que atraviesa a ca
 Aquí empieza nuestra historia.  
 La historia de quienes sostienen lo invisible.
 
-<div style="height:100px;"></div>
-
 ---
 <!-- AQUI-->
 <div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
@@ -56,8 +54,7 @@ Es sentir que se está en el lugar adecuado, con las personas adecuadas, haciend
 <!-- Bloque Lo que significa OHANA-->
 <div style="width:100vw; max-width:95%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
  💌 <strong>Lo que los gatos nos enseñaron</strong>
-</div
-
+</div>
 
 Los gatos nos enseñaron a amar sin prisa.  
 A escuchar silencios que curan.  

@@ -22,7 +22,7 @@ Així va néixer **OHANA**: com una manera d’organitzar-nos millor, d’arriba
 <div style="margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
  💌 <strong>Qui formem OHANA</strong>
 </div>
->
+
 {{< img src="img/Otras/OhanaVoluntariado.png" alt="Ohana voluntariat" style="width:50%; max-width:400px; border-radius:10px; float:right; margin-left:10px;" >}}
 A OHANA no parlem només de voluntariat: parlem de família.  
 Una família que no s’uneix per sang, sinó per valors, per propòsit i per amor.
@@ -33,8 +33,6 @@ Persones diferents, amb vides diferents, però unides per una cosa que travessa 
 
 Aquí comença la nostra història.  
 La història de qui sosté allò invisible.
-
-<div style="height:100px;"></div>
 
 ---
 <!-- AQUI-->

@@ -17,9 +17,9 @@ Hoy, Carlitos es otro. Sigue siendo sensible, pero ahora busca el cariño, lo co
 ---
 
 ### 🩺 Estado de salud:
-- ✅ Esterilizado  
-- ✅ Vacunado  
-- ✅ Negativo en Inmunodeficiencia y Leucemia Felina  
+✅ Esterilizado  
+✅ Vacunado  
+✅ Negativo en Inmunodeficiencia y Leucemia Felina  
 
 ---
 

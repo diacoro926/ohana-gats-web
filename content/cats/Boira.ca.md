@@ -19,9 +19,9 @@ El seu nom li escau perfectament: com la boira suau del matí, és delicada, mis
 ---
 
 ### 🩺 Estat de salut:
-- Esterilitzada  
-- Vacunada  
-- Negativa en Immunodeficiència i Leucèmia Felina  
+✅ Esterilitzada  
+✅ Vacunada  
+✅ Negativa en Immunodeficiència i Leucèmia Felina  
 
 ---
 

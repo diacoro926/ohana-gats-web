@@ -14,9 +14,9 @@ Tiene una energía contagiosa y una debilidad muy clara: **¡el churu!** Si lo t
 ---
 
 ### 🩺 Estado de salud:
-- ✅ Esterilizado  
-- ✅ Vacunado  
-- ✅ Negativo en Inmunodeficiencia y Leucemia Felina  
+✅ Esterilizado  
+✅ Vacunado  
+✅ Negativo en Inmunodeficiencia y Leucemia Felina  
 
 ---
 

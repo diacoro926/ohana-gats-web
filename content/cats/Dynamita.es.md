@@ -17,9 +17,9 @@ Ahora es ella quien merece, por fin, una oportunidad.
 ---
 
 ### 🩺 Estado de salud:
-- Esterilizada  
-- Vacunada  
-- Negativa en Inmunodeficiencia y Leucemia Felina  
+✅ Esterilizada  
+✅ Vacunada  
+✅ Negativa en Inmunodeficiencia y Leucemia Felina  
 
 ---
 

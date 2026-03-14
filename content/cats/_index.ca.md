@@ -35,9 +35,11 @@ Si has arribat fins aquí, no és casualitat... Potser un d’ells t’està esp
 </div>
 
 
-- 😻 **Diversió Garantida:** Alguns som acròbates, altres filòsofs del sofà. Però tots sabem com fer-te riure.
-- 🐾 **Companys Lleials:** Et seguirem per casa com la teva ombra peluda. I sí, també t’escoltem quan parles!
-- 💖 **Amor de Veritat:** Venim d’històries difícils, però tenim el cor llest per entregar-te’l sense condicions.
+ 😻 **Diversió Garantida:** Alguns som acròbates, altres filòsofs del sofà. Però tots sabem com fer-te riure.
+ 
+ 🐾 **Companys Lleials:** Et seguirem per casa com la teva ombra peluda. I sí, també t’escoltem quan parles!
+
+ 💖 **Amor de Veritat:** Venim d’històries difícils, però tenim el cor llest per entregar-te’l sense condicions.
 
 ---
 <!-- Requisitos de adopción -->

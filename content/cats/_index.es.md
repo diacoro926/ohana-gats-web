@@ -37,9 +37,12 @@ Si has llegado hasta aquí, no es casualidad.... Tal vez uno de ellos te está e
 </div>
 
 
-- 😻 **Diversión Garantizada:** Algunos somos acróbatas, otros filósofos del sofá. Pero todos sabemos cómo hacerte reír.
-- 🐾 **Compañeros Leales:** Te seguiremos por la casa como tu sombra peluda. ¡Y sí, también te escuchamos cuando hablas!
-- 💖 **Amor Verdadero:** Venimos de historias difíciles, pero tenemos el corazón listo para entregártelo sin condiciones.
+ 😻 **Diversión Garantizada:** Algunos somos acróbatas, otros filósofos del sofá. Pero todos sabemos cómo hacerte reír.
+
+ 🐾 **Compañeros Leales:** Te seguiremos por la casa como tu sombra peluda. ¡Y sí, también te escuchamos cuando hablas!
+
+ 💖 **Amor Verdadero:** Venimos de historias difíciles, pero tenemos el corazón listo para entregártelo sin condiciones.
+ 
 
 ---
 <!-- Requisitos de adopción -->

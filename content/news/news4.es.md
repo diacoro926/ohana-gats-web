@@ -11,44 +11,39 @@ summary: "Vendemos cositas hechas con amor, humor y algún pelo de gato infiltra
 Hola, humano. Soy yo, el gato. El que manda.  
 En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente inferiores a mí**, pero aun así muy recomendables:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start;">
+<div class="products-grid">
 
-<!-- Bastidores solidarios -->
-<div style="display: flex; align-items: center; gap: 16px;">
-   {{< img src="img/TiendaSolidaria/Bastidor.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
+<div class="product-item">
+  {{< img src="img/TiendaSolidaria/Bastidor.jpeg" alt="" >}}
   <div>
     <strong>Bastidores de bordado</strong><br>
     Un pequeño círculo que guarda grandes creaciones.
   </div>
 </div>
 
-<!-- TOTE BAGS -->
-<div style="display: flex; align-items: center; gap: 16px;">
-   {{< img src="img/TiendaSolidaria/ToteBag.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
+<div class="product-item">
+  {{< img src="img/TiendaSolidaria/ToteBag.jpeg" alt="" >}}
   <div>
     <strong>DemoCat Tote bag</strong><br>
     para que cargues tus cosas… y mis snacks
   </div>
 </div>
 
-<!-- AGUMIS -->
-<div style="display: flex; align-items: center; gap: 16px;">
-    {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
+<div class="product-item">
+  {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="" >}}
   <div>
     <strong>Agumis hechos a mano</strong><br>
     Criaturas blanditas tejidas bajo mi supervisión
   </div>
 </div>
 
-<!-- PRINTS -->
-<div style="display: flex; align-items: center; gap: 16px;">
-   {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
+<div class="product-item">
+  {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="" >}}
   <div>
     <strong>Prints e ilustraciones</strong><br>
     tan monas que casi me hacen competencia
   </div>
 </div>
-
 
 </div>
 

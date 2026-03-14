@@ -19,9 +19,9 @@ Su nombre le queda perfecto: como la niebla suave del amanecer, es delicada, mis
 ---
 
 ### 🩺 Estado de salud:
-- Esterilizada  
-- Vacunada  
-- Negativa en Inmunodeficiencia y Leucemia Felina  
+✅ Esterilizada  
+✅ Vacunada  
+✅ Negativa en Inmunodeficiencia y Leucemia Felina  
 
 ---
 

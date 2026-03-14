@@ -11,10 +11,10 @@ summary: "Vendemos cositas hechas con amor, humor y algún pelo de gato infiltra
 Hola, humano. Soy yo, el gato. El que manda.  
 En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente inferiores a mí**, pero aun así muy recomendables:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start;">
+<div class="products-grid">
 
 <!-- Bastidores solidarios -->
-<div style="display: flex; align-items: center; gap: 16px;">
+<div class="product-item">
    {{< img src="img/TiendaSolidaria/Bastidor.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
   <div>
     <strong>Bastidores de bordado</strong><br>
@@ -23,7 +23,7 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 </div>
 
 <!-- TOTE BAGS -->
-<div style="display: flex; align-items: center; gap: 16px;">
+<div class="product-item">
    {{< img src="img/TiendaSolidaria/ToteBag.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
   <div>
     <strong>DemoCat Tote bag</strong><br>
@@ -32,7 +32,7 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 </div>
 
 <!-- AGUMIS -->
-<div style="display: flex; align-items: center; gap: 16px;">
+<div class="product-item">
     {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
   <div>
     <strong>Agumis hechos a mano</strong><br>
@@ -41,7 +41,7 @@ En nuestra tienda online encontrarás **cosas bonitas, útiles y claramente infe
 </div>
 
 <!-- PRINTS -->
-<div style="display: flex; align-items: center; gap: 16px;">
+<div class="product-item">
    {{< img src="img/TiendaSolidaria/Amigurumi.jpeg" alt="" style="width:200px; flex-shrink:0;" >}}
   <div>
     <strong>Prints e ilustraciones</strong><br>

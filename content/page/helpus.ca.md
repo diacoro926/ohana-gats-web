@@ -12,7 +12,7 @@ Cada ronroneig que escoltem, cada mirada que s’atreveix a confiar, cada pateta
 La nostra associació rescata, cuida i acompanya gats que han viscut l’abandonament, la por i la indiferència.  
 Aquí, cadascun té nom, història i una segona oportunitat. *Però no ho podem fer sols.*
 
-{{< img src="img/Otras/Ayudanosca.png" alt="Ajuda'ns" style="width:60%" >}}
+{{< img src="img/Otras/Ayudanosca.png" alt="Ajuda'ns" style="width:100%" >}}
 
 ---
 
@@ -37,11 +37,14 @@ Des d’arena fins a llaunetes, joguines i mantes… cada article de la nostra [
 <div style="clear:both;"></div>
 
 ---
-<div style="float:right; margin-left:15px; width:500px;">
-  {{< img src="img/Otras/TeamingDiana.png" alt="Teaming-donacions" style="width:100%" >}}
-</div>
-
 #### 🤝 Teaming: 1€ al mes que canvia vides
+
+{{< img 
+    src="img/Otras/TeamingDiana.png" 
+    alt="Teaming-donacions" 
+    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
+>}}
+
 Amb només **1 euro al mes**, pots formar part del nostre equip de suport constant.  
 És menys que un cafè, però per a ells pot significar menjar, medicació o una visita al veterinari.  
 Uneix-te al nostre [Teaming](https://www.teaming.net/adoptagatsprat/) i sigues part de la seva història.
@@ -53,10 +56,13 @@ Uneix-te al nostre [Teaming](https://www.teaming.net/adoptagatsprat/) i sigues p
 
 A OHANA aprofitem absolutament tot. Cada manta, cada llauna i cada transportí es converteix en benestar per a un gat que ho necessita. Si vols ajudar de manera directa i pràctica, aquestes són les coses que més ens sostenen:
 
-- Alimentació: pinso de qualitat, llaunes humides, menjar gastrointestinal o de recuperació.
-- Llits i mantes rentables, suaus i en bon estat.
-- Transportins rígids i segurs, fàcils de netejar.
-- Joguines i rascadors per reduir l’estrès i millorar la socialització.
+**Alimentació:** pinso de qualitat, llaunes humides, menjar gastrointestinal o de recuperació.
+
+**Llits i mantes** rentables, suaus i en bon estat.
+
+**Transportins** rígids i segurs, fàcils de netejar.
+
+**Joguines i rascadors** per reduir l’estrès i millorar la socialització.
 
 Si tens dubtes sobre si alguna cosa pot servir, pregunta’ns: a OHANA sempre trobem un gat que ho necessita.
 
@@ -66,8 +72,9 @@ Si tens dubtes sobre si alguna cosa pot servir, pregunta’ns: a OHANA sempre tr
 
 Cada talent pot convertir-se en refugi. Pots col·laborar amb:
 
-- Artesania solidària: collars, joguines, mantes, il·lustracions, tote bags, xapes, espelmes…
-- Transport solidari per a visites veterinàries o recollida de material.
+**Artesania solidària:** collars, joguines, mantes, il·lustracions, tote bags, xapes, espelmes…
+
+**Transport solidari** per a visites veterinàries o recollida de material.
 
 Si tens una idea, encara que sigui petita, ens encantarà escoltar-la.
 
@@ -76,9 +83,12 @@ Si tens una idea, encara que sigui petita, ens encantarà escoltar-la.
 
 A OHANA creiem que la màgia passa quan algú decideix donar una mica de si mateix perquè un gat tingui molt més. No cal experiència, ni moltes hores, ni saber “fer-ho perfecte”. Només ganes de cuidar, acompanyar i formar part d’una gran família.
 
-- **Colònies**: un bol ple, una mirada atenta… i un gat que deixa de sentir-se sol.
-- **Transport solidari**: un trajecte curt per a tu, un pas gegant per a la seva recuperació.
-- **Esdeveniments**: cada somriure que reps és una carícia que ells no obliden.
-- **Talent professional**: allò que saps fer pot convertir-se en refugi.
+**Colònies**: un bol ple, una mirada atenta… i un gat que deixa de sentir-se sol.
+
+**Transport solidari**: un trajecte curt per a tu, un pas gegant per a la seva recuperació.
+
+**Esdeveniments**: cada somriure que reps és una carícia que ells no obliden.
+
+**Talent professional**: allò que saps fer pot convertir-se en refugi.
 
 Si alguna vegada has sentit que volies ajudar “d’alguna manera”, aquesta és.

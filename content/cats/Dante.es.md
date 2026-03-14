@@ -17,9 +17,9 @@ Y ahora, al final de su camino, solo le falta lo más importante: **un hogar que
 ---
 
 ### 🩺 Estado de salud:
-- ✅ Esterilizado 
-- ✅ Vacunado
-- ✅ Negativo en Inmunodeficiencia y Leucemia Felina
+✅ Esterilizado 
+✅ Vacunado
+✅ Negativo en Inmunodeficiencia y Leucemia Felina
 
 ---
 

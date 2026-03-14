@@ -13,9 +13,9 @@ Boira fue rescatada de la calle...
 ---
 
 ### 🩺 Estado de salud:
-- ✅ Esterilizado  
-- ✅ Vacunado  
-- ✅ Negativo en Inmunodeficiencia y Leucemia Felina  
+✅ Esterilizado  
+✅ Vacunado  
+✅ Negativo en Inmunodeficiencia y Leucemia Felina  
 
 ---
 

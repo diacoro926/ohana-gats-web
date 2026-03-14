@@ -17,9 +17,9 @@ I li escau perfectament: suau, delicat i ple de dolcesa, tal com és ell.
 ---
 
 ### 🩺 Estat de salut:
-- Esterilitzat  
-- Vacunat  
-- Negatiu en Immunodeficiència i Leucèmia Felina  
+✅ Esterilitzat  
+✅ Vacunat  
+✅ Negatiu en Immunodeficiència i Leucèmia Felina  
 
 ---
 

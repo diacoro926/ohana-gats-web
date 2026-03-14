@@ -1,7 +1,8 @@
 ---
 title: "Maomao"
 type: "cats"
-image: "img/cats/MaoMao.JPG"
+images:
+- "img/cats/MaoMao.JPG"
 age: 2 años
 gender: "🐱♂ Macho"
 summary: "Maomao: El corazón tímido que sueña con su primer hogar"

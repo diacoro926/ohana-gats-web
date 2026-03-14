@@ -1,7 +1,8 @@
 ---
 title: "Tigrito"
 type: "cats"
-image: "img/cats/Tigrito2.JPG"
+images: 
+- "img/cats/Tigrito2.JPG"
 age: 1 año
 gender: "🐱♂ Macho"
 summary: "Tigrito: El rey del churu y de los juegos"

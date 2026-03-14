@@ -1,4 +1,8 @@
 {{ define "main" }}
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 <div class="container" role="main">
 
   <!-- Cat detail card -->
@@ -12,12 +16,38 @@
       {{ i18n "label_adopted" }}
     </div>
   {{ end }}
-
-        <!-- Big image -->
-        {{ with .Params.image }}
-          <img class="cat-detail-img mb-4" src="{{ . | relURL }}" alt="{{ $.Title }}">
-        {{ end }}
-
+         
+ {{ if gt (len .Params.images) 0 }}
+<div class="swiper cat-swiper w-75 mx-auto mb-4">
+  <div class="swiper-wrapper">
+    {{ range $i, $img := .Params.images }}
+      <div class="swiper-slide">
+        <img src="{{ $img | relURL }}" alt="{{ $.Title }} image {{ add $i 1 }}" class="img-fluid rounded shadow-sm">
+      </div>
+    {{ end }}
+  </div>
+  <!-- Optional navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+  <!-- Optional pagination -->
+  <div class="swiper-pagination"></div>
+</div>
+<script>
+  const swiper = new Swiper('.cat-swiper', {
+    loop: true,
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+  });
+</script>
+{{ end }}
+ 
+     
         <!-- Name -->
         <h1 class="cat-detail-name">{{ .Title }}</h1>
 

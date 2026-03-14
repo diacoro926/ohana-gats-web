@@ -1,7 +1,8 @@
 ---
 title: "Boira"
 type: "cats"
-image: "img/cats/Boira.JPG"
+images: 
+- "img/cats/Boira.JPG"
 age: 1 año
 gender: "🐱♀ Hembra"
 summary: "Boira: La mamá valiente que vuelve a jugar"

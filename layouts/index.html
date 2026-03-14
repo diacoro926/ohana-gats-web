@@ -40,7 +40,7 @@
               {
                 title: {{ $cat.Title  }},
                 url: {{ $cat.RelPermalink  }},
-                image: {{ $cat.Params.image | default "" | absURL  }},
+                image: {{ with index $cat.Params.images 0 }}{{ . | absURL }}{{ else }}""{{ end }},
                 age: {{ $cat.Params.age | default ""  }},
                 gender: {{ $cat.Params.gender | default ""  }},
                 summary: {{ $cat.Params.summary | default ""  }}
@@ -74,7 +74,7 @@
               <div class="row align-items-center">
                 <div class="col-6 text-center">
                   <a href="${cat.url}">
-                    <img src="${cat.image}" alt="${cat.title}" class="img-fluid rounded shadow-sm" loading="lazy">
+                   <img src="${cat.image}" alt="${cat.title}" class="img-fluid rounded shadow-sm" loading="lazy">
                   </a>
                 </div>
                 <div class="col-6 text-start">

@@ -42,7 +42,7 @@
           </div>
         {{ end }}
         <div class="cat-card text-center p-3">
-          {{ with $page.Params.image }}
+          {{ with index $page.Params.images 0 }}
             <a href="{{ $page.RelPermalink }}">
               <img class="cat-img rounded-circle mb-2" src="{{ . | relURL }}" alt="{{ $page.Title }}">
             </a>

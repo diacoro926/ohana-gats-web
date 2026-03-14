@@ -1,7 +1,11 @@
 ---
 title: "Dante"
 type: "cats"
-image: "img/cats/Dante.JPG"
+images: 
+- "img/cats/Dante.JPG"
+- "img/cats/Dante_2.JPG"
+- "img/cats/Dante_3.JPG"
+
 age: 5 Años
 gender: "🐱♂ Macho"
 summary: "Dante: El alma silenciosa que busca su propio paraíso"

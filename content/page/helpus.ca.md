@@ -56,13 +56,13 @@ Uneix-te al nostre [Teaming](https://www.teaming.net/adoptagatsprat/) i sigues p
 
 A OHANA aprofitem absolutament tot. Cada manta, cada llauna i cada transportí es converteix en benestar per a un gat que ho necessita. Si vols ajudar de manera directa i pràctica, aquestes són les coses que més ens sostenen:
 
-**Alimentació:** pinso de qualitat, llaunes humides, menjar gastrointestinal o de recuperació.
+**🍽️ Alimentació:** Pinso, llaunes humides, menjar gastrointestinal o de recuperació.
 
-**Llits i mantes** rentables, suaus i en bon estat.
+**🐾🛏️ Llits i mantes** rentables, suaus i en bon estat.
 
-**Transportins** rígids i segurs, fàcils de netejar.
+**🐱📦 Transportins** rígids i segurs, fàcils de netejar.
 
-**Joguines i rascadors** per reduir l’estrès i millorar la socialització.
+**🧶 Joguines i rascadors** per reduir l’estrès i millorar la socialització.
 
 Si tens dubtes sobre si alguna cosa pot servir, pregunta’ns: a OHANA sempre trobem un gat que ho necessita.
 
@@ -83,12 +83,12 @@ Si tens una idea, encara que sigui petita, ens encantarà escoltar-la.
 
 A OHANA creiem que la màgia passa quan algú decideix donar una mica de si mateix perquè un gat tingui molt més. No cal experiència, ni moltes hores, ni saber “fer-ho perfecte”. Només ganes de cuidar, acompanyar i formar part d’una gran família.
 
-**Colònies**: un bol ple, una mirada atenta… i un gat que deixa de sentir-se sol.
+🐱💗 **Colònies**: Un bol ple, una mirada atenta… i un gat que deixa de sentir-se sol.
 
-**Transport solidari**: un trajecte curt per a tu, un pas gegant per a la seva recuperació.
+🚘 **Transport solidari**: Un trajecte curt per a tu, un pas gegant per a la seva recuperació.
 
-**Esdeveniments**: cada somriure que reps és una carícia que ells no obliden.
+🎉 **Esdeveniments**: Cada somriure que reps és una carícia que ells no obliden.
 
-**Talent professional**: allò que saps fer pot convertir-se en refugi.
+🛠️ **Talent professional**: Allò que saps fer pot convertir-se en refugi.
 
-Si alguna vegada has sentit que volies ajudar “d’alguna manera”, aquesta és.
+Si alguna vegada has sentit que volies ajudar “d’alguna manera”, aquesta és aquella manera: senzilla, real i profundament valuosa.

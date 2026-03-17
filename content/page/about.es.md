@@ -36,7 +36,7 @@ Aquí empieza nuestra historia.
 La historia de quienes sostienen lo invisible.
 
 ---
-<!-- AQUI-->
+<!-- Bloque que significa-->
 <div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
  💌 <strong>Lo que significa OHANA para quienes formamos parte</strong>
 </div>
@@ -46,8 +46,7 @@ Para quienes formamos OHANA, esta palabra significa **FAMILIA**.
 La que se encuentra por el camino, la que abraza sin juicios, la que sostiene cuando hay dudas. Es hogar, confianza, conexión profunda.  
 Es sentir que se está en el lugar adecuado, con las personas adecuadas, haciendo algo que llena el alma.
 
-<div style="height:40px;"></div>
-
+<div style="height:15px;"></div>
 
 ---
 

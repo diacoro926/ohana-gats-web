@@ -37,10 +37,10 @@ Si has llegado hasta aquí, no es casualidad.... Tal vez uno de ellos te está e
 </div>
 
 
- 😻 **Diversión Garantizada:** Algunos somos acróbatas, otros filósofos del sofá. Pero todos sabemos cómo hacerte reír.
+ 😻 **Diversión Garantizada:** Algunos somos acróbatas, otros filósofos del sofá. Pero todos sabemos cómo hacerte reír. 
 
  🐾 **Compañeros Leales:** Te seguiremos por la casa como tu sombra peluda. ¡Y sí, también te escuchamos cuando hablas!
-
+ 
  💖 **Amor Verdadero:** Venimos de historias difíciles, pero tenemos el corazón listo para entregártelo sin condiciones.
  
 
@@ -58,8 +58,7 @@ Y sí, estaré registrado **a tu nombre**, porque serás *mi humano oficial*.
 ---
 
 ##### 🪟 2. Protecciones en casa (porque no quiero gastar mis 7 vidas)
-Antes de mudarme contigo, necesitamos ver que tu casa es **gatosegura**.  
-Eso significa ventanas y balcones **bien protegidos**, para que yo no haga parkour involuntario.
+Antes de mudarme contigo, necesitamos ver que tu casa es **gatosegura**.  Eso significa ventanas y balcones **bien protegidos**, para que yo no haga parkour involuntario.
 
 Solo tienes que enviarnos un **video** enseñando las protecciones. Prometo no juzgar tu decoración… mucho.
 

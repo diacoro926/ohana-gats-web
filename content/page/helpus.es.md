@@ -60,13 +60,13 @@ Es menos que un café, pero para ellos puede significar comida, medicación o un
 
 En OHANA aprovechamos absolutamente todo. Cada manta, cada lata y cada transportín se convierte en bienestar para un gato que lo necesita. Si quieres ayudar de forma directa y práctica, estas son las cosas que más nos sostienen:
 
-**Alimentación:** pienso de calidad, latas húmedas, comida gastrointestinal o de recuperación.
+**🍽️ Alimentación:** Pienso, latas húmedas, comida gastrointestinal o de recuperación.
 
-**Camas y mantas** lavables, suaves y en buen estado.
+**🐾🛏️ Camas y mantas** lavables, suaves y en buen estado.
 
-**Transportines rígidos** y seguros, fáciles de limpiar.
+**🐱📦 Transportines rígidos** y seguros, fáciles de limpiar.
 
-**Juguetes y rascadores** para reducir estrés y mejorar la socialización.
+**🧶 Juguetes y rascadores** para reducir estrés y mejorar la socialización.
 
 Si tienes dudas sobre si algo puede servir, pregúntanos: en OHANA siempre encontramos un gato que lo necesita.
 
@@ -88,12 +88,12 @@ Si tienes una idea, aunque sea pequeña, nos encantará escucharla.
 
 En OHANA creemos que la magia ocurre cuando alguien decide dar un poco de sí para que un gato tenga mucho más. No hace falta experiencia, ni grandes horas, ni saber “hacerlo perfecto”. Solo ganas de cuidar, acompañar y ser parte de una gran familia!
 
-**Colonias**: un cuenco lleno, una mirada atenta… y un gato que deja de sentirse solo.
+🐱💗 **Colonias**: Un cuenco lleno, una mirada atenta… y un gato que deja de sentirse solo.
 
-**Transporte solidario**: un trayecto corto para ti, un paso gigante para su recuperación.
+🚘 **Transporte solidario**: Un trayecto corto para ti, un paso gigante para su recuperación.
 
-**Eventos**: cada sonrisa que recibes es una caricia que ellos no olvidan.
+🎉 **Eventos**: Cada sonrisa que recibes es una caricia que ellos no olvidan.
 
-**Talento profesional**: lo que tú sabes hacer puede convertirse en refugio.
+🛠️ **Talento profesional**: Lo que tú sabes hacer puede convertirse en refugio.
 
-Si alguna vez has sentido que querías ayudar “de alguna manera”, esta es.
+Si alguna vez has sentido que querías ayudar “de alguna manera”, esta es esa manera: sencilla, real y profundamente valiosa.

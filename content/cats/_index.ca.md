@@ -54,8 +54,7 @@ I sí, estaré registrat **al teu nom**, perquè seràs *el meu humà oficial*.
 ---
 
 ##### 🪟 2. Proteccions a casa (perquè no vull gastar les meves 7 vides)
-Abans de mudar-me amb tu, necessitem veure que casa teva és **gato-segura**.  
-Això vol dir finestres i balcons **ben protegits**, perquè jo no faci parkour involuntari.
+Abans de mudar-me amb tu, necessitem veure que casa teva és **gato-segura**. Això vol dir finestres i balcons **ben protegits**, perquè jo no faci parkour involuntari.
 
 Només cal que ens enviïs un **vídeo** ensenyant les proteccions. Prometo no jutjar gaire la teva decoració.
 

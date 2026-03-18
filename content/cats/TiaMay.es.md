@@ -2,7 +2,7 @@
 title: "Tia May"
 type: "cats"
 images: 
-- "img/cats/TiaMay1.jpeg"
+- "img/cats/TiaMayImage1.jpeg"
 - "img/cats/TiaMay2.jpeg"
 - "img/cats/TiaMay3.jpeg"
 - "img/cats/TiaMay4.jpeg"

@@ -2,10 +2,10 @@
 title: "Tia May"
 type: "cats"
 images: 
-- "img/cats/TiaMay1.JPEG"
-- "img/cats/TiaMay2.JPEG"
-- "img/cats/TiaMay3.JPEG"
-- "img/cats/TiaMay4.JPEG"
+- "img/cats/TiaMay1.jpeg"
+- "img/cats/TiaMay2.jpeg"
+- "img/cats/TiaMay3.jpeg"
+- "img/cats/TiaMay4.jpeg"
 age: 1 año
 gender: "🐱♂ Hembra"
 summary: "Tia May: la heroína silenciosa de la masía"

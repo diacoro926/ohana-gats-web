@@ -9,7 +9,7 @@ images:
 age: 1 año
 gender: "🐱♂ Hembra"
 summary: "Tia May: la heroína silenciosa de la masía"
-adopted: false
+adopted: true
 ---
 
 Tía May nació en una masía junto a sus hermanos Peter y Mary Jane, una pequeña familia inspirada en el universo de **Spiderman**.

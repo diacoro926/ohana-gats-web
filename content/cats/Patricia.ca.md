@@ -3,36 +3,43 @@ title: "Patricia"
 type: "cats"
 images:
 - "img/cats/Patricia.JPG"
-age: 1 año
-gender: "🐱♂ Macho"
-summary: "Tigrito: El rey del churu y de los juegos"
+age: 2 anys
+gender: "🐱♀ Femella"
+summary: "Patricia: La gateta tímida que només vol sentir-se segura"
 adopted: false
 ---
 
-Tigrito fue rescatado de la calle, pero nunca perdió su simpatía ni sus ganas de jugar.  
-Tiene una energía contagiosa y una debilidad muy clara: **¡el churu!** Si lo tienes, ya ganaste su corazón.
+La Patricia va aparèixer un dia com apareixen alguns gats: del no-res, silenciosa, petita, intentant passar desapercebuda.  
+Era tot just una joveneta, de sis o set mesos com a molt, amb aquell aire de gata que ha après massa aviat a espavilar-se sola.
+
+Un dia es va rebre un avís d’una nova gateta que semblava necessitar ajuda.  
+Després del seu rescat es va esterilitzar i, com que no se sabia d’on venia ni ningú la reclamava, es va decidir donar-li una oportunitat lluny del carrer.  
+Des d’aleshores ha crescut amb nosaltres: ja té gairebé dos anys i, tot i que el seu cos ha crescut, el seu cor encara aprèn a sentir-se segur.
+
+Sempre ha estat una gata amb por.  
+No una por agressiva, sinó aquella por silenciosa de qui s’ha hagut de protegir sola massa temps.
+
+Tot i així, qui la coneix ho té clar:  
+La Patricia no és una gata difícil, és una gata espantada.  
+I els gats espantats, quan troben calma, paciència i una llar estable, floreixen.
 
 ---
 
-### 🩺 Estado de salud:
-✅ Esterilizado  
-✅ Vacunado  
-✅ Negativo en Inmunodeficiencia y Leucemia Felina  
+### 🩺 Estat de salut:
+✅ Esterilitzada  
+✅ Vacinada  
+✅ Negativa en Immunodeficiència i Leucèmia Felina  
 
 ---
 
-### 🐱 Su personalidad:
-Tigrito es simpático, juguetón y siempre está listo para una sesión de caricias o una ronda de juegos.  
-Le encanta estar cerca, compartir momentos y, por supuesto, disfrutar de su snack favorito.
-
-
----
-
-### 💛 ¿Qué busca?
-Un hogar donde pueda correr, jugar y recibir su dosis diaria de cariño (y churu).  
-Alguien que disfrute de la alegría felina y quiera un compañero activo y amoroso.
+### 🐱 La seva personalitat:
+La Patricia és una gateta tímida i molt sensible, que observa primer i avança a poc a poc quan sent calma.  
+Amb un entorn tranquil i una mica de paciència, deixa veure la dolçor que sempre ha dut a dins.
 
 ---
 
-### 📩 ¿Te gustaría conocerlo?
-**Tigrito está listo para llenar tu casa de alegría, ronroneos y lametones de churu.**
+### 💛 Què busca?
+La Patricia busca una llar tranquil·la on pugui sentir-se segura. Necessita una persona pacient que li doni el temps i la calma que mai ha tingut.  
+Només vol un lloc on, finalment, pugui viure sense por.
+
+---

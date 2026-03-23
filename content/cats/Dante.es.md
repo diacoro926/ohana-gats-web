@@ -8,44 +8,65 @@ images:
 
 age: 5 Años
 gender: "🐱♂ Macho"
-summary: "Dante: El alma silenciosa que busca su propio paraíso"
+summary: "Dante: El gato al que la vida dejó atrás demasiadas veces"
 adopted: false
 ---
 
-En mayo de 2024, Dante fue rescatado de una colonia felina.  
-Tiene **5 años**, y una mirada que parece escrita con tinta antigua: historias de resistencia, de noches frías, de silencios que solo piden ser comprendidos.
+Dante no es un gato que llame la atención a primera vista.  
+No maúlla fuerte, no se acerca corriendo, no compite por caricias.  
+Dante es de esos gatos que observan desde un rincón…pero si te detienes un momento, descubres un corazón que ha tenido que hacerse pequeño para poder sobrevivir. 💔
 
-Como su tocayo, el escritor que recorrió sombras para encontrar la luz, nuestro Dante también ha hecho su propio viaje.  
-Y ahora, al final de su camino, solo le falta lo más importante: **un hogar que lo espere**.
+Cuando era apenas un jovencito, vivía en una colonia donde la vida era dura.  
+Los demás gatos no lo aceptaban: lo echaban del comedero, lo perseguían, lo golpeaban.  
+Y él, tan joven y tan indefenso, aprendió que para no sufrir tenía que esconderse, hacerse invisible, aguantar.
+
+**Ningún animal debería crecer así.**
+
+Cuando llegó a OHANA, Dante era un alma rota.  
+No entendía por qué el mundo había sido tan cruel con él.  
+No entendía por qué nadie lo había protegido.  
+No entendía por qué, cuando él solo quería vivir tranquilo, siempre le tocaba lo peor.
+
+Con nosotros lleva ya **cinco años**.  
+Cinco años viendo cómo otros gatos llegan, se recuperan, encuentran familia y se marchan.  
+Cinco años esperando que alguien pregunte por él.  
+
+No es el más joven.  
+No es el más llamativo.  
+No es el que corre a saludarte.  
+Pero es, sin duda, **uno de los corazones más valientes que han pasado por aquí**.
+
+Dante solo necesita una cosa:   "Esa persona que lo mire de verdad."  
+Que vea al gatito que nadie defendió y decida ser, por fin, su refugio.  
+Alguien que le diga sin palabras:   🌿 **“Ya está. Ahora sí. Ahora te toca a ti.”**
 
 ---
 
 ### 🩺 Estado de salud:
-✅ Esterilizado 
-✅ Vacunado
-✅ Negativo en Inmunodeficiencia y Leucemia Felina
+✅ Esterilizado  
+✅ Vacunado  
+✅ Negativo en Inmunodeficiencia y Leucemia Felina  
 
 ---
 
 ### 🐱 Su personalidad:
-Dante es desconfiado, pero no por falta de amor…Es un alma sensible que aún no ha encontrado a quien le lea con calma.
+Dante es desconfiado, pero no por falta de amor…  
+Es un alma sensible que aún no ha encontrado a quien lo lea con calma.
 
 No corre hacia ti, pero te observa desde su rincón,  
-como quien espera descubrir si eres personaje pasajero o parte de su historia.  
-Y cuando decides quedarte, cuando le das tiempo,  
-te entrega lo más puro que tiene: **su confianza**, su pequeño paraíso personal.
+como quien espera descubrir si eres un personaje pasajero o parte de su historia. 👀💛
 
 ---
 
 ### 💛 ¿Qué busca?
-Un hogar tranquilo, donde el amor no tenga prisa.  
-Alguien que entienda que los vínculos más profundos se construyen despacio,como los buenos libros, como las historias que dejan huella.
-
-Dante no busca perfección.  
-Solo un lugar donde pueda ser él mismo, sin miedo, sin máscaras, sin pasado.
+Dante busca un hogar donde, por primera vez, alguien lo elija sin dudar.  
+Sueña con una persona que vea su bondad silenciosa y quiera enseñarle que también merece ser querido.  
+Solo necesita a alguien dispuesto a darle la oportunidad que la vida siempre le negó.
 
 ---
+<div style="background: #f3f7f4; padding: 26px; border: 1px solid #cdd9d2; border-radius: 12px; text-align: center; margin: 2em 0;">
+  <p style="font-size: 1.6rem; font-weight: 700; color: #3f4a3f; margin: 0; line-height: 1.4;">
+    “Como escribió Dante, incluso en los caminos más oscuros siempre hay una luz que guía. Solo hace falta un corazón dispuesto a verla.”
+  </p>
+</div>
 
-### 📩 ¿Te animas a conocerlo?
-**Dante te está esperando.**  
-Quizá tú seas el capítulo que cambie su destino.

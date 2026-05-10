@@ -32,6 +32,7 @@ comments: false
  🏡 Tens proteccions a la vivenda? (finestres, balcons o espais amb xarxes de seguretat) 
  🌱 Si algun dia et passés alguna cosa, qui podria fer-se càrrec del gat? 
     
-`
+`   
+    privacyNote=`En enviar-nos aquest correu tractarem les teves dades únicament per gestionar la sol·licitud d’adopció. Pots consultar com protegim la teva informació a la nostra [política de privacitat](/privacy/).`
     buttonText="Enviar"
 >}}

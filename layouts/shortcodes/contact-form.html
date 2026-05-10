@@ -14,6 +14,14 @@
       <label for="message">{{ .Get "labelMessage" }}</label>
       <textarea id="message" name="message" rows="15" required>{{ .Get "defaultMessage" }}</textarea>
 
+      <!-- GDPR / privacy note coming from the markdown file -->
+      {{ with .Get "privacyNote" }}
+        <div class="privacy-note" style="font-size:0.85rem; margin-top:10px; color:#666; text-align:left;">
+          {{ . | markdownify }}
+        </div>
+        
+      {{ end }}
+
       <!-- Submit -->
       <button type="submit" class="btn">{{ .Get "buttonText" }}</button>
     </form>

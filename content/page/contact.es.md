@@ -5,11 +5,10 @@ comments: false
 ---
 
 ¿Quieres ponerte en contacto con nosotros?  
-Completa el formulario y tu humano‑mail se abrirá automáticamente. A veces, una nueva historia empieza con un gesto sencillo 🐾
+Completa el formulario y tu humano-mail se abrirá automáticamente. A veces, una nueva historia empieza con un gesto sencillo 🐾
 
 Antes de escribirnos, cuéntanos un poco sobre ti y sobre el hogar que imaginas para uno de nuestros gatitos.  
 Conocer tu entorno y tus expectativas nos ayuda a asegurarnos de que cada pequeño encuentre un lugar donde crecer, sentirse protegido y formar un vínculo para toda la vida 💛
-
 
 ---
 
@@ -32,7 +31,7 @@ Nos ayudará a conocer mejor tu hogar y asegurarnos de que nuestro gatito encuen
 💛 ¿Qué valoras en un gato? (temperamento, energía, independencia, compañía…) 
 🏡 ¿Tienes protecciones en la vivienda? (ventanas, balcones o espacios con redes de seguridad) 
 🌱 Si algún día te ocurriese algo, ¿quién podría hacerse cargo del gato?    
-    
 `
+    privacyNote=`Al enviarnos este correo trataremos tus datos únicamente para gestionar la solicitud de adopción. Puedes consultar cómo protegemos tu información en nuestra [política de privacidad](/privacy/).`
     buttonText="Enviar"
 >}}

@@ -6,4 +6,16 @@ Or you can delete these file if you don't need it.
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.js" integrity="sha256-HdIuWBZj4eftihsoDCJoMYjZi6aNVaw7YlUpzKT3ZxI=" crossorigin="anonymous"></script>
 -->
 
+ {{- $privacyURL := "privacy/" | relLangURL -}}
+
+<p class="footer-legal text-center">
+  <a href="{{ $privacyURL }}">
+    {{ if eq .Site.Language.Lang "ca" }}
+      Política de privacitat i avís legal
+    {{ else }}
+      Política de privacidad y aviso legal
+    {{ end }}
+  </a>
+</p>
+
 

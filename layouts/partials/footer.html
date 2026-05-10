@@ -51,9 +51,12 @@
           {{ i18n "poweredBy" . | safeHTML }}
           {{ if $.GitInfo }}&nbsp;&bull;&nbsp;[<a href="{{ .Site.Params.commit }}{{ .GitInfo.Hash }}">{{ substr .GitInfo.Hash 0 8 }}</a>]{{ end }}
         </p>
+       {{- partial "footer_custom.html" . }}
+      
       </div>
     </div>
   </div>
+  
 </footer>
 
 {{- if .Site.Params.selfHosted -}}
@@ -150,4 +153,4 @@ $(function(){
 <!-- End Delayed Disqus -->
 {{ end }}
 
-{{- partial "footer_custom.html" . }}
+

@@ -1,0 +1,131 @@
+<div
+  id="cookie-banner"
+  class="cookie-banner  cookie-hidden"
+  hidden
+  role="dialog"
+  aria-modal="true"
+>
+  <div class="cookie-banner__inner">
+
+    <p class="cookie-banner__text">
+      {{ if eq .Site.Language.Lang "ca" }}
+        Fem servir cookies tècniques i, si ho acceptes,
+        cookies d’anàlisi. Pots llegir més a la nostra
+        <a href="{{ "ca/privacy/" | relLangURL }}">
+          política de privacitat
+        </a>.
+      {{ else }}
+        Usamos cookies técnicas y, si las aceptas,
+        cookies de análisis. Puedes leer más en nuestra
+        <a href="{{ "es/privacy/" | relLangURL }}">
+          política de privacidad
+        </a>.
+      {{ end }}
+    </p>
+
+    <div class="cookie-banner__actions">
+      <button id="cookie-accept" type="button">
+        {{ if eq .Site.Language.Lang "ca" }}
+          Acceptar
+        {{ else }}
+          Aceptar
+        {{ end }}
+      </button>
+
+      <button id="cookie-reject" type="button">
+        {{ if eq .Site.Language.Lang "ca" }}
+          Rebutjar
+        {{ else }}
+          Rechazar
+        {{ end }}
+      </button>
+    </div>
+
+  </div>
+</div>
+
+ <script>
+document.addEventListener("DOMContentLoaded", () => {
+
+ 
+
+  const KEY = "cookie-consent";
+
+  const CONSENT_DURATION_MS =
+    7 * 24 * 60 * 60 * 1000;
+
+  const banner =
+    document.getElementById("cookie-banner");
+
+  const acceptBtn =
+    document.getElementById("cookie-accept");
+
+  const rejectBtn =
+    document.getElementById("cookie-reject");
+
+  if (!banner || !acceptBtn || !rejectBtn) {
+    console.error("Cookie banner elements missing");
+    return;
+  }
+
+  function setConsent(value) {
+    localStorage.setItem(KEY, JSON.stringify({
+      value,
+      timestamp: Date.now()
+    }));
+  }
+
+  function getConsent() {
+    const raw = localStorage.getItem(KEY);
+    if (!raw) return null;
+
+    try {
+      const parsed = JSON.parse(raw);
+
+      const expired =
+        Date.now() - parsed.timestamp >
+        CONSENT_DURATION_MS;
+
+      if (expired) {
+        localStorage.removeItem(KEY);
+        return null;
+      }
+
+      return parsed.value;
+
+    } catch {
+      return null;
+    }
+  }
+
+  function show() {
+  banner.classList.remove("cookie-hidden");
+}
+
+function hide() {
+  banner.classList.add("cookie-hidden");
+}
+
+  // SHOW LOGIC
+  const consent = getConsent();
+  
+
+  if (!consent) {
+    show();
+  }
+
+  // IMPORTANT: attach safely
+  acceptBtn.onclick = () => {
+    
+    setConsent("accepted");
+    hide();
+  };
+
+  rejectBtn.onclick = () => {
+    
+    setConsent("rejected");
+    hide();
+  };
+
+});
+</script>

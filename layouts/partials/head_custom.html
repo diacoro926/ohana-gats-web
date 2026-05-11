@@ -473,5 +473,113 @@ input[type="submit"]:hover {
   margin: 0;
 }
 
+/* =========================
+   COOKIE BANNER
+   ========================= */
+
+.cookie-banner {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+
+  background: rgba(0, 0, 0, 0.6);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+}
+.cookie-hidden {
+  display: none !important;
+}
+
+ 
+
+.cookie-banner__inner {
+  background: #ffffff;
+
+  width: 100%;
+  max-width: 560px;
+
+  padding: 28px;
+
+  border-radius: 14px;
+  border: 2px solid #b14c75;
+
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.25);
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+ 
+
+.cookie-banner__text {
+  margin: 0;
+
+  font-size: 1.15rem;   /* bigger text */
+  line-height: 1.6;
+
+  color: #2b2b2b;
+}
+
+/* =========================
+   BUTTONS  
+   ========================= */
+
+.cookie-banner__actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+}
+
+ 
+.cookie-banner__actions button {
+  font-weight: 600;
+
+  padding: 0.65rem 1.4rem;
+
+  border-radius: 8px;
+  border: none;
+
+  cursor: pointer;
+
+  font-size: 1rem;
+
+  transition: 0.2s ease;
+
+  background-color: #91b9f4;
+  color: #fff;
+}
+
+/* Hover for both */
+.cookie-banner__actions button:hover {
+  background-color: #7ea6e6;
+}
+
+/* =========================
+   MOBILE
+   ========================= */
+
+@media (max-width: 600px) {
+  .cookie-banner__inner {
+    padding: 22px;
+  }
+
+  .cookie-banner__text {
+    font-size: 1.05rem;
+  }
+
+  .cookie-banner__actions {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .cookie-banner__actions button {
+    width: 100%;
+  }
+}
 
 </style>

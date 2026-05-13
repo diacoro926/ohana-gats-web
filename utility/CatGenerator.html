@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Generador de Markdown para Adopciones</title>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f6f9;
+      color: #222;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 18px;
+      padding: 32px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 32px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    .full { grid-column: 1 / -1; }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    label { font-weight: bold; }
+
+    input, select, textarea {
+      border: 1px solid #d9dce1;
+      border-radius: 12px;
+      padding: 14px;
+      font-size: 15px;
+    }
+
+    textarea {
+      min-height: 180px;
+      resize: vertical;
+    }
+
+    .actions {
+      display: flex;
+      gap: 16px;
+      margin-top: 30px;
+    }
+
+    button {
+      border: none;
+      padding: 14px 24px;
+      border-radius: 12px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .primary { background: #4f8cff; color: white; }
+    .secondary { background: #1e293b; color: white; }
+
+    .status {
+      margin-top: 20px;
+      padding: 14px;
+      border-radius: 12px;
+      display: none;
+    }
+
+    .status.success { background: #e7f8ee; color: #166534; display: block; }
+    .status.error { background: #fdecec; color: #991b1b; display: block; }
+
+    .image-preview {
+      max-width: 220px;
+      margin-top: 10px;
+      display: none;
+      border-radius: 12px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <h1>🐱 Generador de Markdown para Adopciones</h1>
+
+    <div class="grid">
+
+      <div class="field">
+        <label>Nombre</label>
+        <input id="name" placeholder="Nombre" />
+      </div>
+
+      <div class="field">
+        <label>Edad</label>
+        <input id="age" placeholder="Años" />
+      </div>
+
+      <div class="field">
+        <label>Género</label>
+        <select id="gender">
+          <option value="female">🐱♀ Hembra</option>
+          <option value="male">🐱♂ Macho</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>Resumen</label>
+        <input id="summary" placeholder="Resumen emocional" />
+      </div>
+
+      <div class="field full">
+        <label>Historia</label>
+        <textarea id="story"></textarea>
+      </div>
+
+      <div class="field full">
+        <label>🐱 Su personalidad</label>
+        <textarea id="personality"></textarea>
+      </div>
+
+      <div class="field full">
+        <label>💛 ¿Qué busca?</label>
+        <textarea id="lookingFor"></textarea>
+      </div>
+
+      <div class="field full">
+        <label>Fotos</label>
+        <input type="file" id="photo" multiple accept="image/*" />
+        <img id="imagePreview" class="image-preview" />
+      </div>
+
+    </div>
+
+    <div class="actions">
+      <button class="primary" onclick="translateContent()">
+        Traducir al catalán
+      </button>
+
+      <button class="secondary" onclick="generateZip()">
+        Generar ZIP
+      </button>
+    </div>
+
+    <div id="status" class="status"></div>
+
+  </div>
+
+<script>
+let translatedStory = "";
+let translatedSummary = "";
+let translatedPersonality = "";
+let translatedLookingFor = "";
+
+const photoInput = document.getElementById('photo');
+const imagePreview = document.getElementById('imagePreview');
+
+photoInput.addEventListener('change', () => {
+  const file = photoInput.files[0];
+  if (file) {
+    imagePreview.src = URL.createObjectURL(file);
+    imagePreview.style.display = 'block';
+  }
+});
+
+function slugify(text) {
+  return text.toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, '_')
+    .replace(/^_|_$/g, '');
+}
+
+function showStatus(msg, type) {
+  const s = document.getElementById('status');
+  s.className = `status ${type}`;
+  s.innerText = msg;
+}
+
+async function translateText(text) {
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=es&tl=ca&dt=t&q=${encodeURIComponent(text)}`;
+  const res = await fetch(url);
+  const data = await res.json();
+  return data[0].map(x => x[0]).join('');
+}
+
+async function translateContent() {
+  try {
+    showStatus("Traduciendo...", "success");
+
+    translatedSummary = await translateText(document.getElementById('summary').value);
+    translatedStory = await translateText(document.getElementById('story').value);
+    translatedPersonality = await translateText(document.getElementById('personality').value);
+    translatedLookingFor = await translateText(document.getElementById('lookingFor').value);
+
+    showStatus("Traducción completada", "success");
+  } catch (e) {
+    showStatus("Error en traducción", "error");
+  }
+}
+
+function buildMarkdown(lang, summary, story, personality, lookingFor, images) {
+
+  const name = document.getElementById('name').value;
+  const age = document.getElementById('age').value;
+  const gender = document.getElementById('gender').value;
+
+  const genderText =
+    lang === 'es'
+      ? (gender === 'female' ? '🐱♀ Hembra' : '🐱♂ Macho')
+      : (gender === 'female' ? '🐱♀ Femella' : '🐱♂ Mascle');
+
+  const imageLines = images.map(i => `- "img/cats/${i}"`).join('\n');
+
+  const personalityTitle =
+    lang === 'es'
+      ? "### 🐱 Su personalidad:"
+      : "### 🐱 La seva personalitat:";
+
+  const lookingTitle =
+    lang === 'es'
+      ? "### 💛 ¿Qué busca?"
+      : "### 💛 Què busca?";
+
+  return `---
+title: "${name}"
+type: "cats"
+images:
+${imageLines}
+age: ${age}
+gender: "${genderText}"
+summary: "${summary.replaceAll('"','\\"')}"
+adopted: false
+---
+
+${story}
+
+---
+
+### 🩺 Estado de salud:
+
+---
+
+${personalityTitle}
+
+${personality}
+
+---
+
+${lookingTitle}
+
+${lookingFor}
+`;
+}
+
+async function generateZip() {
+
+  const name = document.getElementById('name').value.trim();
+  const summary = document.getElementById('summary').value.trim();
+  const story = document.getElementById('story').value.trim();
+  const personality = document.getElementById('personality').value.trim();
+  const lookingFor = document.getElementById('lookingFor').value.trim();
+
+  if (!name || !summary || !story || !personality || !lookingFor) {
+    return showStatus("Completa todos los campos", "error");
+  }
+
+  if (!translatedStory) {
+    return showStatus("Primero traduce", "error");
+  }
+
+  const slug = slugify(name);
+
+  const files = photoInput.files;
+  const images = [];
+
+  for (let i = 0; i < files.length; i++) {
+    const ext = files[i].name.split('.').pop();
+    images.push(`${slug}_${i+1}.${ext}`);
+  }
+
+  const es = buildMarkdown('es', summary, story, personality, lookingFor, images);
+  const ca = buildMarkdown('ca', translatedSummary, translatedStory, translatedPersonality, translatedLookingFor, images);
+
+  const zip = new JSZip();
+  const folder = zip.folder("cats");
+
+  folder.file(`${slug}.es.md`, es);
+  folder.file(`${slug}.ca.md`, ca);
+
+  for (let i = 0; i < files.length; i++) {
+    folder.file(images[i], await files[i].arrayBuffer());
+  }
+
+  const blob = await zip.generateAsync({ type: "blob" });
+  saveAs(blob, `${slug}.zip`);
+
+  showStatus("ZIP generado", "success");
+}
+</script>
+
+</body>
+</html>

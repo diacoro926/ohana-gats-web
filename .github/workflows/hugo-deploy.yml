@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: hugo-deploy
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -17,7 +21,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           submodules: recursive
+
+      - name: Determine next deployment tag
+        id: version
+        run: |
+          git fetch origin --tags --force
+
+          LAST_TAG=$(git tag --list "deploy-v*" --sort=-v:refname | head -n 1)
+
+          if [ -z "$LAST_TAG" ]; then
+            NEXT=1
+          else
+            CURRENT=${LAST_TAG#deploy-v}
+            NEXT=$((CURRENT + 1))
+          fi
+
+          TAG="deploy-v${NEXT}"
+
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "Using deployment tag: $TAG"
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v3
@@ -33,3 +57,29 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
+
+      - name: Create deployment tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git tag -a "${{ steps.version.outputs.tag }}" \
+            -m "Deployment ${{ steps.version.outputs.tag }}
+
+          Commit: $GITHUB_SHA
+          Workflow: $GITHUB_RUN_NUMBER
+          Date: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+
+          git push origin "${{ steps.version.outputs.tag }}"
+
+      - name: Deployment summary
+        run: |
+          {
+            echo "## Deployment completed"
+            echo ""
+            echo "| Item | Value |"
+            echo "|------|-------|"
+            echo "| Deployment Tag | \`${{ steps.version.outputs.tag }}\` |"
+            echo "| Commit | \`$GITHUB_SHA\` |"
+            echo "| Workflow Run | $GITHUB_RUN_NUMBER |"
+          } >> "$GITHUB_STEP_SUMMARY"

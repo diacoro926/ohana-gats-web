@@ -1,0 +1,55 @@
+name: Rollback Hugo site
+
+on:
+  workflow_dispatch:
+    inputs:
+      deployment_tag:
+        description: 'Deployment tag to redeploy (e.g. deploy-v3)'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hugo-deploy
+  cancel-in-progress: false
+
+jobs:
+  rollback:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout deployment tag
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.deployment_tag }}
+          fetch-depth: 0
+          submodules: recursive
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: latest
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
+
+      - name: Rollback summary
+        run: |
+          {
+            echo "##  ollback completed"
+            echo ""
+            echo "| Item | Value |"
+            echo "|------|-------|"
+            echo "| Deployment Tag | \`${{ inputs.deployment_tag }}\` |"
+            echo "| Commit | \`$(git rev-parse HEAD)\` |"
+            echo "| Workflow Run | $GITHUB_RUN_NUMBER |"
+          } >> "$GITHUB_STEP_SUMMARY"

@@ -64,11 +64,15 @@ pygmentsCodefencesGuessSyntax = true
     name = "Ayudanos"
     url = "page/helpus/"
     weight = 4
+    [[languages.es.menu.main]]
+    name = "Esdeveniments"
+    url = "news/"
+    weight = 5
 
   [[languages.es.menu.main]]
     name = "Contacto"
     url = "page/contact/"
-    weight = 5
+    weight = 6
 
 
 [languages.ca]
@@ -97,9 +101,14 @@ pygmentsCodefencesGuessSyntax = true
     weight = 4
 
   [[languages.ca.menu.main]]
+    name = "Eventos"
+    url = "news/"
+    weight = 5  
+
+  [[languages.ca.menu.main]]
     name = "Contacte"
     url = "page/contact/"
-    weight = 5
+    weight = 6
 
 
 [markup]

@@ -53,19 +53,19 @@ pygmentsCodefencesGuessSyntax = true
   [[languages.es.menu.main]]
     name = "Adoptame"
     url = "cats/"
-    weight = 2
+    weight = 3
 
   [[languages.es.menu.main]]
     name = "Acerca de"
     url = "page/about/"
-    weight = 3
+    weight = 2
 
   [[languages.es.menu.main]]
     name = "Ayudanos"
     url = "page/helpus/"
     weight = 4
     [[languages.es.menu.main]]
-    name = "Esdeveniments"
+    name = "Eventos"
     url = "news/"
     weight = 5
 
@@ -88,12 +88,12 @@ pygmentsCodefencesGuessSyntax = true
   [[languages.ca.menu.main]]
     name = "Adopta’m"
     url = "cats/"
-    weight = 2
+    weight = 3
 
   [[languages.ca.menu.main]]
     name = "Sobre nosaltres"
     url = "page/about/"
-    weight = 3
+    weight = 2
 
   [[languages.ca.menu.main]]
     name = "Ajuda’ns"
@@ -101,7 +101,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 4
 
   [[languages.ca.menu.main]]
-    name = "Eventos"
+    name = "Esdeveniments"
     url = "news/"
     weight = 5  
 

@@ -18,7 +18,7 @@
   </div>
 
 {{ $cats := where (where site.RegularPages "Section" "cats") ".Params.adopted" "!=" true }}
-
+{{ $phrases := index site.Data (printf "catphrases.%s" site.Language.Lang) }}
 <!-- Featured Cat -->
 <div class="row mt-4">
   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -34,6 +34,12 @@
 
     <script>
       (function() {
+
+        const phrases = [
+            {{- range $i, $p := $phrases }}
+            {{ $p | jsonify }}{{ if lt (add $i 1) (len $phrases) }},{{ end }}
+            {{- end }}
+            ];
 
         const cats = [
           {{ range $i, $cat := $cats -}}
@@ -62,8 +68,10 @@
           return hash >>> 0;
         }
 
-        const index = hashString(seed) % cats.length;
-        const cat = cats[index];
+        const catIndex = hashString(seed) % cats.length;
+        const phraseIndex = hashString(seed + "-phrase") % phrases.length;
+        const cat = cats[catIndex];
+        const phrase = phrases[phraseIndex];
 
         const container = document.getElementById("cat-of-the-month");
 
@@ -81,6 +89,13 @@
               </div>
 
               <div class="col-sm-7">
+                
+
+  <p class="text-muted"
+     style="font-style:italic;font-size:1.05em;margin-bottom:10px;">
+    ${phrase}
+  </p>
+
 
                 <h3>
                   <a href="${cat.url}" class="text-decoration-none text-dark">

@@ -18,21 +18,7 @@ comments: false
     labelName="Nombre"
     labelEmail="Correo electrónico"
     labelMessage="Mensaje"
-    defaultMessage=` 
-
-👉 SI US PLAU COMPLETA LA INFORMACIÓ A CONTINUACIÓ.
- Ens ajudarà a conèixer millor la teva llar i assegurar-nos que el nostre gatet trobi un lloc segur, estable i ple d’afecte💛 
- 
- 📞 Telèfon de contacte: 
- 🏙️ Ciutat: 
- 
- 🐾 Tens altres animals a casa? Si és així, han conviscut amb gats? 
- ✨ Què t’ha cridat l’atenció per preguntar-nos per aquest gatet? 
- 💛 Què valores en un gat? (temperament, energia, independència, companyia…) 
- 🏡 Tens proteccions a la vivenda? (finestres, balcons o espais amb xarxes de seguretat) 
- 🌱 Si algun dia et passés alguna cosa, qui podria fer-se càrrec del gat? 
-    
-`   
+    defaultMessage=``   
     privacyNote=`En enviar-nos aquest correu tractarem les teves dades únicament per gestionar la sol·licitud d’adopció. Pots consultar com protegim la teva informació a la nostra [política de privacitat](/privacy/).`
     buttonText="Enviar"
 >}}

@@ -24,3 +24,15 @@
 
 - id: label_adopted
   translation: "RESERVADO"
+
+- id: help_nav_amazon
+  translation: "🛒 Amazon"
+
+- id: help_nav_teaming
+  translation: "🤝 Teaming"
+
+- id: help_nav_material
+  translation: "🎁 Material"
+
+- id: help_nav_volunteer
+  translation: "🐾 Voluntariado"  

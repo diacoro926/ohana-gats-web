@@ -20,6 +20,17 @@
 
 - id: contact_link
   translation: "Contacta'ns"
-
 - id: label_adopted
-  translation: "RESERVAT"  
+  translation: "RESERVAT"
+
+- id: help_nav_amazon
+  translation: "🛒 Amazon"
+
+- id: help_nav_teaming
+  translation: "🤝 Teaming"
+
+- id: help_nav_material
+  translation: "🎁 Material"
+
+- id: help_nav_volunteer
+  translation: "🐾 Voluntariat"

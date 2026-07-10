@@ -3,25 +3,10 @@ title: Ajuda'ns
 subtitle: Com puc ajudar?
 comments: false
 ---
-# 🐾 **Ajuda'ns a canviar vides gatunes**
-
-A OHANA, cada gest compta.  
-Si alguna vegada t’has preguntat com canviar una vida… aquí comença la resposta.  
-Cada ronroneig que escoltem, cada mirada que s’atreveix a confiar, cada pateta que trepitja segura per primera vegada… és gràcies a persones com tu.
-
-La nostra associació rescata, cuida i acompanya gats que han viscut l’abandonament, la por i la indiferència.  
-Aquí, cadascun té nom, història i una segona oportunitat. *Però no ho podem fer sols.*
-
-{{< img src="img/Otras/Ayudanosca.png" alt="Ajuda'ns" style="width:100%" >}}
+{{< helpus-navigation >}}
 
 ---
-
-<!-- Ajuda'ns banner -->
-<div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #91b9f4; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
- 💛 <strong>Com ens pots ajudar?</strong>
-</div>
-<br>
-
+<a id="amazon"></a>
 #### 🛒 Wishlist d’Amazon
 
 {{< img 
@@ -36,7 +21,9 @@ Des d’arena fins a llaunetes, joguines i mantes… cada article de la nostra [
 
 <div style="clear:both;"></div>
 
+
 ---
+<a id="teaming"></a>
 #### 🤝 Teaming: 1€ al mes que canvia vides
 
 {{< img 
@@ -52,6 +39,7 @@ Uneix-te al nostre [Teaming](https://www.teaming.net/adoptagatsprat/) i sigues p
 <div style="clear:both;"></div>
 
 ---
+<a id="material"></a>
 #### 🎁 Donacions de material
 
 A OHANA aprofitem absolutament tot. Cada manta, cada llauna i cada transportí es converteix en benestar per a un gat que ho necessita. Si vols ajudar de manera directa i pràctica, aquestes són les coses que més ens sostenen:
@@ -67,7 +55,7 @@ A OHANA aprofitem absolutament tot. Cada manta, cada llauna i cada transportí e
 Si tens dubtes sobre si alguna cosa pot servir, pregunta’ns: a OHANA sempre trobem un gat que ho necessita.
 
 ---
-
+<a id="voluntariado"></a>
 #### 🧶 Artesania i talent solidari
 
 Cada talent pot convertir-se en refugi. Pots col·laborar amb:

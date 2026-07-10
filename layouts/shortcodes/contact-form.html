@@ -12,7 +12,7 @@
 
       <!-- Message -->
       <label for="message">{{ .Get "labelMessage" }}</label>
-      <textarea id="message" name="message" rows="15" required>{{ .Get "defaultMessage" }}</textarea>
+      <textarea id="message" name="message" rows="10" required>{{ .Get "defaultMessage" }}</textarea>
 
       <!-- GDPR / privacy note coming from the markdown file -->
       {{ with .Get "privacyNote" }}

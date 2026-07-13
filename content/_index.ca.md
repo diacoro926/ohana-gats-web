@@ -8,11 +8,6 @@ layout: "home"
   Aquí no només rescatem gatets, rescatem històries.  🐈‍✨
 </div>
 
-{{< img src="img/home/PortadaOhanaDante.png" alt="Portada Ohana" style="width:100%; max-width:660px; border-radius:12px; float:left; margin-right:20px;" >}}
-
-<br>
-<br>
-
 Darrere de cada mirada felina hi ha una vida que mereix amor, cura i una llar on dormir sense por.
 
 Som **OHANA**, una associació sense ànim de lucre que creu en la màgia de les segones oportunitats.
@@ -23,11 +18,6 @@ En aquesta web hi trobaràs molt més que fotos de gatets: descobriràs cors :he
 
 Gràcies per ser aquí. La teva visita ja és un gest d’afecte. I potser avui coneixes el company de vida que no sabies que estaves buscant.
 
-
-
 Coneix els nostres [gats disponibles](/cats/) o descobreix més [sobre nosaltres](/page/about/).
-
-<br>
-<br>
 
 <p style="text-align: center;">¡La teva ajuda els pot canviar la vida!! 🐾</p>

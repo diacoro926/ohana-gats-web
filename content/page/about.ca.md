@@ -1,6 +1,6 @@
 ---
 title: Sobre OHANA
-subtitle: Tot va començar amb un transportí… i una promesa 
+subtitle: Perquè cada gat mereix una oportunitat. Així va començar la nostra història.
 comments: false
 ---
 

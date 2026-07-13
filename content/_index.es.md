@@ -20,9 +20,7 @@ En esta web encontrarás mucho más que fotos de gatitos: descubrirás corazones
 
 Gracias por estar aquí. Tu visita ya es un gesto de cariño. Y quién sabe… tal vez hoy conozcas al compañero de vida que no sabías que estabas buscando.
 
-
 Conoce a nuestros [gatos disponibles](/cats/) o descubre más [sobre nosotros](/page/about/).
-
 
 <p style="text-align: center;">¡Tu ayuda puede cambiarles la vida! 🐾</p>
 

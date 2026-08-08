@@ -84,6 +84,12 @@ Si tienes dudas sobre si algo puede servir, pregúntanos: en OHANA siempre encon
 <a id="voluntariado"></a>
 #### 🤝 Voluntariado: Tu tiempo puede cambiar una vida
 
+{{< img 
+    src="img/Otras/Voluntariado1.jpeg" 
+    alt="Voluntariado" 
+    style="width:200px; float:left; margin-right:20px; border-radius:12px;" 
+>}}
+
 En OHANA creemos que la magia ocurre cuando alguien decide dar un poco de sí para que un gato tenga mucho más.
 Ven a conocerlos, ayúdanos en el refugio, cuídalos, juega con ellos, dales cariño. 
 

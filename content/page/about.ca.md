@@ -6,7 +6,7 @@ comments: false
 
 ## 🐾 **Així va néixer la nostra família**
 ---
-{{< img src="img/Otras/Ohana.png" alt="Ohana" style="width:100%; max-width:600px; border-radius:10px; float:left; margin-right:18px;" >}}
+{{< img src="img/Otras/SobreNosotras.jpeg" alt="Ohana" style="display:block; width:100%; max-width:600px; margin:0 auto 25px auto; border-radius:10px;" >}}
 Tot va començar amb una cosa tan senzilla com un transportí i amb molt poques persones intentant ajudar com podien.
 Durant anys, als carrers del Prat, vam aprendre que a vegades un gest petit —com obrir un transportí amb cura— pot canviar la vida d’un gat.
 

@@ -9,7 +9,7 @@
  &lt;/div&gt;
 
  &lt;div class="col-sm-3 col-xs-6"&gt;
- &lt;a href="#teaming1" class="help-card"&gt;
+ &lt;a href="#teaming" class="help-card"&gt;
  &lt;img src="https://diacoro926.github.io/ohana-gats-web/img/Otras/TeamingDiana.png" alt="Teaming"&gt;
  &lt;h4&gt;🤝 Teaming&lt;/h4&gt;
  &lt;/a&gt;
@@ -51,8 +51,71 @@ Omple el formulari i el teu humà‑mail s’obrirà automàticament. De vegades
 &lt;p&gt;🐾 Abans d’escriure’ns, explica’ns una mica sobre tu i sobre la llar que imagines per a un dels nostres gatets.
 Conèixer el teu entorn i les teves expectatives ens ajuda a assegurar-nos que cada petit trobi un lloc on créixer, sentir-se protegit i crear un vincle per a tota la vida 💛&lt;/p&gt;</description></item><item><title>Dante</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/dante/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/dante/</guid><description>El gat a qui la vida va deixar enrere massa vegades</description></item><item><title>Dynamita</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/dynamita/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/dynamita/</guid><description>Dinamita: La dolçor silenciosa que espera el seu moment</description></item><item><title>Groot</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/groot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/groot/</guid><description>Groot: Un cor que encara espera sentir-se segur</description></item><item><title>Maomao</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/maomao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/maomao/</guid><description>Maomao: El cor tímid que somia amb la seva primera llar</description></item><item><title>Nicky</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/nicky/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/nicky/</guid><description>Nicky: xxxx</description></item><item><title>Patricia</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/patricia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/patricia/</guid><description>Patricia: La gateta tímida que només vol sentir-se segura</description></item><item><title>Pipa</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/pipa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/pipa/</guid><description>Boira:</description></item><item><title>Sobre OHANA</title><link>https://diacoro926.github.io/ohana-gats-web/ca/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/page/about/</guid><description>&lt;h2 id="-així-va-néixer-la-nostra-família"&gt;🐾 &lt;strong&gt;Així va néixer la nostra família&lt;/strong&gt;&lt;/h2&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img src="https://diacoro926.github.io/ohana-gats-web/img/Otras/SobreNosotras.jpeg" alt="Ohana" style="display:block; width:100%; max-width:600px; margin:0 auto 25px auto; border-radius:10px;"&gt;
+&lt;p&gt;&lt;div class="about-carousel"&gt;&lt;div class="about-carousel__slide is-active"&gt;
+
+ &lt;img
+ src="https://diacoro926.github.io/ohana-gats-web/img/about/foto2_.jpeg"
+ alt="OHANA"
+ 
+ loading="eager"
+ fetchpriority="high"
+ 
+ &gt;
+
+ &lt;/div&gt;&lt;div class="about-carousel__slide"&gt;
+
+ &lt;img
+ src="https://diacoro926.github.io/ohana-gats-web/img/about/foto_1.jpeg"
+ alt="OHANA"
+ 
+ loading="lazy"
+ 
+ &gt;
+
+ &lt;/div&gt;&lt;/div&gt;
+
+&lt;script&gt;
+(function () {
+
+ function initAboutCarousel(carousel) {
+
+ const slides =
+ carousel.querySelectorAll(".about-carousel__slide");
+
+ if (slides.length &lt;= 1) {
+ return;
+ }
+
+ let current = 0;
+ const interval = 5000;
+
+ function showNextSlide() {
+
+ slides[current].classList.remove("is-active");
+
+ current = (current + 1) % slides.length;
+
+ slides[current].classList.add("is-active");
+ }
+
+ let timer = setInterval(showNextSlide, interval);
+
+ 
+
+ carousel.addEventListener("mouseenter", function () {
+ clearInterval(timer);
+ });
+
+ carousel.addEventListener("mouseleave", function () {
+ timer = setInterval(showNextSlide, interval);
+ });
+ }
+
+ document
+ .querySelectorAll(".about-carousel")
+ .forEach(initAboutCarousel);
+
+})();
+&lt;/script&gt;
 Tot va començar amb una cosa tan senzilla com un transportí i amb molt poques persones intentant ajudar com podien.
-Durant anys, als carrers del Prat, vam aprendre que a vegades un gest petit —com obrir un transportí amb cura— pot canviar la vida d’un gat.&lt;/p&gt;
-&lt;p&gt;No hi havia grans mitjans ni grans plans. Només la voluntat d’oferir escalfor quan feia fred, menjar quan no n’hi havia i companyia quan ningú més hi era.
-I, a poc a poc, aquest amor pels gats va començar a moure més gent: persones totalment diferents entre si, de llocs, cultures i nacionalitats diverses, unides per un mateix sentiment.&lt;/p&gt;</description></item><item><title>Tia May</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/tiamay/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/tiamay/</guid><description>Tia May: l’heroïna silenciosa de la masia</description></item><item><title>Tigrito</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/tigrito/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/tigrito/</guid><description>Tigrito: El rey del churu y de los juegos</description></item></channel></rss>
+Durant anys, als carrers del Prat, vam aprendre que a vegades un gest petit —com obrir un transportí amb cura— pot canviar la vida d’un gat.&lt;/p&gt;</description></item><item><title>Tia May</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/tiamay/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/tiamay/</guid><description>Tia May: l’heroïna silenciosa de la masia</description></item><item><title>Tigrito</title><link>https://diacoro926.github.io/ohana-gats-web/ca/cats/tigrito/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>Ohanagatsprat@gmail.com</author><guid>https://diacoro926.github.io/ohana-gats-web/ca/cats/tigrito/</guid><description>Tigrito: El rey del churu y de los juegos</description></item></channel></rss>

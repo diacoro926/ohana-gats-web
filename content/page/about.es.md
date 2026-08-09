@@ -6,7 +6,7 @@ comments: false
 
 ## 🐾 **Así nació nuestra familia**
 ---
-{{< img src="img/Otras/SobreNosotras.jpeg" alt="Ohana" style="display:block; width:100%; max-width:600px; margin:0 auto 25px auto; border-radius:10px;" >}}
+{{< about-carousel >}}
 Todo empezó con algo tan sencillo como un transportín y con muy pocas personas intentando ayudar como podían.
 Durante años, en las calles de El Prat, aprendimos que a veces un gesto pequeño —como abrir un transportín con cuidado— puede cambiar la vida de un gato.
 

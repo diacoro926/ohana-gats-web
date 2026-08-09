@@ -1,0 +1,91 @@
+{{- $files := readDir "static/img/about" -}}
+{{- $images := slice -}}
+
+{{- range $files -}}
+  {{- if not .IsDir -}}
+    {{- $name := lower .Name -}}
+
+    {{- if or
+        (strings.HasSuffix $name ".jpg")
+        (strings.HasSuffix $name ".jpeg")
+        (strings.HasSuffix $name ".png")
+        (strings.HasSuffix $name ".webp")
+    -}}
+      {{- $images = $images | append . -}}
+    {{- end -}}
+
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $images) 0 -}}
+
+<div class="about-carousel">
+
+  {{- range $index, $image := $images -}}
+
+    <div class="about-carousel__slide{{ if eq $index 0 }} is-active{{ end }}">
+
+      <img
+        src="{{ printf "img/about/%s" $image.Name | relURL }}"
+        alt="OHANA"
+        {{ if eq $index 0 }}
+          loading="eager"
+          fetchpriority="high"
+        {{ else }}
+          loading="lazy"
+        {{ end }}
+      >
+
+    </div>
+
+  {{- end -}}
+
+</div>
+
+<script>
+(function () {
+
+  function initAboutCarousel(carousel) {
+
+    const slides =
+      carousel.querySelectorAll(".about-carousel__slide");
+
+    if (slides.length <= 1) {
+      return;
+    }
+
+    let current = 0;
+    const interval = 5000;
+
+    function showNextSlide() {
+
+      slides[current].classList.remove("is-active");
+
+      current = (current + 1) % slides.length;
+
+      slides[current].classList.add("is-active");
+    }
+
+    let timer = setInterval(showNextSlide, interval);
+
+    /*
+     * Pause on desktop while the user is looking
+     * at the carousel.
+     */
+    carousel.addEventListener("mouseenter", function () {
+      clearInterval(timer);
+    });
+
+    carousel.addEventListener("mouseleave", function () {
+      timer = setInterval(showNextSlide, interval);
+    });
+  }
+
+  document
+    .querySelectorAll(".about-carousel")
+    .forEach(initAboutCarousel);
+
+})();
+</script>
+
+{{- end -}}

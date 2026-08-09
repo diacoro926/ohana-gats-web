@@ -92,61 +92,115 @@ input[type="submit"]:hover {
 
 /* === Cat grid styles === */
 
+ /* ============================================================
+   CAT GRID
+   ============================================================ */
+
+/*
+ * Small vertical gap between rows.
+ */
+.cat-grid > [class*="col-"] {
+    margin-bottom: 20px;
+}
+
+
+/* ============================================================
+   CAT CARDS
+   ============================================================ */
+
 .cat-card {
-  margin-bottom: 2.5rem;
+    display: block;
 
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
+    padding: 0;
+    margin: 0;
 
-  background-color: #f5f5f5;   /* ← gris claro */
-  border-radius: 12px;
-  border: 2px solid #b14c75;   /* ← magenta oscuro */
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    overflow: hidden;
 
-  padding: 15px;
-  height: 260px;
+    background: #fff;
+    border-radius: 12px;
 
-  transition: transform 0.2s ease;
-  text-align: center;
+    text-align: center;
+
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+
+    transition: all 0.25s ease;
 }
 
 .cat-card:hover {
-  transform: translateY(-5px);
+    transform: translateY(-5px);
+
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
 }
 
-/* Cat image */
 
-.cat-img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 5px;
+/* ============================================================
+   CAT IMAGE
+   ============================================================ */
+
+.cat-card .cat-img {
+    display: block;
+
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    height: auto;
+
+    margin: 0;
+    padding: 0;
+
+    object-fit: cover;
 }
 
-/* Cat text */
 
-.cat-name {
-  font-size: 1.2rem;
-  font-weight: 700;
-  margin-bottom: 0.25rem;
-  color: #2b2b2b;
+/* ============================================================
+   CAT NAME
+   ============================================================ */
+
+.cat-card .cat-name {
+    margin: 10px 10px 5px;
+
+    font-size: 1.1rem;
+    line-height: 1.3;
 }
 
-.cat-meta {
-  font-size: 0.9rem;
-  color: #555;
-  margin: 0;
-}
 
-.cat-summary {
-    margin-top: 8px;
-    font-size: 1.2rem;
-    color: #555;
+/* ============================================================
+   CAT META
+   ============================================================ */
+
+.cat-card .cat-meta {
+    margin: 0 10px 12px;
+
+    font-size: 0.9rem;
     line-height: 1.4;
+
+    color: #555;
 }
 
+
+/* ============================================================
+   CAT LINK
+   ============================================================ */
+
+.cat-card a {
+    text-decoration: none;
+}
+
+.cat-card a:hover {
+    text-decoration: none;
+}
+
+
+/* ============================================================
+   MOBILE
+   ============================================================ */
+
+@media (max-width: 767px) {
+
+    .cat-grid > [class*="col-"] {
+        margin-bottom: 20px;
+    }
+
+}
 /* === Cat detail page === */
 
 
@@ -643,15 +697,16 @@ html {
     margin: 40px 0;
 }
 
-.help-card {
+ .help-card {
     display: block;
     background: #fff;
     border: 2px solid #b14c75;
     border-radius: 12px;
-    padding: 15px;
+    padding: 0;
     text-decoration: none;
     color: #2b2b2b;
     height: 100%;
+    overflow: hidden;
     transition: all .25s ease;
     box-shadow: 0 2px 6px rgba(0,0,0,.08);
 }
@@ -664,19 +719,22 @@ html {
 }
 
 .help-card img {
+    display: block;
     width: 100%;
-    height: 160px;
-    object-fit: contain;
-    margin-bottom: 12px;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
 }
 
 .help-card h4 {
-    margin-bottom: 8px;
+    margin: 12px 15px 8px;
     font-size: 1.1rem;
 }
 
 .help-card p {
-    margin: 0;
+    margin: 0 15px 15px;
     font-size: .9rem;
     line-height: 1.4;
     color: #555;
@@ -687,9 +745,102 @@ html {
         margin-bottom: 20px;
     }
 
-    .help-card img {
-        height: 120px;
-    }
+ 
 }
+
+/*Index video*/
+.homepage-video{
+    margin:40px 0;
+}
+
+.homepage-video video{
+    width:100%;
+    max-width:900px;
+    display:block;
+    margin:auto;
+}
+
+
+/* ============================================================
+   OHANA AUTOMATIC CAROUSEL
+   ============================================================ */
+
+.about-carousel {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto 25px;
+  overflow: hidden;
+  border-radius: 10px;
+
+  /* All images have the same visual dimensions */
+  aspect-ratio: 16 / 9;
+}
+
+
+/*
+ * All slides occupy the same position.
+ */
+.about-carousel__slide {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+
+  width: 100% !important;
+
+  opacity: 0;
+  visibility: hidden;
+
+  transition: opacity 700ms ease;
+}
+
+
+/*
+ * The first slide establishes the carousel height.
+ */
+.about-carousel__slide:first-child {
+  position: relative !important;
+}
+
+
+/*
+ * Only the active slide is visible.
+ */
+.about-carousel__slide.is-active {
+  opacity: 1;
+  visibility: visible;
+  z-index: 1;
+}
+
+
+/*
+ * Responsive images.
+ */
+.about-carousel__slide img {
+  display: block !important;
+
+  width: 100% !important;
+  height: auto !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  border-radius: 0;
+}
+
+
+/*
+ * Don't animate for users who prefer reduced motion.
+ */
+@media (prefers-reduced-motion: reduce) {
+
+  .about-carousel__slide {
+    transition: none;
+  }
+
+}
+
+
+
 
 </style>

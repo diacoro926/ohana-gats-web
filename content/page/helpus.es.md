@@ -33,33 +33,17 @@ Puede parecer un pequeño gesto, pero para ellos puede significar una cama donde
 >}}
 
 
-Las donaciones nos permiten afrontar algo tan importante como los **gastos veterinarios, tratamientos, alimentación y cuidados** que necesitan nuestros pequeños.
+Las donaciones nos permiten afrontar algo tan importante como los **gastos veterinarios, tratamientos, alimentación y cuidados** que necesitan nuestros pequeños. 
 
-> **No existe una cantidad pequeña cuando se hace con el corazón.** 🐾
-
-Mantener el refugio, pagar tratamientos veterinarios y alimentar a todos los gatos rescatados requiere un esfuerzo diario.  
-Por eso, **puedes colaborar de la forma que mejor se adapte a ti.**
+Cada pequeña aportación hace una gran diferencia. 💕🐾
+Puedes ayudarnos de dos formas
 
 ---
 
-#### 🐾 Teaming
-Con solo **1 euro al mes**, puedes formar parte de nuestro equipo de apoyo constante.
-Es una pequeña aportación para ti, pero **un gran gesto para ellos**.
-
-👉 **[Únete a nuestro Teaming](https://www.teaming.net/adoptagatsprat/)**  
-
----
-
-#### 🌸 Coral
-
-Si prefieres hacer una **donación puntual** o aportar otra cantidad, puedes hacerlo de forma rápida y segura a través de nuestra campaña en Coral.
-
-Cada aportación, sea grande o pequeña, nos ayuda a seguir cuidando de nuestros gatos y ofreciéndoles todo lo que necesitan.
-
-
-👉 **[Aporta a través de Coral](https://coral.to/c/ohana-gats-del-prat)**
-
-
+| 🐾 **Teaming (Apoyo Constante)** | 🌸 **Coral (Donación Puntual)** |
+| :--- | :--- |
+| Con solo **1 € al mes**, puedes formar parte de nuestro grupo de apoyo mensual.<br><br>Es una pequeña aportación para ti, pero **un gran gesto para ellos**. | Si prefieres hacer una **donación puntual** u otra cantidad, puedes hacerlo de forma rápida y segura.<br><br>Cada aportación nos ayuda a cubrir gastos veterinarios, comida y cuidados. |
+| 👉 **[Únete a nuestro Teaming](https://www.teaming.net/adoptagatsprat/)** | 👉 **[Aporta a través de Coral](https://coral.to/c/ohana-gats-del-prat)** |
 
 <div style="clear:both;"></div>
 
@@ -68,15 +52,22 @@ Cada aportación, sea grande o pequeña, nos ayuda a seguir cuidando de nuestros
 <a id="material"></a>
 #### 🎁 Donaciones de material
 
-En OHANA aprovechamos absolutamente todo. Cada manta, cada lata y cada transportín se convierte en bienestar para un gato que lo necesita. Si quieres ayudar de forma directa y práctica, estas son las cosas que más nos sostienen:
+¿Prefieres donar alimentos, mantas, arena o juguetes en lugar de dinero? ¡Toda ayuda material es indispensable para el día a día en el refugio!
+ 
+¿Qué necesitamos habitualmente?
 
-**🍽️ Alimentación:** Pienso, latas húmedas, comida gastrointestinal o de recuperación.
+* **🍽️ Alimentación:** Comida seca y húmeda tanto para gatitos como para adultos.
 
-**🐾🛏️ Camas y mantas** lavables, suaves y en buen estado.
+* **🐾🛏️ Confort:** Mantas, toallas en buen estado, camas y rascadores.
+* **Accesorios:** Empapadores y otros suministros básicos para su cuidado diario.
 
-**🐱📦 Transportines rígidos** y seguros, fáciles de limpiar.
+<br>
 
-**🧶 Juguetes y rascadores** para reducir estrés y mejorar la socialización.
+> 📍 **¿Dónde puedes entregarlo?**  
+> Si quieres hacernos llegar donaciones materiales, escríbenos un mensaje a nuestras redes sociales o correo electrónico para coordinar los puntos de recogida habilitados en **El Prat de Llobregat**.
+
+<br>
+
 
 Si tienes dudas sobre si algo puede servir, pregúntanos: en OHANA siempre encontramos un gato que lo necesita.
 

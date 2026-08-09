@@ -1,67 +1,68 @@
 {{ define "main" }}
+<div class="container" role="main">
 
-{{ with .Site.GetPage "section" "cats" }}
-
-<div class="container">
-
-  <!-- Section content -->
-  <div class="row">
-    <div class="col-12">
-
-      <div class="content-box p-3 shadow-sm rounded text-center">
-
-        {{ with .Content }}
-          <div class="text-left">
-            {{ . }}
-          </div>
-        {{ end }}
-
-      </div>
-
+  <!-- Section header -->
+<div class="row">
+    <div class="col-lg-12 col-md-12 text-center">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+        <p class="text-muted">{{ . }}</p>
+      {{ end }}
     </div>
   </div>
 
+  <!-- Intro box from cats/_index.md -->
+  {{ with .Site.GetPage "section" "cats" }}
+    <div class="row mb-5">
+      <div class="col-lg-12 col-md-12">
+         <!-- Subtitle -->
+          
+        <div class="content-box p-3 shadow-sm rounded text-center">
+         
+
+          <!-- Body content -->
+          {{ with .Content }}
+            <div class="text-left">
+              {{ . }}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  {{ end }}
 
   <!-- Cats grid -->
-  <div class="row cat-grid">
-
+  <div class="row cats-grid">
     {{ range .Pages }}
-
-      <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-
-        <div class="cat-card text-center">
-
-          {{ with index .Params.images 0 }}
-
-            <a href="{{ $.RelPermalink }}">
-              <img
-                class="cat-img"
-                src="{{ . | relURL }}"
-                alt="{{ $.Title }}"
-              >
-            </a>
-
-          {{ end }}
-
-          <h5 class="cat-name">
-            {{ .Title }}
-          </h5>
-
-          <p class="cat-meta">
-            {{ with .Params.age }}{{ . }}{{ end }}
-            {{ with .Params.gender }} · {{ . }}{{ end }}
-          </p>
-
-        </div>
-
+      {{ $page := . }}
+      <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
+     
+        <div class="cat-card text-center p-3">
+        {{ with index $page.Params.images 0 }}
+  <div class="cat-image-wrapper">
+    {{ if $page.Params.adopted }}
+      <div class="adopted-watermark">
+        {{ i18n "label_adopted" }}
       </div>
-
     {{ end }}
 
+    <a href="{{ $page.RelPermalink }}">
+      <img class="cat-img mb-2" src="{{ . | relURL }}" alt="{{ $page.Title }}">
+    </a>
+  </div>
+{{ end }}
+
+          <h5 class="cat-name">{{ $page.Title }}</h5>
+
+          <p class="cat-meta">
+            {{ with $page.Params.age }}{{ . }} {{ end }}
+            {{ with $page.Params.gender }} · {{ . }}{{ end }}
+          </p>
+   
+        </div>
+      </div>
+    {{ end }}
   </div>
 
 </div>
-
-{{ end }}
-
 {{ end }}

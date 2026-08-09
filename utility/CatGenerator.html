@@ -1,321 +1,1463 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
   <title>Generador de Markdown para Adopciones</title>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
 
   <style>
-    * { box-sizing: border-box; }
+
+    * {
+      box-sizing: border-box;
+    }
+
 
     body {
       margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background: #f4f6f9;
-      color: #222;
-      padding: 40px 20px;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background: #f7f5f6;
+      color: #2b2b2b;
     }
 
-    .container {
-      max-width: 1000px;
+
+    .generator {
+      width: 100%;
+      max-width: 900px;
       margin: 0 auto;
-      background: white;
-      border-radius: 18px;
-      padding: 32px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+      background: #fff;
+      padding: 25px;
+      border-radius: 14px;
+      box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
     }
+
 
     h1 {
-      margin-top: 0;
-      font-size: 32px;
+      margin: 0 0 25px;
+      text-align: center;
+      color: #b14c75;
+      font-size: 1.8rem;
     }
+
 
     .grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 20px;
+      gap: 18px;
     }
 
-    .full { grid-column: 1 / -1; }
 
     .field {
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 7px;
     }
 
-    label { font-weight: bold; }
 
-    input, select, textarea {
-      border: 1px solid #d9dce1;
-      border-radius: 12px;
-      padding: 14px;
-      font-size: 15px;
+    .field.full {
+      grid-column: 1 / -1;
     }
+
+
+    label {
+      font-weight: 600;
+      font-size: .95rem;
+    }
+
+
+    input,
+    select,
+    textarea {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1px solid #d5d5d5;
+      border-radius: 8px;
+      background: #fff;
+      color: #2b2b2b;
+      font-family: inherit;
+      font-size: .95rem;
+    }
+
+
+    input:focus,
+    select:focus,
+    textarea:focus {
+      outline: none;
+      border-color: #b14c75;
+      box-shadow: 0 0 0 3px rgba(177, 76, 117, .12);
+    }
+
 
     textarea {
-      min-height: 180px;
+      min-height: 220px;
       resize: vertical;
+      line-height: 1.5;
     }
 
-    .actions {
+
+    input[type="file"] {
+      padding: 8px;
+    }
+
+
+    .image-preview {
+      display: grid;
+      grid-template-columns:
+        repeat(auto-fill, minmax(120px, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+
+    .image-preview img {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+
+
+    /* Health checkboxes */
+
+    .health-options {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+
+    .checkbox-option {
       display: flex;
-      gap: 16px;
-      margin-top: 30px;
-    }
-
-    button {
-      border: none;
-      padding: 14px 24px;
-      border-radius: 12px;
-      font-weight: bold;
+      align-items: center;
+      gap: 8px;
+      font-weight: normal;
       cursor: pointer;
     }
 
-    .primary { background: #4f8cff; color: white; }
-    .secondary { background: #1e293b; color: white; }
+
+    .checkbox-option input {
+      width: auto;
+      margin: 0;
+    }
+
+
+    .actions {
+      display: flex;
+      justify-content: center;
+      margin-top: 25px;
+    }
+
+
+    button {
+      border: 0;
+      border-radius: 8px;
+      padding: 12px 24px;
+      background: #555;
+      color: #fff;
+      font-family: inherit;
+      font-size: .95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: .2s ease;
+    }
+
+
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow:
+        0 4px 10px rgba(0, 0, 0, .12);
+    }
+
 
     .status {
       margin-top: 20px;
-      padding: 14px;
-      border-radius: 12px;
-      display: none;
+      padding: 10px 14px;
+      border-radius: 8px;
+      text-align: center;
+      font-size: .9rem;
     }
 
-    .status.success { background: #e7f8ee; color: #166534; display: block; }
-    .status.error { background: #fdecec; color: #991b1b; display: block; }
 
-    .image-preview {
-      max-width: 220px;
-      margin-top: 10px;
-      display: none;
-      border-radius: 12px;
+    @media (max-width: 767px) {
+
+      body {
+        padding: 10px;
+      }
+
+
+      .generator {
+        padding: 18px;
+      }
+
+
+      h1 {
+        font-size: 1.45rem;
+      }
+
+
+      .grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+      }
+
+
+      .field.full {
+        grid-column: auto;
+      }
+
+
+      button {
+        width: 100%;
+      }
+
+
+      .image-preview {
+        grid-template-columns:
+          repeat(2, 1fr);
+      }
+
+
+      .health-options {
+        grid-template-columns: 1fr;
+      }
+
     }
+
   </style>
+
 </head>
 
+
 <body>
-  <div class="container">
 
-    <h1>🐱 Generador de Markdown para Adopciones</h1>
 
-    <div class="grid">
+<main class="generator">
 
-      <div class="field">
-        <label>Nombre</label>
-        <input id="name" placeholder="Nombre" />
-      </div>
 
-      <div class="field">
-        <label>Edad</label>
-        <input id="age" placeholder="Años" />
-      </div>
+  <h1>Generador de Markdown para Adopciones</h1>
 
-      <div class="field">
-        <label>Género</label>
-        <select id="gender">
-          <option value="female">🐱♀ Hembra</option>
-          <option value="male">🐱♂ Macho</option>
-        </select>
-      </div>
 
-      <div class="field">
-        <label>Resumen</label>
-        <input id="summary" placeholder="Resumen emocional" />
-      </div>
+  <div class="grid">
 
-      <div class="field full">
-        <label>Historia</label>
-        <textarea id="story"></textarea>
-      </div>
 
-      <div class="field full">
-        <label>🐱 Su personalidad</label>
-        <textarea id="personality"></textarea>
-      </div>
+    <!-- Nombre -->
 
-      <div class="field full">
-        <label>💛 ¿Qué busca?</label>
-        <textarea id="lookingFor"></textarea>
-      </div>
+    <div class="field">
 
-      <div class="field full">
-        <label>Fotos</label>
-        <input type="file" id="photo" multiple accept="image/*" />
-        <img id="imagePreview" class="image-preview" />
+      <label for="name">
+        Nombre
+      </label>
+
+      <input
+        id="name"
+        type="text"
+        placeholder="Nombre"
+      >
+
+    </div>
+
+
+    <!-- Edad -->
+
+    <div class="field">
+
+      <label for="age">
+        Edad
+      </label>
+
+      <input
+        id="age"
+        type="text"
+        placeholder="Ej. 5 Años"
+      >
+
+    </div>
+
+
+    <!-- Género -->
+
+    <div class="field">
+
+      <label for="gender">
+        Género
+      </label>
+
+      <select id="gender">
+
+        <option value="female">
+          Hembra
+        </option>
+
+        <option value="male">
+          Macho
+        </option>
+
+      </select>
+
+    </div>
+
+
+    <!-- Perfil -->
+
+    <div class="field">
+
+      <label for="profile">
+        Perfil
+      </label>
+
+      <input
+        id="profile"
+        type="text"
+        placeholder="Ej. Adulto"
+      >
+
+    </div>
+
+
+    <!-- Tamaño -->
+
+    <div class="field">
+
+      <label for="size">
+        Tamaño
+      </label>
+
+      <input
+        id="size"
+        type="text"
+        placeholder="Ej. Mediano"
+      >
+
+    </div>
+
+
+    <!-- Fecha -->
+
+    <div class="field">
+
+      <label for="entryDate">
+        Fecha de entrada a Ohana
+      </label>
+
+      <input
+        id="entryDate"
+        type="text"
+        placeholder="Ej. Marzo 2024"
+      >
+
+    </div>
+
+
+    <!-- Resumen -->
+
+    <div class="field full">
+
+      <label for="summary">
+        Resumen
+      </label>
+
+      <input
+        id="summary"
+        type="text"
+        placeholder="Resumen emocional"
+      >
+
+    </div>
+
+
+    <!-- Salud -->
+
+    <div class="field full">
+
+      <label>
+        Salud
+      </label>
+
+
+      <div class="health-options">
+
+
+        <label class="checkbox-option">
+
+          <input
+            type="checkbox"
+            id="sterilized"
+            checked
+          >
+
+          Esterilizado
+
+        </label>
+
+
+        <label class="checkbox-option">
+
+          <input
+            type="checkbox"
+            id="vaccinated"
+          >
+
+          Vacunado
+
+        </label>
+
+
+        <label class="checkbox-option">
+
+          <input
+            type="checkbox"
+            id="infectiousTests"
+            checked
+          >
+
+          Test Infecciosas (FIV/FeLV)
+
+        </label>
+
+
+        <label class="checkbox-option">
+
+          <input
+            type="checkbox"
+            id="dewormed"
+            checked
+          >
+
+          Desparasitado
+
+        </label>
+
+
       </div>
 
     </div>
 
-    <div class="actions">
-      <button class="primary" onclick="translateContent()">
-        Traducir al catalán
-      </button>
 
-      <button class="secondary" onclick="generateZip()">
-        Generar ZIP
-      </button>
+    <!-- Historia -->
+
+    <div class="field full">
+
+      <label for="story">
+        Historia
+      </label>
+
+      <textarea
+        id="story"
+        placeholder="Escribe aquí la historia del gato..."
+      ></textarea>
+
     </div>
 
-    <div id="status" class="status"></div>
+
+    <!-- Fotos -->
+
+    <div class="field full">
+
+      <label for="photo">
+        Fotos (opcional)
+      </label>
+
+      <input
+        type="file"
+        id="photo"
+        multiple
+        accept="image/*"
+      >
+
+      <div
+        id="imagePreview"
+        class="image-preview"
+      ></div>
+
+    </div>
+
+
+    <!-- Estado -->
+
+    <div class="field">
+
+      <label for="adopted">
+        Estado
+      </label>
+
+      <select id="adopted">
+
+        <option value="false">
+          En adopción
+        </option>
+
+        <option value="true">
+          Reservado
+        </option>
+
+      </select>
+
+    </div>
+
 
   </div>
 
+
+  <div class="actions">
+
+    <button
+      type="button"
+      onclick="generateZip()"
+    >
+      Generar ZIP ES + CA
+    </button>
+
+  </div>
+
+
+  <div
+    id="status"
+    class="status"
+  ></div>
+
+
+</main>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+
 <script>
-let translatedStory = "";
-let translatedSummary = "";
-let translatedPersonality = "";
-let translatedLookingFor = "";
 
-const photoInput = document.getElementById('photo');
-const imagePreview = document.getElementById('imagePreview');
+/* ============================================================
+   IMAGE PREVIEW
+   ============================================================ */
 
-photoInput.addEventListener('change', () => {
-  const file = photoInput.files[0];
-  if (file) {
-    imagePreview.src = URL.createObjectURL(file);
-    imagePreview.style.display = 'block';
+const photoInput =
+  document.getElementById("photo");
+
+const imagePreview =
+  document.getElementById("imagePreview");
+
+
+photoInput.addEventListener(
+  "change",
+  function () {
+
+    imagePreview.innerHTML = "";
+
+    const files =
+      Array.from(this.files);
+
+
+    files.forEach(function (file) {
+
+      if (!file.type.startsWith("image/")) {
+        return;
+      }
+
+
+      const reader =
+        new FileReader();
+
+
+      reader.onload =
+        function (event) {
+
+          const img =
+            document.createElement("img");
+
+          img.src =
+            event.target.result;
+
+          img.alt =
+            file.name;
+
+          imagePreview.appendChild(img);
+
+        };
+
+
+      reader.readAsDataURL(file);
+
+    });
+
   }
-});
+);
 
-function slugify(text) {
-  return text.toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/[^a-z0-9]+/g, '_')
-    .replace(/^_|_$/g, '');
-}
 
-function showStatus(msg, type) {
-  const s = document.getElementById('status');
-  s.className = `status ${type}`;
-  s.innerText = msg;
-}
+/* ============================================================
+   HELPERS
+   ============================================================ */
 
-async function translateText(text) {
-  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=es&tl=ca&dt=t&q=${encodeURIComponent(text)}`;
-  const res = await fetch(url);
-  const data = await res.json();
-  return data[0].map(x => x[0]).join('');
-}
+function yamlString(value) {
 
-async function translateContent() {
-  try {
-    showStatus("Traduciendo...", "success");
-
-    translatedSummary = await translateText(document.getElementById('summary').value);
-    translatedStory = await translateText(document.getElementById('story').value);
-    translatedPersonality = await translateText(document.getElementById('personality').value);
-    translatedLookingFor = await translateText(document.getElementById('lookingFor').value);
-
-    showStatus("Traducción completada", "success");
-  } catch (e) {
-    showStatus("Error en traducción", "error");
+  if (
+    value === undefined ||
+    value === null ||
+    value === ""
+  ) {
+    return '""';
   }
+
+
+  return '"' +
+    String(value)
+      .replace(/\\/g, "\\\\")
+      .replace(/"/g, '\\"')
+      .replace(/\r?\n/g, " ")
+    +
+    '"';
+
 }
 
-function buildMarkdown(lang, summary, story, personality, lookingFor, images) {
 
-  const name = document.getElementById('name').value;
-  const age = document.getElementById('age').value;
-  const gender = document.getElementById('gender').value;
+function sanitizeFileName(name) {
 
-  const genderText =
-    lang === 'es'
-      ? (gender === 'female' ? '🐱♀ Hembra' : '🐱♂ Macho')
-      : (gender === 'female' ? '🐱♀ Femella' : '🐱♂ Mascle');
+  return name
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-zA-Z0-9._-]/g, "_");
 
-  const imageLines = images.map(i => `- "img/cats/${i}"`).join('\n');
-
-  const personalityTitle =
-    lang === 'es'
-      ? "### 🐱 Su personalidad:"
-      : "### 🐱 La seva personalitat:";
-
-  const lookingTitle =
-    lang === 'es'
-      ? "### 💛 ¿Qué busca?"
-      : "### 💛 Què busca?";
-
-  return `---
-title: "${name}"
-type: "cats"
-images:
-${imageLines}
-age: ${age}
-gender: "${genderText}"
-summary: "${summary.replaceAll('"','\\"')}"
-adopted: false
----
-
-${story}
-
----
-
-### 🩺 Estado de salud:
-
----
-
-${personalityTitle}
-
-${personality}
-
----
-
-${lookingTitle}
-
-${lookingFor}
-`;
 }
+
+
+function createSlug(name) {
+
+  return name
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
+}
+
+
+/* ============================================================
+   HEALTH
+   ============================================================ */
+
+function getHealthValues() {
+
+  return {
+
+    sterilized:
+      document
+        .getElementById("sterilized")
+        .checked,
+
+    vaccinated:
+      document
+        .getElementById("vaccinated")
+        .checked,
+
+    infectiousTests:
+      document
+        .getElementById("infectiousTests")
+        .checked,
+
+    dewormed:
+      document
+        .getElementById("dewormed")
+        .checked
+
+  };
+
+}
+
+
+function generateHealthMarkdown(
+  health,
+  language
+) {
+
+  const spanish = [
+
+    "Esterilizado",
+
+    "Vacunado",
+
+    "Test Infeciosas(FIV/FeLV)",
+
+    "Desparasitado"
+
+  ];
+
+
+  const catalan = [
+
+    "Esterilitzat",
+
+    "Vacunat",
+
+    "Test Infecciosos(FIV/FeLV)",
+
+    "Desparasitat"
+
+  ];
+
+
+  const labels =
+    language === "ca"
+      ? catalan
+      : spanish;
+
+
+  const values = [
+
+    health.sterilized,
+
+    health.vaccinated,
+
+    health.infectiousTests,
+
+    health.dewormed
+
+  ];
+
+
+  return labels
+    .map(function (label, index) {
+
+      return (
+        values[index]
+          ? "✔️"
+          : "❌"
+      ) + label;
+
+    })
+    .join(", ");
+
+}
+
+
+/* ============================================================
+   TRANSLATION
+   ============================================================ */
+
+async function translateContent(text) {
+
+  if (!text || !text.trim()) {
+    return text;
+  }
+
+
+  const response =
+    await fetch(
+      "https://api.mymemory.translated.net/get?q=" +
+      encodeURIComponent(text) +
+      "&langpair=es|ca"
+    );
+
+
+  if (!response.ok) {
+
+    throw new Error(
+      "Error de traducción"
+    );
+
+  }
+
+
+  const data =
+    await response.json();
+
+
+  if (
+    !data.responseData ||
+    !data.responseData.translatedText
+  ) {
+
+    throw new Error(
+      "No se recibió traducción"
+    );
+
+  }
+
+
+  return data.responseData.translatedText;
+
+}
+
+
+/* ============================================================
+   TRANSLATE STORY
+   ============================================================ */
+
+async function translateStory(story) {
+
+  if (!story || !story.trim()) {
+    return "";
+  }
+
+
+  const paragraphs =
+    story
+      .split(/\n\s*\n/)
+      .map(function (paragraph) {
+        return paragraph.trim();
+      })
+      .filter(Boolean);
+
+
+  const translated = [];
+
+
+  for (
+    const paragraph of paragraphs
+  ) {
+
+    translated.push(
+      await translateContent(
+        paragraph
+      )
+    );
+
+  }
+
+
+  return translated.join("\n\n");
+
+}
+
+
+/* ============================================================
+   GENERATE MARKDOWN
+   ============================================================ */
+
+function generateMarkdown(data) {
+
+  let md = "";
+
+
+  /* FRONT MATTER */
+
+  md += "---\n";
+
+
+  md +=
+    "title: " +
+    yamlString(data.name) +
+    "\n";
+
+
+  md +=
+    'type: "cats"\n';
+
+
+  /* IMAGES */
+
+  if (data.files.length === 0) {
+
+    md +=
+      "images: []\n";
+
+  } else {
+
+    md +=
+      "images:\n";
+
+
+    data.files.forEach(
+      function (file) {
+
+        const filename =
+          sanitizeFileName(
+            file.name
+          );
+
+
+        md +=
+          '  - "img/cats/' +
+          filename +
+          '"\n';
+
+      }
+    );
+
+  }
+
+
+  md +=
+    "age: " +
+    yamlString(data.age) +
+    "\n";
+
+
+  md +=
+    "gender: " +
+    yamlString(data.gender) +
+    "\n";
+
+
+  md +=
+    "summary: " +
+    yamlString(data.summary) +
+    "\n";
+
+
+  md +=
+    "adopted: " +
+    data.adopted +
+    "\n";
+
+
+  md +=
+    "---\n\n";
+
+
+  /* BODY */
+
+  md +=
+    "🐾 **" +
+    data.labels.data +
+    "**\n\n";
+
+
+  md +=
+    "- **" +
+    data.labels.profile +
+    ":** " +
+    (data.profile || "[Completar]") +
+    "\n";
+
+
+  md +=
+    "- **" +
+    data.labels.size +
+    ":** " +
+    (data.size || "[Completar]") +
+    "\n";
+
+
+  md +=
+    "- **" +
+    data.labels.entry +
+    ":** " +
+    (data.entry ||
+      "[Completar mes/año]") +
+    "\n";
+
+
+  md +=
+    "- **" +
+    data.labels.health +
+    ":** " +
+    (data.health ||
+      "[Completar]") +
+    "\n\n";
+
+
+  md +=
+    "📖 **" +
+    data.labels.storyTitle +
+    "**\n\n";
+
+
+  if (data.story) {
+
+    const paragraphs =
+      data.story
+        .split(/\n\s*\n/)
+        .map(function (paragraph) {
+          return paragraph.trim();
+        })
+        .filter(Boolean);
+
+
+    paragraphs.forEach(
+      function (
+        paragraph,
+        index
+      ) {
+
+        paragraph
+          .split("\n")
+          .forEach(
+            function (line) {
+
+              md +=
+                "> *" +
+                line.trim() +
+                "*\n";
+
+            }
+          );
+
+
+        if (
+          index <
+          paragraphs.length - 1
+        ) {
+
+          md +=
+            ">\n";
+
+        }
+
+      }
+    );
+
+  } else {
+
+    md +=
+      "> *[" +
+      data.labels.emptyStory +
+      "]*\n";
+
+  }
+
+
+  return md;
+
+}
+
+
+/* ============================================================
+   GENERATE ZIP
+   ============================================================ */
 
 async function generateZip() {
 
-  const name = document.getElementById('name').value.trim();
-  const summary = document.getElementById('summary').value.trim();
-  const story = document.getElementById('story').value.trim();
-  const personality = document.getElementById('personality').value.trim();
-  const lookingFor = document.getElementById('lookingFor').value.trim();
+  const status =
+    document.getElementById(
+      "status"
+    );
 
-  if (!name || !summary || !story || !personality || !lookingFor) {
-    return showStatus("Completa todos los campos", "error");
+
+  const name =
+    document
+      .getElementById("name")
+      .value
+      .trim();
+
+
+  if (!name) {
+
+    status.textContent =
+      "Introduce el nombre del gato.";
+
+    return;
+
   }
 
-  if (!translatedStory) {
-    return showStatus("Primero traduce", "error");
+
+  const files =
+    Array.from(
+      photoInput.files
+    );
+
+
+  try {
+
+    status.textContent =
+      "Traduciendo al catalán...";
+
+
+    /* ========================================================
+       FORM DATA
+       ======================================================== */
+
+    const age =
+      document
+        .getElementById("age")
+        .value
+        .trim();
+
+
+    const profile =
+      document
+        .getElementById("profile")
+        .value
+        .trim();
+
+
+    const size =
+      document
+        .getElementById("size")
+        .value
+        .trim();
+
+
+    const entryDate =
+      document
+        .getElementById("entryDate")
+        .value
+        .trim();
+
+
+    const summary =
+      document
+        .getElementById("summary")
+        .value
+        .trim();
+
+
+    /*
+     * Health is an object.
+     * It must NOT be sent to translateContent().
+     */
+
+    const health =
+      getHealthValues();
+
+
+    const story =
+      document
+        .getElementById("story")
+        .value
+        .trim();
+
+
+    const adopted =
+      document
+        .getElementById("adopted")
+        .value;
+
+
+    const gender =
+      document
+        .getElementById("gender")
+        .value;
+
+
+    /* ========================================================
+       SPANISH
+       ======================================================== */
+
+    const genderES =
+      gender === "female"
+        ? "🐱♀ Hembra"
+        : "🐱♂ Macho";
+
+
+    const spanishData = {
+
+      name: name,
+
+      age: age,
+
+      gender: genderES,
+
+      summary: summary,
+
+      profile: profile,
+
+      size: size,
+
+      entry: entryDate,
+
+      health:
+        generateHealthMarkdown(
+          health,
+          "es"
+        ),
+
+      story: story,
+
+      adopted: adopted,
+
+      files: files,
+
+      labels: {
+
+        data:
+          "Mis Datos",
+
+        profile:
+          "Perfil",
+
+        size:
+          "Tamaño",
+
+        entry:
+          "Fecha de entrada a Ohana",
+
+        health:
+          "Salud",
+
+        storyTitle:
+          "Mi Historia",
+
+        emptyStory:
+          "Escribir historia"
+
+      }
+
+    };
+
+
+    /* ========================================================
+       CATALAN TRANSLATION
+       ======================================================== */
+
+    /*
+     * Health is deliberately NOT translated by the API.
+     * The checkbox values are converted directly into Catalan.
+     */
+
+    const [
+
+      summaryCA,
+
+      profileCA,
+
+      sizeCA,
+
+      entryDateCA,
+
+      storyCA
+
+    ] = await Promise.all([
+
+      translateContent(
+        summary
+      ),
+
+      translateContent(
+        profile
+      ),
+
+      translateContent(
+        size
+      ),
+
+      translateContent(
+        entryDate
+      ),
+
+      translateStory(
+        story
+      )
+
+    ]);
+
+
+    const genderCA =
+      gender === "female"
+        ? "🐱♀ Femella"
+        : "🐱♂ Mascle";
+
+
+    const catalanData = {
+
+      name: name,
+
+      age: age,
+
+      gender: genderCA,
+
+      summary: summaryCA,
+
+      profile: profileCA,
+
+      size: sizeCA,
+
+      entry: entryDateCA,
+
+      health:
+        generateHealthMarkdown(
+          health,
+          "ca"
+        ),
+
+      story: storyCA,
+
+      adopted: adopted,
+
+      files: files,
+
+      labels: {
+
+        data:
+          "Les Meves Dades",
+
+        profile:
+          "Perfil",
+
+        size:
+          "Mida",
+
+        entry:
+          "Data d'entrada a Ohana",
+
+        health:
+          "Salut",
+
+        storyTitle:
+          "La Meva Història",
+
+        emptyStory:
+          "Escriure història"
+
+      }
+
+    };
+
+
+    /* ========================================================
+       GENERATE MARKDOWN FILES
+       ======================================================== */
+
+    const markdownES =
+      generateMarkdown(
+        spanishData
+      );
+
+
+    const markdownCA =
+      generateMarkdown(
+        catalanData
+      );
+
+
+    /* ========================================================
+       CREATE ZIP
+       ======================================================== */
+
+    status.textContent =
+      "Creando ZIP...";
+
+
+    const zip =
+      new JSZip();
+
+
+    /* ========================================================
+       PHOTOS
+       ======================================================== */
+
+    if (files.length > 0) {
+
+      const imageFolder =
+        zip.folder(
+          "static/img/cats"
+        );
+
+
+      for (
+        const file of files
+      ) {
+
+        const filename =
+          sanitizeFileName(
+            file.name
+          );
+
+
+        const buffer =
+          await file.arrayBuffer();
+
+
+        imageFolder.file(
+          filename,
+          buffer
+        );
+
+      }
+
+    }
+
+
+    /* ========================================================
+       CONTENT
+       ======================================================== */
+
+    const contentFolder =
+      zip.folder(
+        "content/cats"
+      );
+
+
+    const slug =
+      createSlug(name);
+
+
+    contentFolder.file(
+      slug + ".es.md",
+      markdownES
+    );
+
+
+    contentFolder.file(
+      slug + ".ca.md",
+      markdownCA
+    );
+
+
+    /* ========================================================
+       DOWNLOAD
+       ======================================================== */
+
+    const blob =
+      await zip.generateAsync({
+        type: "blob"
+      });
+
+
+    const url =
+      URL.createObjectURL(
+        blob
+      );
+
+
+    const link =
+      document.createElement(
+        "a"
+      );
+
+
+    link.href = url;
+
+
+    link.download =
+      slug + "-ohana.zip";
+
+
+    document.body.appendChild(
+      link
+    );
+
+
+    link.click();
+
+
+    document.body.removeChild(
+      link
+    );
+
+
+    URL.revokeObjectURL(
+      url
+    );
+
+
+    status.textContent =
+      "ZIP generado correctamente.";
+
   }
 
-  const slug = slugify(name);
 
-  const files = photoInput.files;
-  const images = [];
+  catch (error) {
 
-  for (let i = 0; i < files.length; i++) {
-    const ext = files[i].name.split('.').pop();
-    images.push(`${slug}_${i+1}.${ext}`);
+    console.error(error);
+
+
+    status.textContent =
+      "Error al traducir o generar el ZIP.";
+
   }
 
-  const es = buildMarkdown('es', summary, story, personality, lookingFor, images);
-  const ca = buildMarkdown('ca', translatedSummary, translatedStory, translatedPersonality, translatedLookingFor, images);
-
-  const zip = new JSZip();
-  const folder = zip.folder("cats");
-
-  folder.file(`${slug}.es.md`, es);
-  folder.file(`${slug}.ca.md`, ca);
-
-  for (let i = 0; i < files.length; i++) {
-    folder.file(images[i], await files[i].arrayBuffer());
-  }
-
-  const blob = await zip.generateAsync({ type: "blob" });
-  saveAs(blob, `${slug}.zip`);
-
-  showStatus("ZIP generado", "success");
 }
+
 </script>
 
+
 </body>
+
 </html>

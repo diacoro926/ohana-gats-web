@@ -91,120 +91,63 @@ input[type="submit"]:hover {
 }
 
 /* === Cat grid styles === */
-
- /* ============================================================
-   CAT GRID
-   ============================================================ */
-
-/*
- * Small vertical gap between rows.
- */
-.cat-grid > [class*="col-"] {
-    margin-bottom: 20px;
-}
-
-
 /* ============================================================
-   CAT CARDS
+   CATS
    ============================================================ */
 
 .cat-card {
-    display: block;
-
-    padding: 0;
-    margin: 0;
-
-    overflow: hidden;
-
+    height: 100%;
     background: #fff;
     border-radius: 12px;
-
-    text-align: center;
-
+    padding: 15px;
+    margin-bottom: 20px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-
-    transition: all 0.25s ease;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .cat-card:hover {
-    transform: translateY(-5px);
-
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+    transform: translateY(-4px);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
 }
 
-
-/* ============================================================
-   CAT IMAGE
-   ============================================================ */
-
-.cat-card .cat-img {
-    display: block;
-
+.cat-img {
     width: 100%;
-    aspect-ratio: 4 / 3;
-    height: auto;
-
-    margin: 0;
-    padding: 0;
-
+    height: 200px;
     object-fit: cover;
+    border-radius: 10px;
+    display: block;
 }
 
-
-/* ============================================================
-   CAT NAME
-   ============================================================ */
-
-.cat-card .cat-name {
-    margin: 10px 10px 5px;
-
+.cat-name {
+    margin: 10px 0 5px;
     font-size: 1.1rem;
-    line-height: 1.3;
 }
 
-
-/* ============================================================
-   CAT META
-   ============================================================ */
-
-.cat-card .cat-meta {
-    margin: 0 10px 12px;
-
+.cat-meta {
+    margin: 0;
     font-size: 0.9rem;
-    line-height: 1.4;
-
-    color: #555;
+    color: #666;
 }
 
 
-/* ============================================================
-   CAT LINK
-   ============================================================ */
-
-.cat-card a {
-    text-decoration: none;
-}
-
-.cat-card a:hover {
-    text-decoration: none;
-}
-
-
-/* ============================================================
-   MOBILE
-   ============================================================ */
+/* Responsive */
 
 @media (max-width: 767px) {
 
-    .cat-grid > [class*="col-"] {
+    .cat-card {
         margin-bottom: 20px;
     }
 
+    .cat-img {
+        height: 180px;
+    }
+
 }
+
+
+
+ 
 /* === Cat detail page === */
-
-
-
 .cat-detail-card {
   padding: 30px;
   position: relative;

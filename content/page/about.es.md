@@ -7,6 +7,7 @@ comments: false
 ## 🐾 **Así nació nuestra familia**
 ---
 {{< about-carousel >}}
+
 Todo empezó con algo tan sencillo como un transportín y con muy pocas personas intentando ayudar como podían.
 Durante años, en las calles de El Prat, aprendimos que a veces un gesto pequeño —como abrir un transportín con cuidado— puede cambiar la vida de un gato.
 
@@ -31,13 +32,11 @@ La historia de quienes sostienen lo invisible.
 <div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
  💌 <strong>MISIÓN</strong>
 </div>
+
 Ser refugio, voz y familia para los gatos callejeros de El Prat y sus alrededores.
-
 Trabajamos para proteger, cuidar y acompañar a cada gato que vive en la calle, ofreciéndole calor, alimento, atención veterinaria y una oportunidad real de vivir sin miedo, sin frío y sin hambre.
-
 Nuestra misión es transformar pequeños gestos en grandes cambios, creando una red de personas comprometidas que sostienen lo invisible y creen que cada vida importa.
 
-<div style="height:15px;"></div>
 
 ---
 

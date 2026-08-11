@@ -7,6 +7,7 @@ comments: false
 ## 🐾 **Així va néixer la nostra família**
 ---
 {{< about-carousel >}}
+
 Tot va començar amb una cosa tan senzilla com un transportí i amb molt poques persones intentant ajudar com podien.
 Durant anys, als carrers del Prat, vam aprendre que a vegades un gest petit —com obrir un transportí amb cura— pot canviar la vida d’un gat.
 
@@ -46,7 +47,6 @@ La que trobes pel camí, la que abraça sense judicis, la que sosté quan hi ha 
 És llar, confiança, connexió profunda.  
 És sentir que ets al lloc adequat, amb les persones adequades, fent alguna cosa que omple l’ànima.
 
-<div style="height:10px;"></div>
 
 ---
 

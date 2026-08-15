@@ -9,7 +9,7 @@ images:
 age: 5 Años
 gender: "🐱♂ Macho"
 summary: "El rey de Ohana Gats que busca un hogar paciente donde descubrir que también merece ser querido."
-adopted: false
+adopted: yes
 
 ---
 

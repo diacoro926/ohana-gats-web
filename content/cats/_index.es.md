@@ -16,8 +16,7 @@ Si has llegado hasta aquí, no es casualidad.... Tal vez uno de ellos te está e
 💙 Conócelos. Escúchalos. Adóptalos. Porque en OHANA, *nadie se queda atrás… ni se olvida*.
 
 <!-- Advertencia Gatuna -->
-<div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-  ⚠️ <strong style="color:#457b9d;">Advertencia gatuna:</strong> Esta página puede provocar afecto espontáneo, suspiros prolongados y deseos de adoptar sin previo aviso.🐾.
+<div style="display:table; max-width:95%; box-sizing:border-box; margin:14px auto; padding:8px 15px; background-color:#E6E6FA; border-left:4px solid #c47da3; border-radius:5px; color:#2c3e50; font-size:15px; line-height:1.45; text-align:left; box-shadow:0 1px 5px rgba(0,0,0,0.07);">
+  ⚠️ <strong style="color:#457b9d;">Advertencia gatuna:</strong>
+  Esta página puede provocar afecto espontáneo, suspiros prolongados y deseos de adoptar sin previo aviso. 🐾
 </div>
-
----

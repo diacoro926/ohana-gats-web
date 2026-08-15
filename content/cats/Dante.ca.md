@@ -9,7 +9,7 @@ images:
 age: 5 anys
 gender: "🐱♂ Mascle"
 summary: "El gat a qui la vida va deixar enrere massa vegades"
-adopted: false
+adopted: yes
 ---
 
 

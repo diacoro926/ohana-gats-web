@@ -1,10 +1,7 @@
 ---
-title: "La Familia OHANA"
+title: "¡Bienvenid@ a la familia OHANA 🐾"
 type: "cats"
 subtitle: "Conoce a la familia OHANA: bigotes curiosos, patitas valientes y corazones que buscan su lugar contigo."
----
-
-## ¡Bienvenid@ a la familia OHANA 🐾!
 ---
 Aquí no solo rescatamos gatitos. En OHANA, **creamos familia**.  
 Cada uno de nuestros peluditos tiene una historia que merece ser escuchada, un corazón que late por cariño, y unas patitas que sueñan con caminar a tu lado.

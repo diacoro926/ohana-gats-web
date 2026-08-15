@@ -2,7 +2,7 @@
 title: "Rosita"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Rosita-1.jpeg"
 age: "6 meses - 1 Año"
 gender: "🐱♀ Hembra"
 summary: "Dale tiempo, paciencia y cariño, y poco a poco te enseñará quién es realmente."

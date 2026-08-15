@@ -2,7 +2,7 @@
 title: "Ares & MaoMao"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/AresYMao-1.jpeg"
 age: ""
 gender: "🐱♂ Mascle"
 summary: "Es van conèixer al refugi i es van fer inseparables; ara busquem una llar per als dos, perquè separar-los ens trencaria el cor."

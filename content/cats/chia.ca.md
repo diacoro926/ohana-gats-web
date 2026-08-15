@@ -2,7 +2,7 @@
 title: "Chia"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Chia-1.jpeg"
 age: "1 Año"
 gender: "🐱♀ Femella"
 summary: "Té caràcter, sap el que vol i no dubta a fer alguna maledicció."

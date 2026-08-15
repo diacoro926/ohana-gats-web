@@ -2,7 +2,9 @@
 title: "Loto"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Loto-1.jpeg"
+- "img/cats/Loto-2.jpeg"
+- "img/cats/Loto-3.jpeg"
 age: "1 Año"
 gender: "🐱♀ Femella"
 summary: "De vegades sembla que estigui en el seu propi món, però precisament hi ha part del seu encant."

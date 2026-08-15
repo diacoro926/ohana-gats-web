@@ -2,7 +2,9 @@
 title: "Verity"
 type: "cats"
 images:
-  - "img/cats/Verity-1.jpeg"
+- "img/cats/Verity-1.jpeg"
+- "img/cats/Verity-2.jpeg"
+- "img/cats/Verity-3.jpeg"
 age: "1 año aproximadamente"
 gender: "🐱♀ Hembra"
 summary: "Refinada, distinguida y con una presencia que no pasa desapercibida."

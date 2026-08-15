@@ -2,7 +2,8 @@
 title: "Epi"
 type: "cats"
 images:
-- "img/cats/Epi-1.jpeg"
+- "img/cats/EPI-1.jpeg"
+- "img/cats/EPI-2.jpeg"
 age: "1 - 2 Años"
 gender: "🐱♂ Macho"
 summary: "Dulce y pausado, prefiere observar el mundo desde su rincón favorito."

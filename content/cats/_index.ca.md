@@ -1,12 +1,8 @@
 ---
-title: "La Família OHANA"
+title: "Benvingut/da a la família OHANA 🐾"
 type: "cats"
 subtitle: "Coneix la família OHANA: bigotis curiosos, patetes valentes i cors que busquen el seu lloc amb tu."
 ---
-
-## Benvingut/da a la família OHANA 🐾!
----
-
 Aquí no només rescatem gatets. A OHANA, **creem família**.  
 Cada un dels nostres peludets té una història que mereix ser escoltada, un cor que batega per afecte i unes patetes que somien caminar al teu costat.
 

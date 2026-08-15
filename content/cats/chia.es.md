@@ -2,7 +2,7 @@
 title: "Chia"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Chia-1.jpeg"
 age: "1 Año"
 gender: "🐱♀ Hembra"
 summary: "Tiene carácter, sabe lo que quiere y no duda en hacer alguna que otra travesura."

@@ -2,7 +2,7 @@
 title: "Rosita"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Rosita-1.jpeg"
 age: "6 meses - 1 Año"
 gender: "🐱♀ Femella"
 summary: "Doneu-li temps, paciència i afecte, i poc a poc us anirà mostrant qui és realment."

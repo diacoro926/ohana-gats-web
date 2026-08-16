@@ -10,7 +10,7 @@ comments: false
 #### 🛒 Wishlist d’Amazon
 
 {{< img 
-    src="img/Otras/Amazon.jpeg" 
+    src="img/helpus/AmazonWishlist-1.jpeg" 
     alt="Amazon-donacions" 
     style="width:180px; float:left; margin-right:20px; border-radius:12px;" 
 >}}     

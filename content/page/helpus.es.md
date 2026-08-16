@@ -10,9 +10,9 @@ comments: false
 #### 🛒 Nuestra lista de deseos de Amazon
 
 {{< img 
-    src="img/Otras/Amazon.jpeg" 
+    src="img/helpus/AmazonWishlist-1.jpeg"  
     alt="Amazon-donaciones" 
-    style="width:180px; float:left; margin-right:20px; border-radius:12px;" 
+    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
 >}}
 
 Puedes ayudarnos desde nuestra [Lista de Deseos](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share), eligiendo alguno de los productos que necesitamos para nuestros gatos. 
@@ -27,7 +27,7 @@ Puede parecer un pequeño gesto, pero para ellos puede significar una cama donde
 #### 🤝 Donaciones económicas — Teaming y Coral
 
 {{< img 
-    src="img/Otras/TeamingDiana.png" 
+    src="img/helpus/Donacion-1.jpeg" 
     alt="Teaming-donaciones" 
     style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
 >}}
@@ -51,6 +51,13 @@ Puedes ayudarnos de dos formas
 
 <a id="material"></a>
 #### 🎁 Donaciones de material
+
+
+{{< img 
+    src="img/helpus/DonacionMaterial-1.jpeg"  
+    alt="Donacion de materiales para el refuio de gatos" 
+    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
+>}}
 
 ¿Prefieres donar alimentos, mantas, arena o juguetes en lugar de dinero? ¡Toda ayuda material es indispensable para el día a día en el refugio!
  
@@ -76,9 +83,9 @@ Si tienes dudas sobre si algo puede servir, pregúntanos: en OHANA siempre encon
 #### 🤝 Voluntariado: Tu tiempo puede cambiar una vida
 
 {{< img 
-    src="img/Otras/Voluntariado1.jpeg" 
-    alt="Voluntariado" 
-    style="width:200px; float:left; margin-right:20px; border-radius:12px;" 
+    src="img/helpus/Voluntariado-1.jpeg"  
+    alt="Voluntariado en el refugio" 
+    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
 >}}
 
 En OHANA creemos que la magia ocurre cuando alguien decide dar un poco de sí para que un gato tenga mucho más.

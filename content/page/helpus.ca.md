@@ -19,7 +19,7 @@ Vols ajudar-nos amb allò que més necessitem?
 Des d’arena fins a llaunetes, joguines i mantes… cada article de la nostra [wishlist](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share&fbclid=PAb21jcAOGcudleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcIY2FsbHNpdGUCMTUAAac29xLqcYxi2uETKIhBcs0J8n0AP8RiucND90w7x-JGZs92E8P0iF6XYQfnaw_aem_xQgJXqUfcNC0GxdbW-LE6g) és una carícia directa per als nostres gats.  
 **Tu tries què regalar-los!**
 
-<div style="clear:both;"></div>
+
 
 
 ---
@@ -36,7 +36,6 @@ Amb només **1 euro al mes**, pots formar part del nostre equip de suport consta
 És menys que un cafè, però per a ells pot significar menjar, medicació o una visita al veterinari.  
 Uneix-te al nostre [Teaming](https://www.teaming.net/adoptagatsprat/) i sigues part de la seva història.
 
-<div style="clear:both;"></div>
 
 ---
 <a id="material"></a>

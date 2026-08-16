@@ -45,7 +45,7 @@ Puedes ayudarnos de dos formas
 | Con solo **1 € al mes**, puedes formar parte de nuestro grupo de apoyo mensual.<br><br>Es una pequeña aportación para ti, pero **un gran gesto para ellos**. | Si prefieres hacer una **donación puntual** u otra cantidad, puedes hacerlo de forma rápida y segura.<br><br>Cada aportación nos ayuda a cubrir gastos veterinarios, comida y cuidados. |
 | 👉 **[Únete a nuestro Teaming](https://www.teaming.net/adoptagatsprat/)** | 👉 **[Aporta a través de Coral](https://coral.to/c/ohana-gats-del-prat)** |
 
-<div style="clear:both;"></div>
+ 
 
 ---
 
@@ -94,3 +94,4 @@ Ven a conocerlos, ayúdanos en el refugio, cuídalos, juega con ellos, dales car
 Porque para un gato que ha conocido el abandono, **sentir que alguien se preocupa por él puede significarlo todo.**
 
  No hace falta experiencia, ni grandes horas, ni saber “hacerlo perfecto”. Solo ganas de cuidar, acompañar y ser parte de una gran familia!
+ 

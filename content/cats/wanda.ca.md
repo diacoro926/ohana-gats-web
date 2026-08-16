@@ -3,6 +3,8 @@ title: "Wanda"
 type: "cats"
 images: 
 - "img/cats/Wanda-1.jpeg"
+- "img/cats/Wanda-2.jpeg"
+- "img/cats/Wanda-3.jpeg"
 age: "9 Años"
 gender: "🐱♀ Femella"
 summary: "Segurs de si mateixos, elegants i plenament conscients de qui està al capdavant."

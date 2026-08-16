@@ -3,6 +3,8 @@ title: "Wanda"
 type: "cats"
 images: 
 - "img/cats/Wanda-1.jpeg"
+- "img/cats/Wanda-2.jpeg"
+- "img/cats/Wanda-3.jpeg"
 age: "9 Años"
 gender: "🐱♀ Hembra"
 summary: "Segura de sí misma, elegante y plenamente consciente de quién manda."

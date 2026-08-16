@@ -2,7 +2,7 @@
 title: "Whisky"
 type: "cats"
 images: 
-- "img/cats/Placeholder.jpg"
+- "img/cats/Whisky-1.jpeg"
 age: "6 Años"
 gender: "🐱♂ Macho"
 summary: "Busca cariño, ronronea con facilidad y nunca dice que no a unas caricias."

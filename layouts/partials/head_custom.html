@@ -111,9 +111,9 @@ input[type="submit"]:hover {
 }
 
 .cat-img {
-    width: 100%;
-    aspect-ratio: 1 / 1;
-    height: auto;
+    width: 100% !important;
+    aspect-ratio: 1 / 1 !important;
+    height: auto !important;
     object-fit: cover;
     border-radius: 10px;
     display: block;
@@ -139,9 +139,7 @@ input[type="submit"]:hover {
         margin-bottom: 20px;
     }
 
-    .cat-img {
-        height: 180px;
-    }
+    
 
 }
  
@@ -167,11 +165,44 @@ input[type="submit"]:hover {
 
 /* === Cat markdown sections === */
 
-.cat-detail-content h3 {
-  margin-top: 2rem;
-  margin-bottom: 0.6rem;
-  font-weight: 700;
+.cat-detail-content {
+    width: 100%;
+    overflow: visible;
 }
+
+.cat-detail-content p {
+    margin: 1.5rem 0 0.8rem;
+    font-weight: 700;
+    overflow-wrap: break-word;
+}
+
+.cat-detail-content blockquote {
+    margin: 0 0 1.5rem;
+}
+
+@media (max-width: 767px) {
+
+    .cat-detail-card {
+        padding: 15px;
+    }
+
+    .cat-detail-content {
+        width: 100%;
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+
+    .cat-detail-content p {
+        margin: 1.5rem 0 0.8rem;
+    }
+
+    .cat-detail-content blockquote {
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0.8rem;
+    }
+
+} 
 
 /* Navigation buttons */
 

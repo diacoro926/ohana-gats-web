@@ -4,6 +4,7 @@ type: "cats"
 images:
   - "img/cats/Tigrito-1.jpeg"
   - "img/cats/Tigrito-2.jpeg"
+  - "img/cats/Tigrito-3.jpeg"
 age: "1 año y medio"
 gender: "🐱♂ Mascle"
 summary: "Tigrito: El rei del churu i els jocs"

@@ -68,7 +68,6 @@ Haz una **donación puntual o recurrente desde 1 €** y ayúdanos a cubrir sus 
 > 📍 **¿Dónde puedes entregarlo?**  
 > Si quieres hacernos llegar donaciones materiales, escríbenos un mensaje a nuestras redes sociales o correo electrónico para coordinar los puntos de recogida habilitados en **El Prat de Llobregat**.
 
-
 ---
 <a id="voluntariado"></a>
 #### 🤝 Voluntariado: Tu tiempo puede cambiar una vida

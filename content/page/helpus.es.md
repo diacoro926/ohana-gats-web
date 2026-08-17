@@ -15,9 +15,11 @@ comments: false
     style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
 >}}
 
-Puedes ayudarnos desde nuestra [Lista de Deseos](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share), eligiendo alguno de los productos que necesitamos para nuestros gatos. 
+Puedes formar parte de su historia desde nuestra [Lista de Deseos](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share).
 
-Puede parecer un pequeño gesto, pero para ellos puede significar una cama donde dormir, comida en su cuenco o un juguete con el que volver a disfrutar.
+Cada producto que eliges se convierte en algo que necesitan: una cama donde descansar, comida en su cuenco o un juguete con el que volver a ser felices.
+
+Gracias por hacer que Ohana sea un poquito más hogar. ❤️
 
 <div style="clear:both;"></div>
 
@@ -32,20 +34,18 @@ Puede parecer un pequeño gesto, pero para ellos puede significar una cama donde
     style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
 >}}
 
+Las donaciones nos permiten seguir cuidando de nuestros gatos y cubrir sus **gastos veterinarios, tratamientos, alimentación y todo lo que necesitan para estar bien**.
 
-Las donaciones nos permiten afrontar algo tan importante como los **gastos veterinarios, tratamientos, alimentación y cuidados** que necesitan nuestros pequeños. 
+Cada pequeña aportación hace una gran diferencia. 💕🐾Puedes ayudarnos de dos formas
 
-Cada pequeña aportación hace una gran diferencia. 💕🐾
-Puedes ayudarnos de dos formas
+#### 🐾 Teaming
+**1 € al mes** para ayudarnos de forma continuada. Una pequeña aportación que, mes a mes, nos permite seguir cuidándolos.   
+👉 [**Únete a nuestro Teaming**](https://www.teaming.net/adoptagatsprat/)
 
----
 
-| 🐾 **Teaming (Apoyo Constante)** | 🌸 **Coral (Donación Puntual)** |
-| :--- | :--- |
-| Con solo **1 € al mes**, puedes formar parte de nuestro grupo de apoyo mensual.<br><br>Es una pequeña aportación para ti, pero **un gran gesto para ellos**. | Si prefieres hacer una **donación puntual** u otra cantidad, puedes hacerlo de forma rápida y segura.<br><br>Cada aportación nos ayuda a cubrir gastos veterinarios, comida y cuidados. |
-| 👉 **[Únete a nuestro Teaming](https://www.teaming.net/adoptagatsprat/)** | 👉 **[Aporta a través de Coral](https://coral.to/c/ohana-gats-del-prat)** |
-
- 
+#### 🌿 Coral
+Haz una **donación puntual o recurrente desde 1 €** y ayúdanos a cubrir sus necesidades cuando más lo necesitan.
+👉 [**Aporta a través de Coral**](https://coral.to/c/ohana-gats-del-prat)
 
 ---
 

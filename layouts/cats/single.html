@@ -1,3 +1,5 @@
+ 
+
 {{ define "main" }}
 <!-- Swiper CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
@@ -74,21 +76,65 @@
 </div>
 
 
-        <!-- Navigation Arrows -->
+ <!-- Navigation Arrows -->
+
+{{ $cats := sort .Parent.RegularPages "Title" }}
+{{ $current := . }}
+
 <div class="cat-detail-nav mt-4 d-flex justify-content-between align-items-center">
-  {{ with .PrevInSection }}
-    <a class="btn nav-btn" href="{{ .RelPermalink }}" title="{{ i18n "previousCat" }}">&larr;</a>
-  {{ else }}
-    <span></span>
-  {{ end }}
 
-  <a class="btn nav-btn back-btn mx-3" href="{{ .Parent.RelPermalink }}" title="{{ i18n "backToList" }}">&uarr;</a>
+  <!-- Previous cat -->
+  <div class="nav-side">
+    {{ range $index, $cat := $cats }}
+      {{ if eq $cat.RelPermalink $current.RelPermalink }}
 
-  {{ with .NextInSection }}
-    <a class="btn nav-btn" href="{{ .RelPermalink }}" title="{{ i18n "nextCat" }}">&rarr;</a>
-  {{ else }}
-    <span></span>
-  {{ end }}
+        {{ if gt $index 0 }}
+          {{ $previous := index $cats (sub $index 1) }}
+
+          <a
+            class="btn nav-btn"
+            href="{{ $previous.RelPermalink }}"
+            title="{{ i18n "previousCat" }}"
+            aria-label="{{ i18n "previousCat" }}"
+          >&larr;</a>
+
+        {{ end }}
+
+      {{ end }}
+    {{ end }}
+  </div>
+
+
+  <!-- Back to cats -->
+  <a
+    class="btn nav-btn back-btn mx-3"
+    href="{{ .Parent.RelPermalink }}"
+    title="{{ i18n "backToList" }}"
+    aria-label="{{ i18n "backToList" }}"
+  >&uarr;</a>
+
+
+  <!-- Next cat -->
+  <div class="nav-side">
+    {{ range $index, $cat := $cats }}
+      {{ if eq $cat.RelPermalink $current.RelPermalink }}
+
+        {{ if lt $index (sub (len $cats) 1) }}
+          {{ $next := index $cats (add $index 1) }}
+
+          <a
+            class="btn nav-btn"
+            href="{{ $next.RelPermalink }}"
+            title="{{ i18n "nextCat" }}"
+            aria-label="{{ i18n "nextCat" }}"
+          >&rarr;</a>
+
+        {{ end }}
+
+      {{ end }}
+    {{ end }}
+  </div>
+
 </div>
 
       </div>

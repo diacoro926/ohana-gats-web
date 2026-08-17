@@ -34,15 +34,12 @@ Gracias por hacer que Ohana sea un poquito más hogar. ❤️
     style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
 >}}
 
-Las donaciones nos permiten seguir cuidando de nuestros gatos y cubrir sus **gastos veterinarios, tratamientos, alimentación y todo lo que necesitan para estar bien**.
-
-Cada pequeña aportación hace una gran diferencia. 💕🐾Puedes ayudarnos de dos formas
-
+Las donaciones nos permiten seguir cuidando de nuestros gatos y cubrir sus **gastos veterinarios, tratamientos, alimentación y todo lo que necesitan para estar bien**.                      
+Cada pequeña aportación hace una gran diferencia. 💕🐾 Puedes ayudarnos de dos formas :
+<br><br>
 #### 🐾 Teaming
-**1 € al mes** para ayudarnos de forma continuada. Una pequeña aportación que, mes a mes, nos permite seguir cuidándolos.   
-👉 [**Únete a nuestro Teaming**](https://www.teaming.net/adoptagatsprat/)
-
-
+**1 € al mes** para ayudarnos de forma continuada. Una pequeña aportación que, mes a mes, nos permite seguir cuidándolos.   👉 [**Únete a nuestro Teaming**](https://www.teaming.net/adoptagatsprat/)
+<br><br>
 #### 🌿 Coral
 Haz una **donación puntual o recurrente desde 1 €** y ayúdanos a cubrir sus necesidades cuando más lo necesitan.
 👉 [**Aporta a través de Coral**](https://coral.to/c/ohana-gats-del-prat)
@@ -64,19 +61,13 @@ Haz una **donación puntual o recurrente desde 1 €** y ayúdanos a cubrir sus 
 ¿Qué necesitamos habitualmente?
 
 * **🍽️ Alimentación:** Comida seca y húmeda tanto para gatitos como para adultos.
-
 * **🐾🛏️ Confort:** Mantas, toallas en buen estado, camas y rascadores.
 * **Accesorios:** Empapadores y otros suministros básicos para su cuidado diario.
 
-<br>
 
 > 📍 **¿Dónde puedes entregarlo?**  
 > Si quieres hacernos llegar donaciones materiales, escríbenos un mensaje a nuestras redes sociales o correo electrónico para coordinar los puntos de recogida habilitados en **El Prat de Llobregat**.
 
-<br>
-
-
-Si tienes dudas sobre si algo puede servir, pregúntanos: en OHANA siempre encontramos un gato que lo necesita.
 
 ---
 <a id="voluntariado"></a>

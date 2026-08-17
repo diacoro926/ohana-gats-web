@@ -2,7 +2,7 @@
 title: "Kira"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Kira-1.jpeg"
 age: "Menos de 1 Año"
 gender: "🐱♀ Hembra"
 summary: "Con paciencia y amor, puede convertirse en tu compañero inseparable."

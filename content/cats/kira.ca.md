@@ -2,7 +2,7 @@
 title: "Kira"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Kira-1.jpeg"
 age: "Menos de 1 Año"
 gender: "🐱♀ Femella"
 summary: "Amb paciència i amor, pot convertir-se en el teu company inseparable."

@@ -44,6 +44,8 @@ Cada pequeña aportación hace una gran diferencia. 💕🐾 Puedes ayudarnos de
 Haz una **donación puntual o recurrente desde 1 €** y ayúdanos a cubrir sus necesidades cuando más lo necesitan.
 👉 [**Aporta a través de Coral**](https://coral.to/c/ohana-gats-del-prat)
 
+<div style="clear:both;"></div>
+
 ---
 
 <a id="material"></a>
@@ -64,11 +66,12 @@ Haz una **donación puntual o recurrente desde 1 €** y ayúdanos a cubrir sus 
 * **🐾🛏️ Confort:** Mantas, toallas en buen estado, camas y rascadores.
 * **Accesorios:** Empapadores y otros suministros básicos para su cuidado diario.
 
-
 > 📍 **¿Dónde puedes entregarlo?**  
-> Si quieres hacernos llegar donaciones materiales, escríbenos un mensaje a nuestras redes sociales o correo electrónico para coordinar los puntos de recogida habilitados en **El Prat de Llobregat**.
+Si quieres hacernos llegar donaciones materiales, escríbenos un mensaje a nuestras redes sociales o correo electrónico para coordinar los puntos de recogida habilitados en **El Prat de Llobregat**.
+<div style="clear:both;"></div>
 
 ---
+
 <a id="voluntariado"></a>
 #### 🤝 Voluntariado: Tu tiempo puede cambiar una vida
 

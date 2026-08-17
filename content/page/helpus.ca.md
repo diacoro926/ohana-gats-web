@@ -1,81 +1,93 @@
 ---
 title: Ajuda'ns
-subtitle: Com puc ajudar?
+subtitle: El teu petit gest pot significar tot un món per a ells.
 comments: false
 ---
+
 {{< helpus-navigation >}}
 
----
 <a id="amazon"></a>
-#### 🛒 Wishlist d’Amazon
+#### 🛒 La nostra llista de desitjos d'Amazon
 
 {{< img 
-    src="img/helpus/AmazonWishlist-1.jpeg" 
+    src="img/helpus/AmazonWishlist-1.jpeg"  
     alt="Amazon-donacions" 
-    style="width:180px; float:left; margin-right:20px; border-radius:12px;" 
->}}     
+    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
+>}}
 
-Vols ajudar-nos amb allò que més necessitem?  
-Des d’arena fins a llaunetes, joguines i mantes… cada article de la nostra [wishlist](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share&fbclid=PAb21jcAOGcudleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcIY2FsbHNpdGUCMTUAAac29xLqcYxi2uETKIhBcs0J8n0AP8RiucND90w7x-JGZs92E8P0iF6XYQfnaw_aem_xQgJXqUfcNC0GxdbW-LE6g) és una carícia directa per als nostres gats.  
-**Tu tries què regalar-los!**
+Pots formar part de la seva història des de la nostra [Llista de Desitjos](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share).
 
+Cada producte que tries es converteix en alguna cosa que necessiten: un llit on descansar, menjar al seu bol o una joguina amb la qual tornar a ser feliços.
 
+Gràcies per fer que Ohana sigui una mica més casa seva. ❤️
 
+<div style="clear:both;"></div>
 
 ---
+
 <a id="teaming"></a>
-#### 🤝 Teaming: 1€ al mes que canvia vides
+#### 🤝 Donacions econòmiques — Teaming i Coral
 
 {{< img 
-    src="img/Otras/TeamingDiana.png" 
+    src="img/helpus/Donacion-1.jpeg" 
     alt="Teaming-donacions" 
     style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
 >}}
 
-Amb només **1 euro al mes**, pots formar part del nostre equip de suport constant.  
-És menys que un cafè, però per a ells pot significar menjar, medicació o una visita al veterinari.  
-Uneix-te al nostre [Teaming](https://www.teaming.net/adoptagatsprat/) i sigues part de la seva història.
+Les donacions ens permeten continuar cuidant els nostres gats i cobrir les seves **despeses veterinàries, tractaments, alimentació i tot allò que necessiten per estar bé**.
+Cada petita aportació marca una gran diferència. 💕🐾 
 
+Pots ajudar-nos de dues maneres:
+
+#### 🐾 Teaming
+
+**1 € al mes** per ajudar-nos de manera continuada. Una petita aportació que, mes rere mes, ens permet continuar cuidant-los. 👉 [**Uneix-te al nostre Teaming**](https://www.teaming.net/adoptagatsprat/)
+
+
+#### 🌿 Coral
+
+Fes una **donació puntual o recurrent des d'1 €** i ajuda'ns a cobrir les seves necessitats quan més ho necessiten.
+👉 [**Fes una aportació a través de Coral**](https://coral.to/c/ohana-gats-del-prat)
+
+<div style="clear:both;"></div>
 
 ---
+
 <a id="material"></a>
 #### 🎁 Donacions de material
 
-A OHANA aprofitem absolutament tot. Cada manta, cada llauna i cada transportí es converteix en benestar per a un gat que ho necessita. Si vols ajudar de manera directa i pràctica, aquestes són les coses que més ens sostenen:
+{{< img 
+    src="img/helpus/DonacionMaterial-1.jpeg"  
+    alt="Donacions de materials per al refugi de gats" 
+    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
+>}}
 
-**🍽️ Alimentació:** Pinso, llaunes humides, menjar gastrointestinal o de recuperació.
+Prefereixes donar aliments, mantes, sorra o joguines en lloc de diners? **Tota ajuda material és indispensable per al dia a dia del refugi!**
 
-**🐾🛏️ Llits i mantes** rentables, suaus i en bon estat.
+Què necessitem habitualment?
 
-**🐱📦 Transportins** rígids i segurs, fàcils de netejar.
+* **🍽️ Alimentació:** Menjar sec i humit tant per a gatets com per a adults.
+* **🐾🛏️ Confort:** Mantes, tovalloles en bon estat, llits i rascadors.
+* **Accesoris:** Empapadors i altres subministraments bàsics per a la seva cura diària.
 
-**🧶 Joguines i rascadors** per reduir l’estrès i millorar la socialització.
-
-Si tens dubtes sobre si alguna cosa pot servir, pregunta’ns: a OHANA sempre trobem un gat que ho necessita.
+> 📍 **On pots fer-ho arribar?**  
+> Si vols fer-nos arribar donacions materials, escriu-nos un missatge a les nostres xarxes socials o al correu electrònic per coordinar els punts de recollida habilitats a **El Prat de Llobregat**.
 
 ---
+
 <a id="voluntariado"></a>
-#### 🧶 Artesania i talent solidari
-
-Cada talent pot convertir-se en refugi. Pots col·laborar amb:
-
-**Artesania solidària:** collars, joguines, mantes, il·lustracions, tote bags, xapes, espelmes…
-
-**Transport solidari** per a visites veterinàries o recollida de material.
-
-Si tens una idea, encara que sigui petita, ens encantarà escoltar-la.
-
----
 #### 🤝 Voluntariat: El teu temps pot canviar una vida
 
-A OHANA creiem que la màgia passa quan algú decideix donar una mica de si mateix perquè un gat tingui molt més. No cal experiència, ni moltes hores, ni saber “fer-ho perfecte”. Només ganes de cuidar, acompanyar i formar part d’una gran família.
+{{< img 
+    src="img/helpus/Voluntariado-1.jpeg"  
+    alt="Voluntariat al refugi" 
+    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
+>}}
 
-🐱💗 **Colònies**: Un bol ple, una mirada atenta… i un gat que deixa de sentir-se sol.
+A OHANA creiem que la màgia passa quan algú decideix donar una mica de si mateix perquè un gat pugui tenir molt més.
 
-🚘 **Transport solidari**: Un trajecte curt per a tu, un pas gegant per a la seva recuperació.
+Vine a conèixer-los, ajuda'ns al refugi, cuida'ls, juga amb ells, dona'ls afecte.
 
-🎉 **Esdeveniments**: Cada somriure que reps és una carícia que ells no obliden.
+Perquè per a un gat que ha conegut l'abandonament, **sentir que algú es preocupa per ell pot significar-ho tot.**
 
-🛠️ **Talent professional**: Allò que saps fer pot convertir-se en refugi.
-
-Si alguna vegada has sentit que volies ajudar “d’alguna manera”, aquesta és aquella manera: senzilla, real i profundament valuosa.
+No cal experiència, ni dedicar-hi moltes hores, ni saber-ho “fer perfecte”. Només ganes de cuidar, acompanyar i formar part d'una gran família!

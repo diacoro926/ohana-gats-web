@@ -87,4 +87,24 @@ Ven a conocerlos, ayúdanos en el refugio, cuídalos, juega con ellos, dales car
 Porque para un gato que ha conocido el abandono, **sentir que alguien se preocupa por él puede significarlo todo.**
 
  No hace falta experiencia, ni grandes horas, ni saber “hacerlo perfecto”. Solo ganas de cuidar, acompañar y ser parte de una gran familia!
+<div style="clear:both;"></div>
+
+---
+
+
+ <a id="new_section"></a>
+#### 🛒 Nuestra lista de deseos de Amazon
+
+{{< img 
+    src="img/helpus/AmazonWishlist-1.jpeg"  
+    alt="Amazon-donaciones" 
+    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
+>}}
+
+Puedes formar parte de su historia desde nuestra [Lista de Deseos](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share).
+
+Cada producto que eliges se convierte en algo que necesitan: una cama donde descansar, comida en su cuenco o un juguete con el que volver a ser felices.
+
+Gracias por hacer que Ohana sea un poquito más hogar. ❤️
+
  

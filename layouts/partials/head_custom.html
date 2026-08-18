@@ -587,11 +587,107 @@ input[type="submit"]:hover {
   border-radius: 0;
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .about-carousel__slide {
-    transition: none;
-  }
+/* =========================================
+   NEWS IMAGE GALLERY
+   ========================================= */
+
+.news-slideshow {
+  width: 100%;
+  margin-bottom: 25px;
 }
+
+.slideshow-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+  line-height: 0;
+}
+.slide {
+  display: none;
+  width: 100%;
+}
+
+.slide.active {
+  display: block;
+}
+
+.news-slideshow-image {
+  display: block;
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 0;
+}
+/* Previous / next buttons */
+
+.slideshow-prev,
+.slideshow-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  width: 45px;
+  height: 45px;
+
+  border: none;
+  border-radius: 50%;
+
+  background: rgba(0, 0, 0, 0.55);
+  color: white;
+
+  font-size: 24px;
+  line-height: 45px;
+  text-align: center;
+
+  cursor: pointer;
+  z-index: 10;
+
+  transition: background 0.2s ease;
+}
+
+.slideshow-prev {
+  left: 15px;
+}
+
+.slideshow-next {
+  right: 15px;
+}
+
+.slideshow-prev:hover,
+.slideshow-next:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/* Dots */
+
+.slideshow-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.slideshow-dot {
+  width: 10px;
+  height: 10px;
+  padding: 0;
+
+  border: none;
+  border-radius: 50%;
+
+  background: #bbb;
+  cursor: pointer;
+}
+
+.slideshow-dot.active {
+  background: #333;
+}
+
+/* Mobile */
+
+
 
 /* ============================================================
    RESPONSIVE
@@ -719,5 +815,39 @@ input[type="submit"]:hover {
     max-width: 220px;
   }
 }
+
+@media (max-width: 575px) {
+
+  .news-slideshow-image {
+    height: auto;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+
+  .slideshow-prev,
+  .slideshow-next {
+    width: 38px;
+    height: 38px;
+    line-height: 38px;
+    font-size: 20px;
+  }
+
+  .slideshow-prev {
+    left: 10px;
+  }
+
+  .slideshow-next {
+    right: 10px;
+  }
+
+}
+
+
+
+@media (prefers-reduced-motion: reduce) {
+  .about-carousel__slide {
+    transition: none;
+  }
+} 
 
 </style>

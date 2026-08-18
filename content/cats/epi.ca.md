@@ -2,9 +2,9 @@
 title: "Epi"
 type: "cats"
 images:
-- "img/cats/epi-ohana-1.jpeg"
-- "img/cats/epi-ohana-2.jpeg"
-- "img/cats/epi-ohana-3.jpeg"
+- "img/cats/Epi-1.jpeg"
+- "img/cats/Epi-2.jpeg"
+- "img/cats/Epi-3.jpeg"
 age: "1 - 2 Años"
 gender: "🐱♂ Mascle"
 summary: "Dolç i pausat, prefereix observar el món des del seu racó preferit."

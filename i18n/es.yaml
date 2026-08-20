@@ -29,10 +29,13 @@
   translation: "🛒 Amazon"
 
 - id: help_nav_teaming
-  translation: "🤝 Teaming"
+  translation: "🤝 Donaciones"
 
 - id: help_nav_material
   translation: "🎁 Material"
 
 - id: help_nav_volunteer
-  translation: "🐾 Voluntariado"  
+  translation: "🐾 Voluntariado" 
+
+- id: help_nav_apadrina
+  translation: "🤝 Apadrina"  

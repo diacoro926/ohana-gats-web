@@ -34,3 +34,6 @@
 
 - id: help_nav_volunteer
   translation: "🐾 Voluntariat"
+
+- id: help_nav_apadrina
+  translation: "🤝 Apadrina"

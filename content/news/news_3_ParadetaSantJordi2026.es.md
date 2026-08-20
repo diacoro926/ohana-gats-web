@@ -3,6 +3,8 @@ title: "Sant Jordi solidari 🌹📚🐾"
 date: 2025-04-23
 type: "news"
 summary: "Celebramos Sant Jordi con libros, rosas, totebags y muchas sorpresas, todo preparado con muchísimo cariño y con nuestros gatitos en el corazón. 🐈❤️"
+images:
+  - "img/news/santJordi_1.jpeg"
 ---
 ## 🌹📚 Sant Jordi solidari 🐾❤️
 

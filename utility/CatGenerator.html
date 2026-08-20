@@ -301,6 +301,10 @@
           Macho
         </option>
 
+        <option value="join">
+          Adopción Conjunta
+        </option>
+
       </select>
 
     </div>
@@ -1131,10 +1135,14 @@ async function generateZip() {
        SPANISH
        ======================================================== */
 
-    const genderES =
-      gender === "female"
-        ? "🐱♀ Hembra"
-        : "🐱♂ Macho";
+    let genderES;
+      if(gender === "female")
+         genderES="🐱♀ Hembra";
+      else if(gender === "male")
+         genderES="🐱♂ Macho";  
+      else
+         genderES="Adopción conjunta"   
+       
 
 
     const spanishData = {
@@ -1237,13 +1245,16 @@ async function generateZip() {
       )
 
     ]);
+    
+    let genderCA;
+      if(gender === "female")
+         genderCA="🐱♀ Femella";
+      else if(gender === "male")
+         genderCA="🐱♂ Mascle";  
+      else
+         genderCA="adopció conjunta" 
 
-
-    const genderCA =
-      gender === "female"
-        ? "🐱♀ Femella"
-        : "🐱♂ Mascle";
-
+   
 
     const catalanData = {
 

@@ -4,8 +4,8 @@ date: 2026-01-01
 type: "news"
 summary: "¿Te apasionan los libros y los gatos? Únete a La Michiteca, nuestro club de lectura mensual donde compartimos lecturas, actividades y ayudamos a los peludos del refugio."
 images:
-  - "img/news/Michiteca.jpeg"
-  - "img/about/foto2_.jpeg"
+  - "img/news/Michiteca_1.jpg"
+  - "img/news/Michiteca_2.jpeg"
 ---
 
 *¿Te apasionan los libros y los gatos? ¡Este es tu sitio! Únete a nuestro club de lectura mensual, donde combinamos el placer de leer con la ayuda solidaria a nuestros peludos.*

@@ -91,20 +91,25 @@ Porque para un gato que ha conocido el abandono, **sentir que alguien se preocup
 
 ---
 
-
- <a id="new_section"></a>
-#### 🛒 Nuestra lista de deseos de Amazon
+ <a id="apadrina"></a>
+#### 🐱🐾 Apadrina, cuida y cambia una vida
 
 {{< img 
-    src="img/helpus/AmazonWishlist-1.jpeg"  
+    src="img/helpus/Apadrina-nav-1.png"  
     alt="Amazon-donaciones" 
     style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
 >}}
 
-Puedes formar parte de su historia desde nuestra [Lista de Deseos](https://www.amazon.es/hz/wishlist/ls/1Y8QOAH2M4LWO?ref_=wl_share).
+En Ohana, algunos gatos necesitan más tiempo, más cuidados y una atención especial. Son gatitos que, por su edad, carácter o por tener una enfermedad crónica o necesidades veterinarias, pueden pasar mucho tiempo con nosotros.
 
-Cada producto que eliges se convierte en algo que necesitan: una cama donde descansar, comida en su cuenco o un juguete con el que volver a ser felices.
+**Tu apadrinamiento nos ayuda a cuidar de ellos durante todo ese tiempo**, cubriendo parte de sus gastos de alimentación, veterinarios, medicación y tratamientos.
 
-Gracias por hacer que Ohana sea un poquito más hogar. ❤️
+Pero tu ayuda es mucho más que una aportación económica. Es decirle a ese gatito:
+
+**“No estás solo. Hay alguien que se preocupa por ti.”** 🐱❤️
+
+Porque algunos necesitan más tiempo, pero **todos merecen sentirse queridos y cuidados.** 🐾
+
+👉 [**Apadrina, cuida y cambia una vida**](https://donorbox.org/apadrina-cuida-y-cambia-una-vida)
 
  

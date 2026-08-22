@@ -6,7 +6,7 @@ images:
 age: "6 Meses - 1 Año"
 gender: "🐱♂ Macho"
 summary: "Energía infinita y una pasión especial por perseguir cualquier cosa que se mueva."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

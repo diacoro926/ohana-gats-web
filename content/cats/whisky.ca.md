@@ -6,7 +6,7 @@ images:
 age: "6 Años"
 gender: "🐱♂ Mascle"
 summary: "Busca afecte, ronroneja fàcilment i mai diu no a les carícies."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

@@ -6,7 +6,7 @@ images:
 age: "6 Años"
 gender: "🐱♂ Macho"
 summary: "Busca cariño, ronronea con facilidad y nunca dice que no a unas caricias."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

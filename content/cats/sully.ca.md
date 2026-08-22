@@ -6,7 +6,7 @@ images:
 age: "6 Meses - 1 Año"
 gender: "🐱♂ Mascle"
 summary: "Energia infinita i una passió especial per perseguir qualsevol cosa que es mou."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

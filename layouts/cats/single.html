@@ -13,14 +13,15 @@
       <div class="cat-detail-card content-box text-center">
 
 
+  
+         
+ {{ if gt (len .Params.images) 0 }}
+<div class="swiper cat-swiper w-75 mx-auto mb-4">
   {{ if .Params.adopted }}
     <div class="adopted-watermark adopted-detail">
       {{ i18n "label_adopted" }}
     </div>
   {{ end }}
-         
- {{ if gt (len .Params.images) 0 }}
-<div class="swiper cat-swiper w-75 mx-auto mb-4">
   <div class="swiper-wrapper">
     {{ range $i, $img := .Params.images }}
       <div class="swiper-slide">

@@ -2,7 +2,10 @@
 title: "Campanilla"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"  
+  - "img/cats/Campanilla-1.jpeg"  
+  - "img/cats/Campanilla-2.jpeg"  
+  - "img/cats/Campanilla-3.jpeg"  
+
 age: ""
 gender: "🐱♀ Hembra"
 summary: "Una máquina de ronroneos que solo pide mimos y una familia con quien compartir su paz."

@@ -2,7 +2,7 @@
 title: "Kitty"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"
+  - "img/cats/Kitty-1.jpeg" 
 age: ""
 gender: "🐱♀ Hembra"
 summary: "Un sol naranja en busca de amor, que venció sus miedos para entregarse por completo a los mimos."

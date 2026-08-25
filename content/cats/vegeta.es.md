@@ -2,7 +2,7 @@
 title: "Vegeta"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"
+  - "img/cats/Vegeta-1.jpeg"
 age: ""
 gender: "🐱♂ Macho"
 summary: "Un alma libre que no pide mimos, solo la tranquilidad de saber que, por fin, está a salvo."

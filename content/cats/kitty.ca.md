@@ -2,7 +2,7 @@
 title: "Kitty"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"  
+  - "img/cats/Kitty-1.jpeg"  
 age: ""
 gender: "🐱♀ Femella"
 summary: "Un sol taronja a la recerca de l'amor, que va superar les seves pors per lliurar-se completament a mimar-se."

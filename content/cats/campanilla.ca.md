@@ -2,7 +2,9 @@
 title: "Campanilla"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"
+  - "img/cats/Campanilla-1.jpeg"  
+  - "img/cats/Campanilla-2.jpeg"  
+  - "img/cats/Campanilla-3.jpeg"  
 age: ""
 gender: "🐱♀ Femella"
 summary: "Una màquina ronronejadora que només demana mims i una família amb qui compartir la seva pau."

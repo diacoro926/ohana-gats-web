@@ -1,11 +1,11 @@
 ---
 title: "Vegeta"
 type: "cats"
-images:
-- "img/cats/Placeholder.jpg"
-age: "3 Años"
+images: 
+  - "img/cats/Placeholder.jpg"
+age: ""
 gender: "🐱♂ Mascle"
-summary: "Serena, equilibrada i feliç gaudint de la vida sense presses."
+summary: "Una ànima lliure que no demana consentiment, només la tranquil·litat de saber que, per fi, està segura."
 adopted: false
 ---
 
@@ -18,6 +18,4 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *Vegeta, que porta el nom del famós personatge de Dragon Ball, va ser rescatat del carrer prop d'un supermercat  🐱💙*
-> *Al principi sospita una mica, però a poc a poc va descobrint que pot confiar en la gent.*
-> *Cada dia s'obre una mica més i mostra el cor especial que té.*
+> *QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS*

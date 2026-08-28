@@ -2,8 +2,8 @@
 title: "Nereo"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
-age: "6 meses"
+- "img/cats/Nereo-1.jpeg"
+age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "De clavegueram a llar, aquest és el somni de Nereus. 🐾❤️"
 adopted: false

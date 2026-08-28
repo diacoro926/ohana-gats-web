@@ -4,7 +4,7 @@ type: "cats"
 images:
 - "img/cats/AresYMao-1.jpeg"
 - "img/cats/AresYMao-2.jpeg"
-age: ""
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Es van conèixer al refugi i es van fer inseparables; ara busquem una llar per als dos, perquè separar-los ens trencaria el cor."
 adopted: false

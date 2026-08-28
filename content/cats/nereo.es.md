@@ -2,8 +2,8 @@
 title: "Nereo"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
-age: "6 meses"
+- "img/cats/Nereo-1.jpeg"
+age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "De una alcantarilla a un hogar, ese es el sueño de Nereo. 🐾❤️"
 adopted: false

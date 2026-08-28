@@ -3,7 +3,7 @@ title: "Asley & Valeria"
 type: "cats"
 images:
 - "img/cats/Placeholder.jpg"
-age: "1 Año"
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "adopció conjunta"
 summary: "Junts, la llar sempre se sent més a prop ». 🤍🐾"
 adopted: false

@@ -345,22 +345,6 @@
     </option>
   </select>
 </div>
-    <!-- Fecha -->
-
-    <div class="field">
-
-      <label for="entryDate">
-        Fecha de entrada a Ohana
-      </label>
-
-      <input
-        id="entryDate"
-        type="text"
-        placeholder="Ej. Marzo 2024"
-      >
-
-    </div>
-
 
     <!-- Resumen -->
 
@@ -1090,13 +1074,6 @@ async function generateZip() {
         .trim();
 
 
-    const entryDate =
-      document
-        .getElementById("entryDate")
-        .value
-        .trim();
-
-
     const summary =
       document
         .getElementById("summary")
@@ -1160,8 +1137,6 @@ async function generateZip() {
 
       size: size,
 
-      entry: entryDate,
-
       health:
         generateHealthMarkdown(
           health,
@@ -1219,8 +1194,6 @@ async function generateZip() {
 
       sizeCA,
 
-      entryDateCA,
-
       storyCA
 
     ] = await Promise.all([
@@ -1237,9 +1210,6 @@ async function generateZip() {
         size
       ),
 
-      translateContent(
-        entryDate
-      ),
 
       translateStory(
         story
@@ -1270,8 +1240,6 @@ async function generateZip() {
       profile: profileCA,
 
       size: sizeCA,
-
-      entry: entryDateCA,
 
       health:
         generateHealthMarkdown(

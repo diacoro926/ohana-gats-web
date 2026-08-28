@@ -4,7 +4,6 @@ type: "cats"
 images:
 - "img/cats/Sombra-1.jpeg"
 - "img/cats/Sombra-2.jpeg"
-- "img/cats/Sombra-3.jpeg"
 age: "1 Año"
 gender: "🐱♀ Hembra"
 summary: ""

@@ -2,7 +2,9 @@
 title: "Poleo Y Menta"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/MentaYPoleo-1.jpeg"
+- "img/cats/Menta-1.jpeg"
+- "img/cats/Poleo-1.jpeg"
 age: "2-5 meses"
 gender: "🐱♀ Femella"
 summary: "Poleo i menta: una infusió d'amor"
@@ -18,7 +20,7 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *Poleo i Menta són uns tímids germans petits que necessiten una mica de temps per confiar. La menta és el glotó i el poleo, una mica més reservats, però junts se senten segurs. 🧡*
+> *Poleo i Menta són uns tímids germans petits que necessiten una mica de temps per confiar. La menta(gateta negra) és el glotó i el poleo (blanc i negre) , una mica més reservats, però junts se senten segurs. 🧡*
 >
 > *Poleo i Mint: una infusió d'amor que ve en parella. ☕🐾*
 >

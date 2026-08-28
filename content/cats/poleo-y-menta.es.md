@@ -2,7 +2,9 @@
 title: "Poleo Y Menta"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/MentaYPoleo-1.jpeg"
+- "img/cats/Menta-1.jpeg"
+- "img/cats/Poleo-1.jpeg"
 age: "2-5 meses"
 gender: "🐱♀ Hembra"
 summary: "Poleo y Menta — Una infusión de amor"
@@ -18,7 +20,7 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *Poleo y Menta son hermanitos tímidos que necesitan un poquito de tiempo para confiar. Menta es la glotona y Poleo, algo más reservado, pero juntos se sienten seguros. 🧡*
+> *Poleo y Menta son hermanitos tímidos que necesitan un poquito de tiempo para confiar. Menta (Gatita negra) es la glotona y Poleo (blanco con negro), algo más reservado, pero juntos se sienten seguros. 🧡*
 >
 > *Poleo y Menta: una infusión de amor que viene en pareja. ☕🐾*
 >

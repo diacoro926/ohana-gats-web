@@ -19,6 +19,8 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *Palestina llegó al refugio tras un aviso desesperado: estaba sola en la calle y a punto de dar a luz. Pocos días después protegió y crió a sus cachorros en un entorno seguro, logrando ver cómo todos y cada uno de ellos encontraban una familia adoptiva. Cumplido su papel de madre, ahora es su turno de ser cuidada.*
+> *Palestina llegó al refugio tras un aviso desesperado: estaba sola en la calle y a punto de dar a luz. Pocos días después protegió y crió a sus tres cachorros en un entorno seguro, logrando ver cómo todos y cada uno de ellos encontraban una familia adoptiva. Cumplido su papel de madre, ahora es su turno de ser cuidada.*
 >
 > *Al haber vivido la dureza de la calle, Palestina mantiene un carácter temeroso y reservado. Todavía mira el mundo con cautela, pero día a día, a su propio ritmo y sin presiones, empieza a soltarse y a mostrar pequeños avances hacia la confianza.*
+
+> *Palestina es una gata buena, dulce y silenciosa, que solo necesita un hogar donde alguien la mire con la misma paciencia y ternura con la que ella cuidó a sus bebés.*

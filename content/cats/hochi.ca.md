@@ -2,7 +2,8 @@
 title: "Hochi"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"  
+  - "img/cats/Hochi-1.jpeg"
+  - "img/cats/Hochi-2.jpeg"
 age: ""
 gender: "🐱♂ Mascle"
 summary: ""

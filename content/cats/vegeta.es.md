@@ -2,8 +2,9 @@
 title: "Vegeta"
 type: "cats"
 images: 
-  - "img/cats/Vegeta-1.jpeg"
-age: ""
+  - "img/cats/Vegeta-1.jpeg"   
+  - "img/cats/Vegeta-2.jpeg"
+age: "😺 Adultos — 3–6 años"
 gender: "🐱♂ Macho"
 summary: "Un alma libre que no pide mimos, solo la tranquilidad de saber que, por fin, está a salvo."
 adopted: false

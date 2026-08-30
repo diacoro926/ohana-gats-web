@@ -2,6 +2,7 @@
 title: "Phineas&Ferb"
 type: "cats"
 images: 
+- "img/cats/Phineas-Ferb-1.jpeg"
 - "img/cats/Phineas-1.jpeg"  
 - "img/cats/Ferb-1.jpeg"  
 - "img/cats/Phineas-2.jpeg"  

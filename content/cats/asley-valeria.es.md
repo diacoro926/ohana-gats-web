@@ -2,7 +2,9 @@
 title: "Asley & Valeria"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Ashley-1.jpeg"
+- "img/cats/Valeria-1.jpeg"
+- "img/cats/Ashley-2.jpeg"
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "Adopción conjunta"
 summary: "Juntas, el hogar siempre se siente más cerca.” 🤍🐾"

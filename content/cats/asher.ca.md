@@ -2,8 +2,9 @@
 title: "Asher"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"
-age: ""
+   - "img/cats/Asher-1.jpeg"
+   - "img/cats/Asher-2.jpeg"  
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Asher: tan calmat i guapo que seria el còmplice perfecte per a qualsevol felí... fins i tot per a planificar bromes de migdiada."
 adopted: false

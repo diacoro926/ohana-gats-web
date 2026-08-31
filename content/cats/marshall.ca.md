@@ -2,7 +2,8 @@
 title: "Marshall"
 type: "cats"
 images: 
-  - "img/cats/Marshall1.jpeg"
+  - "img/cats/Marshall-1.jpeg"
+  - "img/cats/Marshall-2.jpeg"
 age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "Marshall, un gat maco que seria el gat més feliç del món si pogués anar amb un dels seus companys de vida."

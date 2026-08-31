@@ -1,8 +1,9 @@
 ---
-title: "Robin"
+title: "Robin Scherbatsky"
 type: "cats"
 images: 
   - "img/cats/Robin-1.jpeg"
+  - "img/cats/Robin-2.jpeg"
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♀ Hembra"
 summary: "Robin, con el nombre de la fuerte y dulce protagonista de la serie, está listo para florecer en una familia que le dé amor… o mejor aún, amor doble con un hermano."

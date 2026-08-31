@@ -4,6 +4,7 @@ type: "cats"
 images: 
   - "img/cats/Leia-1.jpeg"
   - "img/cats/Leia-2.jpeg" 
+  - "img/cats/Leia-3.jpeg" 
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: ""

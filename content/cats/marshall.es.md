@@ -3,6 +3,7 @@ title: "Marshall"
 type: "cats"
 images: 
   - "img/cats/Marshall-1.jpeg"  
+  - "img/cats/Marshall-2.jpeg"  
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "Marshall, un gatito tierno que sería el gatito más feliz del mundo si pudiera irse con uno de sus compañeros de vida."

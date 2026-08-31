@@ -3,6 +3,7 @@ title: "Barney"
 type: "cats"
 images: 
     - "img/cats/Barney-1.jpeg"
+    - "img/cats/Barney-2.jpeg"
 age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "En Barney és valent i vol deixar enrere la por i començar la seva nova vida amb un dels seus germans."

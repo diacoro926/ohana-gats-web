@@ -1,8 +1,9 @@
 ---
-title: "Robin"
+title: "Robin Scherbatsky"
 type: "cats"
 images: 
   - "img/cats/Robin-1.jpeg"  
+  - "img/cats/Robin-2.jpeg"  
 age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♀ Femella"
 summary: "Robin, amb el nom de la forta i dolça protagonista de la sèrie, està a punt per florir en una família que li dóna amor... o millor encara, doble amor amb un germà."

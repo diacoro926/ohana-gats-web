@@ -3,6 +3,7 @@ title: "Barney"
 type: "cats"
 images: 
   - "img/cats/Barney-1.jpeg" 
+  - "img/cats/Barney-2.jpeg" 
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "Barney es valiente y quiere dejar atrás el miedo y empezar su nueva vida acompañado de uno de sus hermanos."

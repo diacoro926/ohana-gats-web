@@ -2,7 +2,7 @@
 title: "Nut"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Placeholder-2.png"
 age: "5 Meses"
 gender: "🐱♀ Hembra"
 summary: "🐾 Nut — La tímida dulce"

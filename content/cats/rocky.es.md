@@ -2,7 +2,7 @@
 title: "Rocky"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"
+  - "img/cats/Placeholder-2.png"
 age: ""
 gender: "🐱♂ Macho"
 summary: "Rocky: panterita valiente, juguetona y experto en duchas improvisadas."

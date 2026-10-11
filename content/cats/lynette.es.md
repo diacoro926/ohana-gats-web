@@ -2,7 +2,8 @@
 title: "Lynette"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"  
+  - "img/cats/Lynette-1.jpeg"  
+  - "img/cats/Lynette-2.jpeg"  
 age: ""
 gender: "🐱♀ Hembra"
 summary: "Lynette es una atigrada de ojos verdes que nació con alma de diva y actitud de barrio."

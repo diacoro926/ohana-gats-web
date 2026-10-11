@@ -2,7 +2,7 @@
 title: "Rocky"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg" 
+  - "img/cats/Placeholder-2.png" 
 age: ""
 gender: "🐱♂ Mascle"
 summary: "Rocky: Pantherita valenta, juguetona i experta en dutxes improvisades."

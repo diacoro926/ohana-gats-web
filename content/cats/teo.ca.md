@@ -2,7 +2,9 @@
 title: "Teo"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Teo-1.jpeg"
+- "img/cats/Teo-2.jpeg"
+- "img/cats/Teo-3.jpeg"
 age: ""
 gender: "🐱♂ Mascle"
 summary: "En Teo va perdre la seva llar, però encara espera trobar una família que no el deixi mai més"

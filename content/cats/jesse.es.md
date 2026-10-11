@@ -2,7 +2,8 @@
 title: "Jesse"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"
+  - "img/cats/Jesse-1.jpeg"
+  - "img/cats/Jesse-2.jpeg"
 age: ""
 gender: "🐱♂ Macho"
 summary: "Jesse es el hermanito silencioso, el que observa primero y se acerca después."

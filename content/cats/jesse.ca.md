@@ -2,7 +2,8 @@
 title: "Jesse"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg"
+  - "img/cats/Jesse-1.jpg"
+  - "img/cats/Jesse-2.jpg"
 age: ""
 gender: "🐱♂ Mascle"
 summary: "Jesse és el germà petit silenciós, el que observa primer i s'acosta després."

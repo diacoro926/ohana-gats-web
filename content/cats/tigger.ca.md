@@ -2,7 +2,7 @@
 title: "Tigger"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Tigger-1.jpeg"
 age: "5 Meses"
 gender: "🐱♂ Mascle"
 summary: "The Chatterbox"

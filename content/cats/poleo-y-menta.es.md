@@ -4,7 +4,9 @@ type: "cats"
 images:
 - "img/cats/MentaYPoleo-1.jpeg"
 - "img/cats/Menta-1.jpeg"
+- "img/cats/Menta-2.jpeg"
 - "img/cats/Poleo-1.jpeg"
+- "img/cats/Poleo-2.jpeg"
 age: "2-5 meses"
 gender: "🐱♀ Hembra"
 summary: "Poleo y Menta — Una infusión de amor"
@@ -15,7 +17,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** Agosto 2026
 - **Salud:** ❌Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

@@ -2,7 +2,8 @@
 title: "Lynette"
 type: "cats"
 images: 
-  - "img/cats/Placeholder.jpg" 
+  - "img/cats/Lynette-1.jpeg"  
+  - "img/cats/Lynette-2.jpeg"  
 age: ""
 gender: "🐱♀ Femella"
 summary: "Lynette és una atigrada d'ulls verds que va néixer amb ànima de diva i actitud veïnal."

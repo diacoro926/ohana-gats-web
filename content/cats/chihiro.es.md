@@ -2,7 +2,8 @@
 title: "Chihiro"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Chihiro-1.jpeg"
+- "img/cats/Chihiro-2.jpeg"
 age: "1 Año"
 gender: "🐱♂ Macho"
 summary: ""

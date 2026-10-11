@@ -4,7 +4,9 @@ type: "cats"
 images:
 - "img/cats/MentaYPoleo-1.jpeg"
 - "img/cats/Menta-1.jpeg"
+- "img/cats/Menta-2.jpeg"
 - "img/cats/Poleo-1.jpeg"
+- "img/cats/Poleo-2.jpeg"
 age: "2-5 meses"
 gender: "🐱♀ Femella"
 summary: "Poleo i menta: una infusió d'amor"
@@ -15,7 +17,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** Agost de 2026
 - **Salut:** ❌Esterilitzat, ❌Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

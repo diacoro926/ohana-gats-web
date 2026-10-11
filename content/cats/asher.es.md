@@ -4,6 +4,7 @@ type: "cats"
 images: 
   - "img/cats/Asher-1.jpeg"
   - "img/cats/Asher-2.jpeg"
+  - "img/cats/Asher-3.jpeg"
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Asher: tan tranquilo y buenazo que sería el cómplice perfecto para cualquier felino… incluso para planear travesuras de siesta."

@@ -2,7 +2,8 @@
 title: "Vulpi"
 type: "cats"
 images:
-- "img/cats/Placeholder.jpg"
+- "img/cats/Vulpi-1.jpeg"
+- "img/cats/Vulpi-2.jpeg"
 age: "5 Meses"
 gender: "🐱♀ Hembra"
 summary: "La dulce asustadiza"

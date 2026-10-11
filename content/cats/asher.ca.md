@@ -4,6 +4,7 @@ type: "cats"
 images: 
    - "img/cats/Asher-1.jpeg"
    - "img/cats/Asher-2.jpeg"  
+   - "img/cats/Asher-3.jpeg"  
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Asher: tan calmat i guapo que seria el còmplice perfecte per a qualsevol felí... fins i tot per a planificar bromes de migdiada."

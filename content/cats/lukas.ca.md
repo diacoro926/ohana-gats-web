@@ -5,7 +5,7 @@ images:
   - "img/cats/Lukas-1.jpeg"
   - "img/cats/Lukas-2.jpeg"
   - "img/cats/Lukas-3.jpeg"
-age: "1 año"
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Curiós. Reservat, comença a confiar"
 adopted: false
@@ -13,9 +13,8 @@ adopted: false
 
 🐾 **Les Meves Dades**
 
-- **Perfil:** Adults joves
+- **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** Mitjana
-- **Data d'entrada a Ohana:** Agost de 2024
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

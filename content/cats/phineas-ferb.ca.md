@@ -2,7 +2,8 @@
 title: "Phineas&Ferb"
 type: "cats"
 images: 
-  - "img/cats/Phineas-Ferb-1.jpeg"
+  - "img/cats/Phineas&Ferb-1.jpeg"
+  - "img/cats/Phineas&Ferb-2.jpeg"
   - "img/cats/Phineas-1.jpeg"  
   - "img/cats/Ferb-1.jpeg"  
   - "img/cats/Phineas-2.jpeg"  
@@ -17,7 +18,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ❌Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

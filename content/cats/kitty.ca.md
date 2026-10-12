@@ -3,7 +3,7 @@ title: "Kitty"
 type: "cats"
 images: 
   - "img/cats/Kitty-1.jpeg"  
-age: ""
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "Un sol taronja a la recerca de l'amor, que va superar les seves pors per lliurar-se completament a mimar-se."
 adopted: false
@@ -13,7 +13,6 @@ adopted: false
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐱 Mitjana — aprox. 3–5 kg
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

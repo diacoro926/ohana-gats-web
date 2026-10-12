@@ -3,7 +3,7 @@ title: "Kira"
 type: "cats"
 images:
 - "img/cats/Kira-1.jpeg"
-age: "Menos de 1 Año"
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "Amb paciència i amor, pot convertir-se en el teu company inseparable."
 adopted: false
@@ -13,7 +13,6 @@ adopted: false
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ❌Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

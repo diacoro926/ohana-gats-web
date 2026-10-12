@@ -3,7 +3,7 @@ title: "Patricia"
 type: "cats"
 images:
   - "img/cats/Patricia-1.jpeg"
-age: "2 años"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "La gatita tímida que solo quiere sentirse a salvo"
 adopted: false
@@ -11,9 +11,8 @@ adopted: false
 
 🐾 **Mis Datos**
 
-- **Perfil:** Adulto Joven
-- **Tamaño:** Mediano pequeño
-- **Fecha de entrada a Ohana:** [Completar mes/año]
+- **Perfil:** 🐾 Jóvenes — 6 meses–2 años
+- **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

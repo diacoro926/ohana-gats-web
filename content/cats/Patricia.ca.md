@@ -3,7 +3,7 @@ title: "Patricia"
 type: "cats"
 images:
   - "img/cats/Patricia-1.jpeg"
-age: "2 años"
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "El gat tímid que només vol sentir-se segur"
 adopted: false
@@ -11,9 +11,8 @@ adopted: false
 
 🐾 **Les Meves Dades**
 
-- **Perfil:** Adults joves
-- **Mida:** Mitjana petita
-- **Data d'entrada a Ohana:** [Completar mes/año]
+- **Perfil:** 🐾 Joventut — 6 mesos-2 anys
+- **Mida:** 🐱 Mitjana — aprox. 3–5 kg
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

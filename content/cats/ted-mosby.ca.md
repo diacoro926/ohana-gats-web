@@ -14,7 +14,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

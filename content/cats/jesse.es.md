@@ -4,7 +4,7 @@ type: "cats"
 images: 
   - "img/cats/Jesse-1.jpeg"
   - "img/cats/Jesse-2.jpeg"
-age: ""
+age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "Jesse es el hermanito silencioso, el que observa primero y se acerca después."
 adopted: false
@@ -14,7 +14,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

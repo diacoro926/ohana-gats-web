@@ -6,14 +6,13 @@ images:
 age: "😺 Adultos — 3–6 años"
 gender: "🐱♀ Hembra"
 summary: "la mamá que luchó por todos, incluso por los que no eran suyos, y sigue esperando su final feliz."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**
 
 - **Perfil:** 😺 Adultos — 3–6 años
 - **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

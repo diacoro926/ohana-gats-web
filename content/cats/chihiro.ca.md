@@ -4,7 +4,7 @@ type: "cats"
 images:
 - "img/cats/Chihiro-1.jpeg"
 - "img/cats/Chihiro-2.jpeg"
-age: "1 Año"
+age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: ""
 adopted: false
@@ -14,7 +14,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** 08-2026
 - **Salut:** ❌Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

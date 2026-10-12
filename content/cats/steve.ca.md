@@ -5,7 +5,7 @@ images:
 - "img/cats/Steve-1.jpeg"
 - "img/cats/Steve-2.jpeg"
 - "img/cats/Steve-3.jpeg"
-age: "1 Año??"
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Encara sospita una mica, però comença a explorar i darrere d'aquella cara seriosa s'amaga un gatet meravellós."
 adopted: false
@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐱 Mitjana — aprox. 3–5 kg
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

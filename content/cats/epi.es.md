@@ -5,7 +5,7 @@ images:
 - "img/cats/Epi-1.jpeg"
 - "img/cats/Epi-2.jpeg"
 - "img/cats/Epi-3.jpeg"
-age: "1 - 2 Años"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Dulce y pausado, prefiere observar el mundo desde su rincón favorito."
 adopted: false
@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

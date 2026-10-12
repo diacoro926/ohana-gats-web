@@ -4,7 +4,7 @@ type: "cats"
 images: 
   - "img/cats/Jesse-1.jpg"
   - "img/cats/Jesse-2.jpg"
-age: ""
+age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "Jesse és el germà petit silenciós, el que observa primer i s'acosta després."
 adopted: false
@@ -14,7 +14,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ❌Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

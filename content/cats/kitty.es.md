@@ -3,7 +3,7 @@ title: "Kitty"
 type: "cats"
 images: 
   - "img/cats/Kitty-1.jpeg" 
-age: ""
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Un sol naranja en busca de amor, que venció sus miedos para entregarse por completo a los mimos."
 adopted: false
@@ -13,7 +13,6 @@ adopted: false
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

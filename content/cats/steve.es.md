@@ -5,7 +5,7 @@ images:
 - "img/cats/Steve-1.jpeg"
 - "img/cats/Steve-2.jpeg"
 - "img/cats/Steve-3.jpeg"
-age: "1 Año??"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Aún desconfía un poquito, pero empieza a explorar y detrás de esa carita seria se esconde un gatito maravilloso."
 adopted: false

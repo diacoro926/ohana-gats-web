@@ -7,7 +7,7 @@ images:
   - "img/cats/Leia-3.jpeg" 
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
-summary: ""
+summary: "La Leia, una petita valenta que només necessita temps per aprendre a confiar i deixar-se estimar."
 adopted: false
 ---
 
@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐱 Mitjana — aprox. 3–5 kg
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

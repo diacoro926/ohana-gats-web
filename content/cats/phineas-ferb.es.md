@@ -2,7 +2,8 @@
 title: "Phineas&Ferb"
 type: "cats"
 images: 
-- "img/cats/Phineas-Ferb-1.jpeg"
+- "img/cats/Phineas&Ferb-1.jpeg"
+- "img/cats/Phineas&Ferb-2.jpeg"
 - "img/cats/Phineas-1.jpeg"  
 - "img/cats/Ferb-1.jpeg"  
 - "img/cats/Phineas-2.jpeg"  
@@ -17,7 +18,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

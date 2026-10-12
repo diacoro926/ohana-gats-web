@@ -3,7 +3,7 @@ title: "Nut"
 type: "cats"
 images:
 - "img/cats/Placeholder-2.png"
-age: "5 Meses"
+age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♀ Femella"
 summary: "Fruita 🐾 seca: el dolç tímid"
 adopted: false
@@ -13,7 +13,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** Agost de 2026
 - **Salut:** ❌Esterilitzat, ❌Vacunat, ❌Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

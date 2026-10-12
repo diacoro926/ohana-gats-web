@@ -3,7 +3,7 @@ title: "Nut"
 type: "cats"
 images:
 - "img/cats/Placeholder-2.png"
-age: "5 Meses"
+age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♀ Hembra"
 summary: "🐾 Nut — La tímida dulce"
 adopted: false
@@ -13,7 +13,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** Agosto 2026
 - **Salud:** ❌Esterilizado, ❌Vacunado, ❌Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

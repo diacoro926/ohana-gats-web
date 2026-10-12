@@ -1,19 +1,18 @@
 ---
-title: "Jhon Nieve(PROXIMAMENTE)"
+title: "Jhon Nieve"
 type: "cats"
 images: 
   - "img/cats/JohnNieve-1.jpeg"
 age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "Jhon Nieve: del fred del carrer a la llar on finalment arriba l'estiu."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ❌Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

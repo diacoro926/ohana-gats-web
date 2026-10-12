@@ -4,7 +4,7 @@ type: "cats"
 images: 
   - "img/cats/Palestina-2.jpeg"
   - "img/cats/Palestina-1.jpeg"  
-age: ""
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Una madre valiente que ya protegió a los suyos y hoy solo necesita aprender a ser cuidada."
 adopted: false
@@ -14,7 +14,6 @@ adopted: false
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

@@ -7,7 +7,7 @@ images:
   - "img/cats/Leia-3.jpeg" 
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
-summary: ""
+summary: "Leia, una pequeña valiente que solo necesita tiempo para aprender a confiar y dejarse querer."
 adopted: false
 ---
 

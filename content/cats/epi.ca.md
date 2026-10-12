@@ -5,7 +5,7 @@ images:
 - "img/cats/Epi-1.jpeg"
 - "img/cats/Epi-2.jpeg"
 - "img/cats/Epi-3.jpeg"
-age: "1 - 2 Años"
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Dolç i pausat, prefereix observar el món des del seu racó preferit."
 adopted: false
@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

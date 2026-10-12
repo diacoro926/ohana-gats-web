@@ -3,7 +3,7 @@ title: "Rosita"
 type: "cats"
 images:
 - "img/cats/Rosita-1.jpeg"
-age: "6 meses - 1 Año"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Dale tiempo, paciencia y cariño, y poco a poco te enseñará quién es realmente."
 adopted: false
@@ -13,7 +13,6 @@ adopted: false
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 😺 Adultos
 - **Tamaño:** 🐱 Mediano
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

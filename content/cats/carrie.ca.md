@@ -6,14 +6,13 @@ images:
 age: "😺 Adults — 3–6 anys"
 gender: "🐱♀ Femella"
 summary: "la mare que va lluitar per tothom, fins i tot per aquells que no eren seus, i encara està esperant el seu final feliç."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**
 
 - **Perfil:** 😺 Adults — 3–6 anys
 - **Mida:** 🐱 Mitjana — aprox. 3–5 kg
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ❌Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

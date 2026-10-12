@@ -4,7 +4,7 @@ type: "cats"
 images: 
   - "img/cats/Novo-1.jpeg" 
   - "img/cats/Novo-2.jpeg" 
-age: ""
+age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "🤍 Novo, una nina de l'amor i el ronroneig"
 adopted: false
@@ -14,7 +14,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ❌Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

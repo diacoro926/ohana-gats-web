@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
-- **Fecha de entrada a Ohana:** 06-2026
 - **Salud:** ✔️Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

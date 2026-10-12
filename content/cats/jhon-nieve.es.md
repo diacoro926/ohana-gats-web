@@ -1,19 +1,18 @@
 ---
-title: "Jhon Nieve (PROXIMAMENTE)"
+title: "Jhon Nieve"
 type: "cats"
 images: 
   - "img/cats/JohnNieve-1.jpeg"
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "Jhon Nieve: del frío de la calle al hogar donde por fin llega el verano."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

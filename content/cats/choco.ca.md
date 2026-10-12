@@ -8,14 +8,13 @@ images:
 age: "Aproximadamente 1 Año"
 gender: "🐱♂ Mascle"
 summary: ""
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐱 Mitjana — aprox. 3–5 kg
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

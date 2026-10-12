@@ -5,7 +5,7 @@ images:
 - "img/cats/Wanda-1.jpeg"
 - "img/cats/Wanda-2.jpeg"
 - "img/cats/Wanda-3.jpeg"
-age: "9 Años"
+age: "🐈 Maduros — 7–10 años"
 gender: "🐱♀ Hembra"
 summary: "Segura de sí misma, elegante y plenamente consciente de quién manda."
 adopted: false
@@ -13,9 +13,8 @@ adopted: false
 
 🐾 **Mis Datos**
 
-- **Perfil:** 🐈 Maduros
-- **Tamaño:** 🐈 Grande
-- **Fecha de entrada a Ohana:** [Completar mes/año]
+- **Perfil:** 🐈 Maduros — 7–10 años
+- **Tamaño:** 🐈 Grande — aprox. 5–7 kg
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

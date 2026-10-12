@@ -3,7 +3,7 @@ title: "Chia"
 type: "cats"
 images:
 - "img/cats/Chia-1.jpeg"
-age: "1 Año"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Tiene carácter, sabe lo que quiere y no duda en hacer alguna que otra travesura."
 adopted: false
@@ -13,7 +13,6 @@ adopted: false
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

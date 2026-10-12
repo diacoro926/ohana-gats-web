@@ -5,7 +5,7 @@ images:
   - "img/cats/Lukas-1.jpeg"
   - "img/cats/Lukas-2.jpeg"
   - "img/cats/Lukas-3.jpeg"
-age: "1 año"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Curioso. Reservado, Empieza a confiar"
 adopted: false
@@ -13,7 +13,7 @@ adopted: false
 
 🐾 **Mis Datos**
 
-- **Perfil:** Joven adulto
+- **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** Mediano
 - **Fecha de entrada a Ohana:** Agosto 2024
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado

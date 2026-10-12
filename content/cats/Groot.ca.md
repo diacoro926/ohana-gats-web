@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** Adults
 - **Mida:** mitjà
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

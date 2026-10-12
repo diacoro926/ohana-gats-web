@@ -5,7 +5,7 @@ images:
 - "img/cats/Loto-1.jpeg"
 - "img/cats/Loto-2.jpeg"
 - "img/cats/Loto-3.jpeg"
-age: "1 Año"
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "De vegades sembla que estigui en el seu propi món, però precisament hi ha part del seu encant."
 adopted: false
@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

@@ -4,7 +4,7 @@ type: "cats"
 images: 
   - "img/cats/Novo-1.jpeg" 
   - "img/cats/Novo-2.jpeg" 
-age: ""
+age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "🤍 Novo, un muñeco de amor y ronroneos"
 adopted: false
@@ -14,7 +14,6 @@ adopted: false
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ❌Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

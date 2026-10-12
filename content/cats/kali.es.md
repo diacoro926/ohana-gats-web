@@ -5,7 +5,7 @@ images:
 - "img/cats/Kali-1.jpeg"
 - "img/cats/Kali-2.jpeg"
 - "img/cats/Kali-3.jpeg"
-age: "1 Año"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Dulce y delicada, necesita confianza y cariño para mostrar todo su encanto."
 adopted: false
@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
-- **Fecha de entrada a Ohana:** 2026
 - **Salud:** ✔️Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

@@ -3,7 +3,7 @@ title: "Rosita"
 type: "cats"
 images:
 - "img/cats/Rosita-1.jpeg"
-age: "6 meses - 1 Año"
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "Doneu-li temps, paciència i afecte, i poc a poc us anirà mostrant qui és realment."
 adopted: false
@@ -13,7 +13,6 @@ adopted: false
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Data d'entrada a Ohana:** [Completar mes/año]
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

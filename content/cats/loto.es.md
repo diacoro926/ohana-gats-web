@@ -5,7 +5,7 @@ images:
 - "img/cats/Loto-1.jpeg"
 - "img/cats/Loto-2.jpeg"
 - "img/cats/Loto-3.jpeg"
-age: "1 Año"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "A veces parece estar en su propio mundo, pero precisamente ahí está parte de su encanto."
 adopted: false
@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

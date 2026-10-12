@@ -8,14 +8,13 @@ images:
 age: "Aproximadamente 1 Año"
 gender: "🐱♂ Macho"
 summary: ""
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**
 
 - **Perfil:** 🐾 Jóvenes — 6 meses–2 años
 - **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
-- **Fecha de entrada a Ohana:** [Completar mes/año]
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

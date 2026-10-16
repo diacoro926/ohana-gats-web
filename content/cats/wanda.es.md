@@ -8,7 +8,7 @@ images:
 age: "🐈 Maduros — 7–10 años"
 gender: "🐱♀ Hembra"
 summary: "Segura de sí misma, elegante y plenamente consciente de quién manda."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

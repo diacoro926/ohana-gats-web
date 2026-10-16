@@ -8,7 +8,7 @@ images:
 age: "9 Años"
 gender: "🐱♀ Femella"
 summary: "Segurs de si mateixos, elegants i plenament conscients de qui està al capdavant."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

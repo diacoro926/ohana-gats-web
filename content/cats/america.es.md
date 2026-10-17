@@ -7,6 +7,7 @@ age: "😺 Adultos — 3–6 años"
 gender: "🐱♀ Hembra"
 summary: "América, después de ser mamá , ahora te toca a ti ser feliz🤍"
 adopted: false
+sponsor: true
 ---
 
 🐾 **Mis Datos**

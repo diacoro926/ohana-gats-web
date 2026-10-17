@@ -21,6 +21,13 @@
     <div class="adopted-watermark adopted-detail">
       {{ i18n "label_adopted" }}
     </div>
+  {{ else if .Params.sponsor }}
+  <div class="sponsor-watermark adopted-detail">
+       <a href="{{ "page/helpus/#apadrina" | relLangURL }}"
+     class="sponsor-watermark adopted-detail">
+    {{ i18n "label_sponsor" }}
+  </a>
+  </div>  
   {{ end }}
   <div class="swiper-wrapper">
     {{ range $i, $img := .Params.images }}

@@ -22,6 +22,8 @@
   translation: "Contacta'ns"
 - id: label_adopted
   translation: "RESERVAT"
+- id: label_sponsor
+  translation: "Apadrina"  
 
 - id: help_nav_amazon
   translation: "🛒 Amazon"

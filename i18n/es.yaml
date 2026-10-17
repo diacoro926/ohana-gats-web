@@ -24,6 +24,8 @@
 
 - id: label_adopted
   translation: "RESERVADO"
+- id: label_sponsor
+  translation: "Apadrina"  
 
 - id: help_nav_amazon
   translation: "🛒 Amazon"

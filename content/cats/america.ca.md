@@ -7,6 +7,7 @@ age: "😺 Adults — 3–6 anys"
 gender: "🐱♀ Femella"
 summary: "Els Estats Units, després de ser mare , ara et toca a tu ser feliç🤍"
 adopted: false
+sponsor: true
 ---
 
 🐾 **Les Meves Dades**

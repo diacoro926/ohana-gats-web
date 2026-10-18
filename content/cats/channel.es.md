@@ -8,6 +8,7 @@ age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Channel , La gatita que nos enseño a que rendirse no es una opción"
 adopted: false
+sponsor: true
 ---
 
 🐾 **Mis Datos**

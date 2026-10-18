@@ -7,6 +7,7 @@ age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "La gatita tímida que solo quiere sentirse a salvo"
 adopted: false
+sponsor: true
 ---
 
 🐾 **Mis Datos**

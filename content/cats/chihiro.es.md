@@ -8,6 +8,7 @@ age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: ""
 adopted: false
+sponsor: true
 ---
 
 🐾 **Mis Datos**

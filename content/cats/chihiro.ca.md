@@ -8,6 +8,7 @@ age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: ""
 adopted: false
+sponsor: true
 ---
 
 🐾 **Les Meves Dades**

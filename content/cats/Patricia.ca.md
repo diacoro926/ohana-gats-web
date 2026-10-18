@@ -7,6 +7,7 @@ age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "El gat tímid que només vol sentir-se segur"
 adopted: false
+sponsor: true
 ---
 
 🐾 **Les Meves Dades**

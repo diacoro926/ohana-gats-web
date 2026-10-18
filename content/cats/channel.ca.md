@@ -8,6 +8,7 @@ age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "Canal , El gatet que ens va ensenyar que rendir-se no és una opció"
 adopted: false
+sponsor: true
 ---
 
 🐾 **Les Meves Dades**

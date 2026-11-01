@@ -2,7 +2,10 @@
 title: "Sandy & Danny"
 type: "cats"
 images: 
-- "img/cats/Placeholder-2.png"
+- "img/cats/DannySandy-1.jpeg"
+- "img/cats/Danny-1.jpeg"
+- "img/cats/Sandy-1.jpeg"
+- "img/cats/Danny-2.jpeg"
 age: "🐣 Gatitos — 0–6 meses"
 gender: "Adopción conjunta"
 summary: "Sandy & Danny, dos pequeños corazones en busca de su final de película 🖤🧡"

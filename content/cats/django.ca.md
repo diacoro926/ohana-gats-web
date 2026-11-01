@@ -2,6 +2,7 @@
 title: "Django"
 type: "cats"
 images: 
+  - "img/cats/Django-2.jpeg"
   - "img/cats/Django-1.jpeg"  
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"

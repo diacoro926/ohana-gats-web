@@ -2,7 +2,8 @@
 title: "Panda"
 type: "cats"
 images: 
-- "img/cats/Placeholder-2.png"
+-  "img/cats/Panda-1.jpeg"
+-  "img/cats/Panda-2.jpeg"
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Panda, un ós negre ple d'encant🖤🐼"

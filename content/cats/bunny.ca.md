@@ -3,17 +3,16 @@ title: "Bunny"
 type: "cats"
 images: 
 - "img/cats/Placeholder-2.png"
-age: ""
+age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♀ Femella"
 summary: "Conill🐰💕 , una cara travessera i un cor per descobrir"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**
 
-- **Perfil:** [Completar]
-- **Mida:** [Completar]
-- **Data d'entrada a Ohana:** [Completar mes/año]
+- **Perfil:** 🐣 Gatets — 0–6 mesos
+- **Mida:** 🐭 Petit: fins a 3 kg aprox
 - **Salut:** ✔️Esterilitzat, ❌Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

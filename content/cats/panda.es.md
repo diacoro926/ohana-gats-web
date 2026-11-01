@@ -2,7 +2,8 @@
 title: "Panda"
 type: "cats"
 images: 
-- "img/cats/Placeholder-2.png" 
+-  "img/cats/Panda-1.jpeg"
+-  "img/cats/Panda-2.jpeg"
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Panda, Un osito negro lleno de encanto🖤🐼"

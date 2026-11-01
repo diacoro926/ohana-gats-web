@@ -3,17 +3,16 @@ title: "Bunny"
 type: "cats"
 images: 
 - "img/cats/Placeholder-2.png"
-age: ""
+age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♀ Hembra"
 summary: "Bunny🐰💕 , una carita de traviesa y un corazón por descubrir"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**
 
-- **Perfil:** [Completar]
-- **Tamaño:** [Completar]
-- **Fecha de entrada a Ohana:** [Completar mes/año]
+- **Perfil:** 🐣 Gatitos — 0–6 meses"
+- **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
 - **Salud:** ✔️Esterilizado, ❌Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

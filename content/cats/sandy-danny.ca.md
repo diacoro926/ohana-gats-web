@@ -2,7 +2,10 @@
 title: "Sandy & Danny"
 type: "cats"
 images: 
-- "img/cats/Placeholder-2.png"
+- "img/cats/DannySandy-1.jpeg"
+- "img/cats/Danny-1.jpeg"
+- "img/cats/Sandy-1.jpeg"
+- "img/cats/Danny-2.jpeg"
 age: "🐣 Gatets — 0–6 mesos"
 gender: "adopció conjunta"
 summary: "Sandy i Danny, dos cors petits a la recerca del final de la seva pel·lícula 🖤🧡"

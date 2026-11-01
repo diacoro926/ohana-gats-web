@@ -2,7 +2,7 @@
 title: "Kala & Bombón"
 type: "cats"
 images: 
-- "img/cats/Placeholder-2.png"
+- "img/cats/KalaBombon-1.jpeg"
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "Adopción conjunta"
 summary: "Kala y Bombón, dos hermanitos en busca de hogar 🖤🤍"

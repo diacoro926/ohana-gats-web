@@ -6,7 +6,7 @@ images:
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "Té caràcter, sap el que vol i no dubta a fer alguna maledicció."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

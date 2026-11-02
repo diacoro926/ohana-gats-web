@@ -6,7 +6,7 @@ images:
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Tiene carácter, sabe lo que quiere y no duda en hacer alguna que otra travesura."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

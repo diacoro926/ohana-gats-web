@@ -4,10 +4,10 @@ type: "cats"
 images: 
   - "img/cats/Hochi-1.jpeg"
   - "img/cats/Hochi-2.jpeg"
-age: ""
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
-summary: ""
-adopted: false
+summary: "Hochi, la calma hecha ronroneo y el amor hecho gatito». 🤍🐾"
+adopted: yes
 ---
 
 🐾 **Mis Datos**

@@ -5,7 +5,7 @@ images:
 - "img/cats/Tigrito-1.jpeg"
 - "img/cats/Tigrito-2.jpeg"
 - "img/cats/Tigrito-3.jpeg"
-age: "1 año y medio"
+age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Tigrito: El rey del churu y de los juegos"
 adopted: false
@@ -13,9 +13,8 @@ adopted: false
 
 🐾 **Mis Datos**
 
-- **Perfil:** Adulto Joven
-- **Tamaño:** Mediano
-- **Fecha de entrada a Ohana:** Marzo 2024
+- **Perfil:** 🐾 Jóvenes — 6 meses–2 años
+- **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

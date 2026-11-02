@@ -7,7 +7,7 @@ images:
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "🤍 Novo, un muñeco de amor y ronroneos"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

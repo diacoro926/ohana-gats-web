@@ -15,7 +15,6 @@ adopted: false
 
 - **Perfil:** Adults joves
 - **Mida:** Mitjana
-- **Data d'entrada a Ohana:** Març de 2024
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

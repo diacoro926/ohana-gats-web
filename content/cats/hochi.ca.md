@@ -4,10 +4,10 @@ type: "cats"
 images: 
   - "img/cats/Hochi-1.jpeg"
   - "img/cats/Hochi-2.jpeg"
-age: ""
+age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
-summary: ""
-adopted: false
+summary: "Hochi, la calma feta ronroneig i l’amor fet gatet». 🤍🐾"
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

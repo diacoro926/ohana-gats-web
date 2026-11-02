@@ -7,7 +7,7 @@ images:
 age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "🤍 Novo, una nina de l'amor i el ronroneig"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

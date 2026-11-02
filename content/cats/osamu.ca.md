@@ -2,7 +2,7 @@
 title: "Osamu"
 type: "cats"
 images: 
-  - "img/cats/Placeholder-2.png" 
+  - "img/cats/Osamu-1.JPG" 
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "🖤🤍 OSAMU, Esperant un nou capítol ple d'amor"

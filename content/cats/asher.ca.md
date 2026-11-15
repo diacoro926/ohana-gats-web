@@ -8,7 +8,7 @@ images:
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Asher: tan calmat i guapo que seria el còmplice perfecte per a qualsevol felí... fins i tot per a planificar bromes de migdiada."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

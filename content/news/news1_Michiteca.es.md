@@ -68,20 +68,20 @@ Una historia que nos reúne, una lectura que compartimos.
 Nuestro libro del mes
 </h2>
 
-<p><strong>Bunny — Mona Awad</strong></p>
+<p><strong>La tienda de los deseos — Hiyoko Kurisu</strong></p>
 
 <p style="font-family: Georgia, serif; font-size: 19px; line-height: 1.6; font-style: italic;">
-¿Hasta qué punto cambiarías quién eres para sentir que perteneces?
+¿Y si este diciembre pudieras entrar en una tienda donde los deseos se convierten en historias… y descubrir qué desearías tú?
 </p>
 
 <p style="font-size: 14px; line-height: 1.7; color: #79675c;">
-Una novela inquietante sobre la amistad, la obsesión y el deseo de formar parte de algo.
+Una tienda muy especial, deseos por cumplir y encuentros inesperados que nos invitan a creer en la magia de las pequeñas cosas. ✨
 </p>
 
 </div>
 
 <div style="flex: 0 1 220px; margin: 0 auto;">
-{{< img src="img/news/Bunny-LibrodelMes.jpg" alt="Bunny, de Mona Awad" >}}
+{{< img src="img/news/Michiteca/LaTiendaDeseos.jpeg" alt="la tienda de los deseos,Hiyoko Kurisu " >}}
 </div>
 
 </div>

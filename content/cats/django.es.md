@@ -7,7 +7,7 @@ images:
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Django, Un corazonn que aprende a confiar"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

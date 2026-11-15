@@ -2,8 +2,8 @@
 title: "Jesse"
 type: "cats"
 images: 
-  - "img/cats/Jesse-1.jpg"
-  - "img/cats/Jesse-2.jpg"
+  - "img/cats/Jesse-1.jpeg"
+  - "img/cats/Jesse-2.jpeg"
 age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "Jesse és el germà petit silenciós, el que observa primer i s'acosta després."

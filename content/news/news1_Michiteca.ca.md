@@ -70,20 +70,20 @@ Una historia que nos reúne, una lectura que compartimos.
 El nostre llibre del mes
 </h2>
 
-<p><strong>Bunny — Mona Awad</strong></p>
+<p><strong>La botiga dels desitjos — Hiyoko Kurisu</strong></p>
 
 <p style="font-family: Georgia, serif; font-size: 19px; line-height: 1.6; font-style: italic;">
-Fins a quin punt canviaries qui ets per sentir que formes part d'un grup?
+I si aquest desembre poguessis entrar en una botiga on els desitjos es converteixen en històries… i descobrir què desitjaries tu?
 </p>
 
 <p style="font-size: 14px; line-height: 1.7; color: #79675c;">
-Una novel·la inquietant sobre l'amistat, l'obsessió i el desig de formar part d'alguna cosa.
+Una botiga molt especial, desitjos per complir i trobades inesperades que ens conviden a creure en la màgia de les petites coses. ✨
 </p>
 
 </div>
 
 <div style="flex: 0 1 220px; margin: 0 auto;">
-{{< img src="img/news/Bunny-LibrodelMes.jpg" alt="Bunny, de Mona Awad" >}}
+{{< img src="img/news/Michiteca/LaTiendaDeseos.jpeg" alt="la tienda de los deseos,Hiyoko Kurisu " >}}
 </div>
 
 </div>

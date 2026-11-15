@@ -7,7 +7,7 @@ images:
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♂ Mascle"
 summary: "Django, UN cor que aprèn A confiar"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

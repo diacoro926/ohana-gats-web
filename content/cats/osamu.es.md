@@ -2,7 +2,7 @@
 title: "Osamu"
 type: "cats"
 images: 
-  - "img/cats/Osamu-1.JPG"  
+  - "img/cats/Osamu-1.jpeg"  
 age: ""
 gender: "🐱♂ Macho"
 summary: "🖤🤍 OSAMU, Esperando un nuevo capitulo lleno de amor"

@@ -250,3 +250,10 @@ id = "coral"
 url = "https://coral.to/c/%s"
 title = "Coral"
 icon = "fa-solid fa-c"
+
+
+[[social_icons]]
+id = "donorbox"
+url = "https://donorbox.org/%s"
+title = "Donorbox"
+icon = "fa-solid fa-heart"

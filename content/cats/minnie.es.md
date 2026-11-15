@@ -6,7 +6,7 @@ images:
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♀ Hembra"
 summary: "Minnie, una carey que ha descubierto el placer de los mimos 🐾"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

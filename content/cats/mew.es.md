@@ -6,7 +6,7 @@ images:
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♀ Hembra"
 summary: "MEW, Un vendaval de alegria y juegos🌸"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

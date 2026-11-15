@@ -6,7 +6,7 @@ images:
 age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♀ Femella"
 summary: "Minnie, una carey que ha descobert el plaer de mimar 🐾"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

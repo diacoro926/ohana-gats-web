@@ -7,7 +7,7 @@ images:
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "Marshall, un gatito tierno que sería el gatito más feliz del mundo si pudiera irse con uno de sus compañeros de vida."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**

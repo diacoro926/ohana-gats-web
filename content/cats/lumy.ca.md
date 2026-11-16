@@ -2,7 +2,9 @@
 title: "Lumy"
 type: "cats"
 images: 
-  - "img/cats/Lumy-1.jpeg"  
+  - "img/cats/Lumy-2.jpeg"
+  - "img/cats/Lumy-1.jpeg"
+  - "img/cats/Lumy-3.jpeg"    
 age: "🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "Lumy, un petit lòbul que comença a descobrir l'amor🐺✨"

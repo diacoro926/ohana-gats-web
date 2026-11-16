@@ -4,6 +4,7 @@ type: "cats"
 images: 
   - "img/cats/Palestina-2.jpeg"
   - "img/cats/Palestina-1.jpeg"  
+  - "img/cats/Palestina-3.jpeg"
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Una madre valiente que ya protegió a los suyos y hoy solo necesita aprender a ser cuidada."

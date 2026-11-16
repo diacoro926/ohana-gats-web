@@ -2,7 +2,9 @@
 title: "Kira"
 type: "cats"
 images:
-- "img/cats/Kira-1.jpeg"
+- "img/cats/Kira-1New.jpeg"
+- "img/cats/Kira-2.jpeg"
+- "img/cats/Kira-3.jpeg"
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Con paciencia y amor, puede convertirse en tu compañero inseparable."
@@ -21,4 +23,4 @@ adopted: false
 >
 > *Creemos que es familia de Campanilla y Hochi, ya que los tres proceden del mismo lugar. Kira fue rescatada de la calle y aún necesita tiempo para descubrir que ahora está a salvo.*
 >
-> *Quizá solo necesite a alguien paciente que le demuestre que puede dejar atrás su escondite y empezar una nueva vida. ¿Vienes a conocerla? 🏡❤️*
+> *Quizá solo necesite a alguien paciente que le demuestre que puede dejar atrás su escondite y empezar una nueva vida. ¿Vienes a conocerla?  🏡❤️*

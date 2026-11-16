@@ -2,7 +2,7 @@
 title: "Groot"
 type: "cats"
 images:
-  - "img/cats/Groot-1.jpeg"
+  - "img/cats/Groot-1New.jpeg"
   - "img/cats/Groot-2.jpeg"
   - "img/cats/Groot-3.jpeg"
 age: "3 años"

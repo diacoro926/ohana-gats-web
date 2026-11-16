@@ -4,6 +4,7 @@ type: "cats"
 images:
 - "img/cats/AresYMao-1.jpeg"
 - "img/cats/AresYMao-2.jpeg"
+- "img/cats/Ares-1.jpeg"
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Se conocieron en el refugio y se hicieron inseparables; ahora buscamos un hogar para los dos, porque separarlos nos partiría el corazón."

@@ -6,7 +6,7 @@ images:
 age: 🐣 Gatets — 0–6 mesos"
 gender: "🐱♀ Femella"
 summary: "MEW, un ventall d'alegria i jocs🌸"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**

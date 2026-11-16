@@ -2,7 +2,9 @@
 title: "Lumy"
 type: "cats"
 images: 
-  - "img/cats/Lumy-1.jpeg"  
+  - "img/cats/Lumy-2.jpeg" 
+  - "img/cats/Lumy-1.jpeg"   
+  - "img/cats/Lumy-3.jpeg"  
 age: "🐣 Gatitos — 0–6 meses"
 gender: "🐱♂ Macho"
 summary: "Lumy, una pequeña lobita que empieza a descubrir el cariño🐺✨"

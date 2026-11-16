@@ -3,6 +3,7 @@ title: "Ozuna"
 type: "cats"
 images: 
   - "img/cats/Ozuna-1.jpeg"  
+  - "img/cats/Ozuna-2.jpeg"  
 age: " 🐣 Gatets — 0–6 mesos"
 gender: "🐱♂ Mascle"
 summary: "Ozuna, una petita artista amb molt d'amor per donar 🎶"

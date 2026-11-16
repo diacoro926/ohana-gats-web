@@ -2,6 +2,7 @@
 title: "Teo"
 type: "cats"
 images:
+- "img/cats/Teo-0.jpeg"
 - "img/cats/Teo-1.jpeg"
 - "img/cats/Teo-2.jpeg"
 - "img/cats/Teo-3.jpeg"

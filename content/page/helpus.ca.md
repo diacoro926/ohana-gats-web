@@ -98,11 +98,6 @@ No cal experiència, ni dedicar-hi moltes hores, ni saber-ho “fer perfecte”.
 <a id="apadrina"></a>
 #### 🐱🐾 Apadrina, cuida i canvia una vida
 
-{{< img 
-    src="img/helpus/Apadrina-nav-1.png"  
-    alt="Amazon-donacions" 
-    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
->}}
 
 A Ohana, alguns gats necessiten més temps, més cures i una atenció especial. Són gatets que, per la seva edat, caràcter o per patir una malaltia crònica o necessitats veterinàries, poden passar molt temps amb nosaltres.
 

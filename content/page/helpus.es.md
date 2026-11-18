@@ -94,11 +94,6 @@ Porque para un gato que ha conocido el abandono, **sentir que alguien se preocup
  <a id="apadrina"></a>
 #### 🐱🐾 Apadrina, cuida y cambia una vida
 
-{{< img 
-    src="img/helpus/Apadrina-nav-1.png"  
-    alt="Amazon-donaciones" 
-    style="width:350px; float:left; margin-right:20px; border-radius:12px;" 
->}}
 
 En Ohana, algunos gatos necesitan más tiempo, más cuidados y una atención especial. Son gatitos que, por su edad, carácter o por tener una enfermedad crónica o necesidades veterinarias, pueden pasar mucho tiempo con nosotros.
 

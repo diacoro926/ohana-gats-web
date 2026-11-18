@@ -19,8 +19,8 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *¡Hola! Soy Daddy, un precioso gatito blanco y naranja. Me rescataron de la calle junto a La Perla y Miley, y ahora estoy empezando una nueva etapa en mi vida. 🐾*
+> *¡Hola! Soy Daddy, un precioso gatito blanco y naranja. Me rescataron de la calle junto a La Perla y Miley, y ahora estoy empezando una nueva etapa en mi vida.*
 >
-> *Como mi compañera La Perla, todavía soy un poquito tímido y estoy aprendiendo que puedo sentirme seguro y confiar en las personas. Es un camino que apenas comienza, pero cada pequeño avance es una gran victoria. 🥹💕*
+> *Como mi compañera La Perla, todavía soy un poquito tímido y estoy aprendiendo que puedo sentirme seguro y confiar en las personas. Es un camino que apenas comienza, pero cada pequeño avance es una gran victoria.*
 >
 > *Sueño con una familia que tenga paciencia, respete mis tiempos y me ayude a descubrir lo bonito que es recibir cariño sin tener miedo.*

@@ -18,8 +18,8 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *Hola! Sóc l'Ozuna, un preciós gatet negre. El meu nom està inspirat en el cantant, així que ja tinc una mica de ritme en el meu nom! 😻*
+> *Hola! Sóc l'Ozuna, un preciós gatet negre. El meu nom està inspirat en el cantant, així que ja tinc una mica de ritme en el meu nom!*
 >
-> *Acabo d'arribar i encara estic descobrint que aquest nou allotjament pot ser segur. Sóc una gata cariñosa, encara que necessito una mica de temps per acabar de confiar i mostrar tot el que tinc a dins. 🥹🐾*
+> *Acabo d'arribar i encara estic descobrint que aquest nou allotjament pot ser segur. Sóc una gata cariñosa, encara que necessito una mica de temps per acabar de confiar i mostrar tot el que tinc a dins.*
 >
 > *Somio amb una família que m'acompanyi en aquesta nova etapa, em doni paciència i m'ompli de mims quan estigui a punt.*

@@ -17,13 +17,13 @@ adopted: yes
 
 📖 **Mi Historia**
 
-> *¡Hola! Soy Mew. Nací en un huerto junto a mis tres hermanitos, pero llegué a Ohana siendo tan pequeñita que necesitaba muchos cuidados. 🥺🤍*
+> *¡Hola! Soy Mew. Nací en un huerto junto a mis tres hermanitos, pero llegué a Ohana siendo tan pequeñita que necesitaba muchos cuidados.*
 >
-> *Como mi mamá no estaba conmigo, las voluntarias se convirtieron en mi familia. Me alimentaron con biberón, me cuidaron y me dieron todo el amor que necesitaba para crecer. Gracias a ellas, hoy soy una gatita feliz, llena de energía y con muchas ganas de descubrir el mundo. 🍼💕*
+> *Como mi mamá no estaba conmigo, las voluntarias se convirtieron en mi familia. Me alimentaron con biberón, me cuidaron y me dieron todo el amor que necesitaba para crecer. Gracias a ellas, hoy soy una gatita feliz, llena de energía y con muchas ganas de descubrir el mundo.*
 >
 > *¿Mi especialidad? ¡Las emboscadas gatunas! 😹 Me escondo sigilosamente, espero a que pases cerca y… ¡zas! Ataque sorpresa. Soy juguetona, divertida y un auténtico vendaval de alegría. Conmigo, el aburrimiento no tiene ninguna oportunidad.*
 >
-> *Pero, aunque en Ohana me han cuidado muchísimo, ahora me toca encontrar algo que llevo tiempo esperando: una familia propia que me elija para siempre. 🏡❤️*
+> *Pero, aunque en Ohana me han cuidado muchísimo, ahora me toca encontrar algo que llevo tiempo esperando: una familia propia que me elija para siempre.*
 >
 > *Sueño con un hogar donde crecer rodeada de cariño, jugar hasta caer rendida y tener personas a las que regalar todas mis travesuras y ronroneos.*
 >

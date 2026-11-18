@@ -19,6 +19,6 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *La Kali va ser rescatada inicialment amb la idea d'aplicar el mètode CER, però l'Ohana va decidir provar-ho. ❤️*
-> *Van descobrir que és tranquil·la, afectuosa i fins i tot menuda amb la gent. 🐱*
+> *La Kali va ser rescatada inicialment amb la idea d'aplicar el mètode CER, però l'Ohana va decidir provar-ho.*
+> *Van descobrir que és tranquil·la, afectuosa i fins i tot menuda amb la gent.*
 > *Ara està aprenent a confiar i demostrant que es mereix molt més que tornar al carrer.*

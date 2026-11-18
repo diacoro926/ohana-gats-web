@@ -19,7 +19,7 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *¡Hola! Soy Lumy, un precioso gatit0 negra con pelito semilargo. Dicen que parezco un mini lobito, ¡con mi melena suave y mi mirada llena de misterio! 🥹🐾*
+> *¡Hola! Soy Lumy, un precioso gatit0 negra con pelito semilargo. Dicen que parezco un mini lobito, ¡con mi melena suave y mi mirada llena de misterio!*
 >
 > *Acabo de llegar al refugio gracias al rescate de las Karens. Todo es nuevo para mí y todavía soy un poquito tímida, pero estoy empezando a descubrir que puedo confiar y que las personas también pueden traer cosas bonitas. 💕*
 >

@@ -23,4 +23,4 @@ adopted: false
 >
 > *Potser no sóc el primer a venir a conèixer-te, però m'encantaria que algú em mirés, em volgués conèixer i em donés el temps que necessito.*
 >
-> *No cal que em trieu per ser el més atrevit, fins i tot els més tímids tenen molt d'amor a l'espera de florir. Vens a conèixer-me? 🏡❤️*
+> *No cal que em trieu per ser el més atrevit, fins i tot els més tímids tenen molt d'amor a l'espera de florir. Vens a conèixer-me?*

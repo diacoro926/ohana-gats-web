@@ -19,6 +19,6 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *Kali fue rescatada inicialmente con la idea de aplicar el método CER, pero en Ohana decidieron darle una oportunidad. ❤️*
-> *Descubrieron que con las personas se muestra tranquila, cariñosa y hasta hace la croqueta. 🐱*
+> *Kali fue rescatada inicialmente con la idea de aplicar el método CER, pero en Ohana decidieron darle una oportunidad.*
+> *Descubrieron que con las personas se muestra tranquila, cariñosa y hasta hace la croqueta.*
 > *Ahora está aprendiendo a confiar y demostrando que merece mucho más que volver a la calle.*

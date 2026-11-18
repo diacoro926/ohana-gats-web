@@ -19,7 +19,7 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *Epi llegó junto a Blas, muy delgado, temblando y cubierto de pintura blanca. 💔🐱*
+> *Epi llegó junto a Blas, muy delgado, temblando y cubierto de pintura blanca.*
 > *Estaba completamente aterrorizado y necesitaba tiempo para sentirse seguro.*
-> *Blas encontró una familia, pero Epi se quedó esperando su oportunidad. ❤️*
-> *Ahora busca un hogar paciente y lleno de amor donde pueda aprender a ser feliz. 🏡🐾*
+> *Blas encontró una familia, pero Epi se quedó esperando su oportunidad. *
+> *Ahora busca un hogar paciente y lleno de amor donde pueda aprender a ser feliz.*

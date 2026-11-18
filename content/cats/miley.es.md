@@ -17,7 +17,7 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *¡Hola! Soy Miley, una preciosa gatita vaquita que llegó a Ohana después de ser rescatada de la calle junto a Daddy y La Perla. 🐾💕*
+> *¡Hola! Soy Miley, una preciosa gatita vaquita que llegó a Ohana después de ser rescatada de la calle junto a Daddy y La Perla.*
 >
 > *Dejé atrás una vida difícil y ahora tengo por delante una oportunidad preciosa: descubrir lo que significa vivir sin preocupaciones, sentirse protegida y recibir cariño.*
 >

@@ -23,4 +23,4 @@ adopted: false
 >
 > *Creemos que es familia de Campanilla y Hochi, ya que los tres proceden del mismo lugar. Kira fue rescatada de la calle y aún necesita tiempo para descubrir que ahora está a salvo.*
 >
-> *Quizá solo necesite a alguien paciente que le demuestre que puede dejar atrás su escondite y empezar una nueva vida. ¿Vienes a conocerla?  🏡❤️*
+> *Quizá solo necesite a alguien paciente que le demuestre que puede dejar atrás su escondite y empezar una nueva vida. ¿Vienes a conocerla?*

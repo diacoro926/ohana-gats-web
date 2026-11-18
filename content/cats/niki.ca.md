@@ -22,4 +22,4 @@ adopted: false
 >
 > *Ara forma part de la família OHANA, on està segura, atesa i aprenent lentament a confiar i gaudir d'una vida més tranquil·la.*
 >
-> *És una gata sensible i amb caràcter, però cada dia fa petits passos en la seva adaptació. I té una mania que ens encanta: quan freguem el terra, sembla supervisar el cubell d'aigua amb tota la seriositat del món. 🐱💕*
+> *És una gata sensible i amb caràcter, però cada dia fa petits passos en la seva adaptació. I té una mania que ens encanta: quan freguem el terra, sembla supervisar el cubell d'aigua amb tota la seriositat del món.*

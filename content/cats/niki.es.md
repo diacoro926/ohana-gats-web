@@ -22,4 +22,4 @@ adopted: false
 >
 > *Ahora forma parte de la familia OHANA, donde está segura, cuidada y aprendiendo poco a poco a confiar y disfrutar de una vida más tranquila.*
 >
-> *Es una gatita sensible y con carácter, pero cada día da pequeños pasos en su adaptación. Y tiene una manía que nos encanta: cuando fregamos el suelo, aparece para supervisar el cubo de agua con toda la seriedad del mundo. 🐱💕*
+> *Es una gatita sensible y con carácter, pero cada día da pequeños pasos en su adaptación. Y tiene una manía que nos encanta: cuando fregamos el suelo, aparece para supervisar el cubo de agua con toda la seriedad del mundo.*

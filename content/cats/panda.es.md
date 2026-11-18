@@ -18,7 +18,7 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *¡Os presentamos a Panda! Un precioso gatito de color negro intenso, con sus adorables bigotitos, sus pequeñas orejitas y unas ganas enormes de encontrar una familia. ¿No parece un osito panda con pelaje de terciopelo? 🥹🖤*
-> *Panda llegó a Ohana para ser reubicado, pero las voluntarias no tardaron en descubrir que es un gato muy sociable. Así que decidieron darle la oportunidad de encontrar un hogar propio. ¡Y aquí está, esperando a su persona especial! 🐾💕*
+> *¡Os presentamos a Panda! Un precioso gatito de color negro intenso, con sus adorables bigotitos, sus pequeñas orejitas y unas ganas enormes de encontrar una familia. ¿No parece un osito panda con pelaje de terciopelo?*
+> *Panda llegó a Ohana para ser reubicado, pero las voluntarias no tardaron en descubrir que es un gato muy sociable. Así que decidieron darle la oportunidad de encontrar un hogar propio. ¡Y aquí está, esperando a su persona especial!*
 >
-> *Ahora busca una familia con la que compartir ronroneos, momentos bonitos y toda esa ternura que lleva dentro. Porque a veces, los gatos más oscuros son los que más luz pueden aportar a nuestras vidas. ✨*
+> *Ahora busca una familia con la que compartir ronroneos, momentos bonitos y toda esa ternura que lleva dentro. Porque a veces, los gatos más oscuros son los que más luz pueden aportar a nuestras vidas.*

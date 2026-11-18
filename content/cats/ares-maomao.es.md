@@ -31,4 +31,4 @@ adopted: false
 >
 > *Por eso, cuando pensamos en su futuro, no podemos imaginarlo por separado. Después de todo lo que ambos han vivido, creemos que merecen que su nueva oportunidad sea juntos. Queremos encontrarles un hogar donde puedan seguir acompañándose, creciendo en confianza y descubriendo todo lo bonito que les queda por vivir.*
 >
-> *Ares y Maomao se han elegido el uno al otro. Ahora solo necesitan encontrar una familia que los elija a los dos. ❤️*
+> *Ares y Maomao se han elegido el uno al otro. Ahora solo necesitan encontrar una familia que los elija a los dos.*

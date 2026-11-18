@@ -23,4 +23,4 @@ adopted: false
 >
 > *Creiem que és la família de Campanilla i Hochi, ja que tots tres provenen del mateix lloc. La Kira va ser rescatada del carrer i encara necessita temps per descobrir que ara està fora de perill.*
 >
-> *Potser només necessites que algú pacient et demostri que pots deixar enrere el teu amagatall i començar una nova vida. Vens a conèixer-la?  🏡❤️*
+> *Potser només necessites que algú pacient et demostri que pots deixar enrere el teu amagatall i començar una nova vida. Vens a conèixer-la?*

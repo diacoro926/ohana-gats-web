@@ -18,8 +18,8 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *¡Hola! Soy Ozuna, un precioso gatito negro. Mi nombre está inspirado en el cantante, ¡así que ya llevo un poquito de ritmo en mi nombre! 😻*
+> *¡Hola! Soy Ozuna, un precioso gatito negro. Mi nombre está inspirado en el cantante, ¡así que ya llevo un poquito de ritmo en mi nombre!*
 >
-> *Acabo de llegar y todavía estoy descubriendo que este nuevo lugar puede ser seguro. Soy un gatito cariñoso, aunque necesito un poquito de tiempo para terminar de confiar y mostrar todo lo que llevo dentro. 🥹🐾*
+> *Acabo de llegar y todavía estoy descubriendo que este nuevo lugar puede ser seguro. Soy un gatito cariñoso, aunque necesito un poquito de tiempo para terminar de confiar y mostrar todo lo que llevo dentro.*
 >
 > *Sueño con una familia que me acompañe en esta nueva etapa, me regale paciencia y me llene de mimos cuando esté preparado.*

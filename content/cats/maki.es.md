@@ -23,4 +23,4 @@ adopted: false
 >
 > *Quizá no sea el primero en salir a recibirte, pero me encantaría que alguien se fijara en mí, quisiera conocerme y me diera el tiempo que necesito.*
 >
-> *No hace falta que me elijas por ser el más atrevido, también los tímidos tenemos muchísimo amor esperando a florecer. ¿Vienes a conocerme? 🏡❤️*
+> *No hace falta que me elijas por ser el más atrevido, también los tímidos tenemos muchísimo amor esperando a florecer. ¿Vienes a conocerme?*

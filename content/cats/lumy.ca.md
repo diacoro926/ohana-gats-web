@@ -19,7 +19,7 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *Hola! Sóc Lumy, un precioso gatito negro amb el cabell mig llarg. Diuen que sembla un mini llop, amb la meva melena suau i la meva mirada plena de misteri! 🥹🐾*
+> *Hola! Sóc Lumy, un precioso gatito negro amb el cabell mig llarg. Diuen que sembla un mini llop, amb la meva melena suau i la meva mirada plena de misteri!*
 >
 > *Acabo d'arribar al refugi gràcies al rescat dels Karens. Tot és nou per a mi i encara sóc una mica tímid, però començo a trobar que puc confiar i que la gent també pot aportar coses bones. 💕*
 >

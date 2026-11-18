@@ -31,4 +31,4 @@ adopted: false
 >
 > *Per això, quan pensem en el seu futur, no el podem imaginar per separat. Després de tot el que heu viscut, creiem que us mereixeu la vostra nova oportunitat d'estar junts. Volem trobar-los una llar on puguin seguir acompanyant-se, créixer en confiança i descobrir totes les coses boniques que els queden per viure.*
 >
-> *Ares i Maomao s'han triat l'un a l'altre. Ara només han de trobar una família que els triï a tots dos. ❤️*
+> *Ares i Maomao s'han triat l'un a l'altre. Ara només han de trobar una família que els triï a tots dos.*

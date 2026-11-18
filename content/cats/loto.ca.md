@@ -19,7 +19,7 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *La Loto era vista com una nena al costat d'un altre gatet prop d'un supermercat, i durant mesos els nostres voluntaris la van seguir fins que van poder rescatar-la. 🌸🐱*
+> *La Loto era vista com una nena al costat d'un altre gatet prop d'un supermercat, i durant mesos els nostres voluntaris la van seguir fins que van poder rescatar-la.*
 > *Un voluntari li va donar el seu nom perquè l'endemà del seu rescat va començar la primavera, una època de nous inicis.*
-> *Igual que la flor que porta el seu nom, Loto representa l'esperança i l'oportunitat de tornar a començar. ❤️*
+> *Igual que la flor que porta el seu nom, Loto representa l'esperança i l'oportunitat de tornar a començar.*
 > *Ara busca una família on pugui florir envoltada d'amor.*

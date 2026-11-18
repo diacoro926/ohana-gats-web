@@ -19,7 +19,7 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *Loto fue vista de pequeñita junto a otro gatito cerca de un supermercado, y durante meses nuestras voluntarias siguieron su pista hasta poder rescatarla. 🌸🐱*
+> *Loto fue vista de pequeñita junto a otro gatito cerca de un supermercado, y durante meses nuestras voluntarias siguieron su pista hasta poder rescatarla.*
 > *Su nombre se lo puso una voluntaria porque el día después de su rescate comenzaba la primavera, una época de nuevos comienzos.*
-> *Como la flor que lleva su nombre, Loto representa la esperanza y la oportunidad de empezar de nuevo. ❤️*
+> *Como la flor que lleva su nombre, Loto representa la esperanza y la oportunidad de empezar de nuevo.*
 > *Ahora busca una familia donde pueda florecer rodeada de amor.*

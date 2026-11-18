@@ -18,10 +18,10 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *¡Hola! Somos Luna y Vulpi, dos hermanitas que, si nos ves juntas, ¡parecemos gemelas! Compartimos mucho más que nuestro precioso pelaje naranja: somos inseparables y hemos crecido compartiendo cada aventura. 🥹*
+> *¡Hola! Somos Luna y Vulpi, dos hermanitas que, si nos ves juntas, ¡parecemos gemelas! Compartimos mucho más que nuestro precioso pelaje naranja: somos inseparables y hemos crecido compartiendo cada aventura.*
 >
-> *Yo soy Luna, tranquila, buena y muy cariñosa. Me encanta recibir mimos y disfrutar de la compañía. 🧡*
+> *Yo soy Luna, tranquila, buena y muy cariñosa. Me encanta recibir mimos y disfrutar de la compañía.*
 >
-> *Y yo soy Vulpi. Al principio puedo ser un poquito más asustadiza, pero cuando me siento segura también saco mi lado más dulce y cariñoso. 🧡*
+> *Y yo soy Vulpi. Al principio puedo ser un poquito más asustadiza, pero cuando me siento segura también saco mi lado más dulce y cariñoso.*
 >
 > *Nos queremos muchísimo y nos encantaría seguir creciendo juntas. Hemos compartido nuestros primeros meses de vida y sería precioso que nuestra próxima aventura también la viviéramos de la patita.*

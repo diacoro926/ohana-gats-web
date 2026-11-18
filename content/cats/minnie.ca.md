@@ -17,8 +17,8 @@ adopted: yes
 
 📖 **La Meva Història**
 
-> *Hola! Sóc la Minnie, una preciosa gatet carei que va arribar al refugi molt espantada i bastant espantada. Al principi necessitava el seu temps per adaptar-me i trobar que estava segur aquí. 🥹*
+> *Hola! Sóc la Minnie, una preciosa gatet carei que va arribar al refugi molt espantada i bastant espantada. Al principi necessitava el seu temps per adaptar-me i trobar que estava segur aquí.*
 >
-> *Però sovint canvio! Un cop superat aquest període d'adaptació, deixo sortir el meu veritable jo: ara sóc un gat súper afectuós, m'encanten les carícies i fins i tot faig petites croquetes feliços quan estic a gust. 😻💕*
+> *Però sovint canvio! Un cop superat aquest període d'adaptació, deixo sortir el meu veritable jo: ara sóc un gat súper afectuós, m'encanten les carícies i fins i tot faig petites croquetes feliços quan estic a gust.*
 >
 > *Ara que he descobert el bonic que és rebre afecte, m'encantaria trobar una família amb la qual seguir gaudint de tants mims.*

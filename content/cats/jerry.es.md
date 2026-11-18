@@ -19,8 +19,8 @@ adopted: false
 
 > *Hoy queremos presentaros a Jerry. Apareció junto a Tom y Estela después de haber sido abandonados. Por suerte, pudimos recogerlos y darles una oportunidad de empezar de nuevo. 🐾*
 >
-> *Estela ya ha encontrado una familia, pero Jerry todavía sigue esperando que alguien se enamore de él. 🥹*
+> *Estela ya ha encontrado una familia, pero Jerry todavía sigue esperando que alguien se enamore de él.*
 >
-> *Es un precioso gatito blanco con unas adorables orejitas negras, ¡como dos pequeñas pinceladas de tinta! 🤍🖤*
+> *Es un precioso gatito blanco con unas adorables orejitas negras, ¡como dos pequeñas pinceladas de tinta!*
 >
 > *Nos encantaría verlo encontrar ese hogar donde sentirse querido y protegido para siempre. Porque después de todo lo que ha vivido, también merece su final feliz.*

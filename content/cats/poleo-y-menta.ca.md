@@ -21,10 +21,10 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *Poleo i Menta són uns tímids germans petits que necessiten una mica de temps per confiar. La menta(gateta negra) és el glotó i el poleo (blanc i negre) , una mica més reservats, però junts se senten segurs. 🧡*
+> *Poleo i Menta són uns tímids germans petits que necessiten una mica de temps per confiar. La menta(gateta negra) és el glotó i el poleo (blanc i negre) , una mica més reservats, però junts se senten segurs.*
 >
-> *Poleo i Mint: una infusió d'amor que ve en parella. ☕🐾*
+> *Poleo i Mint: una infusió d'amor que ve en parella.*
 >
 > *La seva adopció serà conjunta, perquè han crescut junts i volem que continuïn compartint cada ronroneig, cada partit i tota la vida.*
 >
-> *Dos germans petits, una família i una història que sap millor quan es comparteix. ❤️*
+> *Dos germans petits, una família i una història que sap millor quan es comparteix.*

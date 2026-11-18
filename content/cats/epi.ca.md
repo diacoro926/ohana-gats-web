@@ -19,7 +19,7 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *Epi va arribar al costat de Blas, molt prim, tremolant i cobert de pintura blanca. 💔🐱*
+> *Epi va arribar al costat de Blas, molt prim, tremolant i cobert de pintura blanca.*
 > *Estava completament aterrit i necessitava temps per sentir-se segur.*
-> *Blas va trobar una família, però Epi es va quedar esperant la seva oportunitat. ❤️*
-> *Ara busca una llar pacient i amorosa on aprendre a ser feliç. 🏡🐾*
+> *Blas va trobar una família, però Epi es va quedar esperant la seva oportunitat. *
+> *Ara busca una llar pacient i amorosa on aprendre a ser feliç.*

@@ -17,13 +17,13 @@ adopted: yes
 
 📖 **La Meva Història**
 
-> *Hola! Sóc Mew. Vaig néixer en un hort amb els meus tres germans petits, però vaig arribar a Ohana de petita i necessitava moltes cures. 🥺🤍*
+> *Hola! Sóc Mew. Vaig néixer en un hort amb els meus tres germans petits, però vaig arribar a Ohana de petita i necessitava moltes cures.*
 >
-> *Com que la meva mare no estava amb mi, els voluntaris es van convertir en la meva família. Em van alimentar amb biberó, em van cuidar i em van donar tot l'amor que necessitava per créixer. Gràcies a ells, avui sóc un gatet feliç, ple d'energia i amb ganes de descobrir el món. 🍼💕*
+> *Com que la meva mare no estava amb mi, els voluntaris es van convertir en la meva família. Em van alimentar amb biberó, em van cuidar i em van donar tot l'amor que necessitava per créixer. Gràcies a ells, avui sóc un gatet feliç, ple d'energia i amb ganes de descobrir el món.*
 >
 > *La meva especialitat? Emboscades de gats! 😹 M'estic amagant tranquil·lament, esperant que passis i... vaja! Atac sorpresa. Sóc juguetó, divertit i un veritable ventall d'alegria. Amb mi, l'avorriment no té cap possibilitat.*
 >
-> *Però, tot i que a Ohana m'han cuidat molt, ara he de trobar una cosa que he estat esperant durant molt de temps: una família pròpia que em triarà per sempre. 🏡❤️*
+> *Però, tot i que a Ohana m'han cuidat molt, ara he de trobar una cosa que he estat esperant durant molt de temps: una família pròpia que em triarà per sempre.*
 >
 > *Somio amb una llar on creixi envoltada d'afecte, jugui fins que em rendeixi i tingui gent per regalar totes les meves payesades i ronrons.*
 >

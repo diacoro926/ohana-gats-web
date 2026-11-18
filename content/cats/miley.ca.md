@@ -17,7 +17,7 @@ adopted: false
 
 📖 **La Meva Història**
 
-> *Hola! Sóc la Miley, una preciosa gatita vaquita que va arribar a Ohana després de ser rescatada del carrer amb el pare i la Perla. 🐾💕*
+> *Hola! Sóc la Miley, una preciosa gatita vaquita que va arribar a Ohana després de ser rescatada del carrer amb el pare i la Perla.*
 >
 > *Vaig deixar enrere una vida difícil i ara tinc una oportunitat preciosa: descobrir què significa viure sense preocupacions, sentir-me protegit i rebre afecte.*
 >

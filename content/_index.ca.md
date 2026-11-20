@@ -20,4 +20,4 @@ Gràcies per ser aquí. La teva visita ja és un gest d’afecte. I potser avui 
 </div>
 Coneix els nostres [gats disponibles](/cats/) o descobreix més [sobre nosaltres](/page/about/).
 
-<p style="text-align: center;">¡La teva ajuda els pot canviar la vida!! 🐾</p>
+<p style="text-align: center;">¡La teva ajuda els pot canviar la vida!!</p>

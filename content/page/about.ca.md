@@ -4,7 +4,7 @@ subtitle: Perquè cada gat mereix una oportunitat. Així va començar la nostra 
 comments: false
 ---
 
-## 🐾 **Així va néixer la nostra família**
+## **Així va néixer la nostra família**
 ---
 {{< about-carousel >}}
 <div style="text-align: justify;">

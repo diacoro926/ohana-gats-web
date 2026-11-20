@@ -4,7 +4,7 @@ subtitle: Porque cada gato merece una oportunidad. Así comenzó nuestra histori
 comments: false
 ---
 
-## 🐾 **Así nació nuestra familia**
+## **Así nació nuestra familia**
 ---
 {{< about-carousel >}}
 <div style="text-align: justify;">
@@ -25,17 +25,22 @@ Aquí empieza nuestra historia. La historia de quienes sostienen lo invisible.
 
 
 ---
-<!-- Bloque Mision, Vision y valores-->
-<div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
- <strong>MISIÓN</strong>
+<!-- Bloque Mision sin ningun titulo-->
+
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="flex: 1; color: #2c3e50; line-height: 1.6; font-weight: normal;">
+    Nuestra misión es proteger y cuidar a los gatos callejeros de El Prat de Llobregat y sus alrededores, ofreciéndoles alimento, refugio, cuidados, atención veterinaria y cariño.
+    <br>
+    Trabajamos para que ningún gato tenga que vivir con miedo, frío o hambre. Porque cada vida importa y cada pequeño gesto puede marcar una gran diferencia.
+  </div>
+
+  <div style="width: 40%;">
+    {{< img src="img/Otras/Mision-image.jpeg" alt="Mision imagen" >}}
+  </div>
+
 </div>
-
-Ser refugio, voz y familia para los gatos callejeros de El Prat y sus alrededores.
-Trabajamos para proteger, cuidar y acompañar a cada gato que vive en la calle, ofreciéndole calor, alimento, atención veterinaria y una oportunidad real de vivir sin miedo, sin frío y sin hambre.
-Nuestra misión es transformar pequeños gestos en grandes cambios, creando una red de personas comprometidas que sostienen lo invisible y creen que cada vida importa.
-
-
----
+--
 
 <!-- Bloque Vision-->
 <div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">

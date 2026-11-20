@@ -24,5 +24,5 @@ Gracias por estar aquí. Tu visita ya es un gesto de cariño. Y quién sabe… t
 
 Conoce a nuestros [gatos disponibles](/cats/) o descubre más [sobre nosotros](/page/about/).
 
-<p style="text-align: center;">¡Tu ayuda puede cambiarles la vida! 🐾</p>
+<p style="text-align: center;">¡Tu ayuda puede cambiarles la vida!</p>
 

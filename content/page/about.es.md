@@ -4,68 +4,102 @@ subtitle: Porque cada gato merece una oportunidad. Así comenzó nuestra histori
 comments: false
 ---
 
-## **Así nació nuestra familia**
----
+## Así nació nuestra familia
+
 {{< about-carousel >}}
+
 <div style="text-align: justify;">
 
-Todo empezó con algo tan sencillo como un transportín y con muy pocas personas intentando ayudar como podían.
-Durante años, en las calles de El Prat, aprendimos que a veces un gesto pequeño —como abrir un transportín con cuidado— puede cambiar la vida de un gato.
+<p>Todo empezó con algo tan sencillo como un transportín y con muy pocas personas intentando ayudar como podían.</p>
 
-No había grandes medios ni grandes planes. Solo la voluntad de ofrecer calor cuando hacía frío, comida cuando no la había y compañía cuando nadie más estaba allí.
-Y, poco a poco, ese amor por los gatos empezó a mover a más gente: personas totalmente diferentes entre sí, de distintos lugares, culturas y nacionalidades, unidas por un mismo sentimiento.
+<p>Durante años, en las calles de El Prat, aprendimos que a veces un gesto pequeño —como abrir un transportín con cuidado— puede cambiar la vida de un gato.</p>
 
-Con el tiempo, entendimos que necesitábamos algo más estable, algo que reuniera todas esas manos y corazones que se habían ido sumando.<br>
-Así nació **OHANA**: como una forma de organizarnos mejor, de llegar más lejos y de asegurarnos de que ningún gato dependa únicamente de la suerte.
+<p>No había grandes medios ni grandes planes. Solo la voluntad de ofrecer calor cuando hacía frío, comida cuando no la había y compañía cuando nadie más estaba allí.</p>
 
-En OHANA no hablamos solo de voluntariado: hablamos de familia. Una familia que no se une por sangre, sino por valores, por propósito y por amor.  Personas distintas, con vidas distintas, pero unidas por algo que atraviesa a cada una:  
+<p>Y, poco a poco, ese amor por los gatos empezó a mover a más gente: personas totalmente diferentes entre sí, de distintos lugares, culturas y nacionalidades, unidas por un mismo sentimiento.</p>
 
-**La certeza de que ninguna vida merece pasar frío, miedo o hambre.**<br>
-Aquí empieza nuestra historia. La historia de quienes sostienen lo invisible.
+<p>Con el tiempo, entendimos que necesitábamos algo más estable, algo que reuniera todas esas manos y corazones que se habían ido sumando.</p>
 
+<p>Así nació <strong>OHANA</strong>: como una forma de organizarnos mejor, de llegar más lejos y de asegurarnos de que ningún gato dependa únicamente de la suerte.</p>
 
----
-<!-- Bloque Mision sin ningun titulo-->
+<p>En OHANA no hablamos solo de voluntariado: hablamos de familia. Una familia que no se une por sangre, sino por valores, por propósito y por amor. Personas distintas, con vidas distintas, pero unidas por algo que atraviesa a cada una:</p>
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<p><strong>La certeza de que ninguna vida merece pasar frío, miedo o hambre.</strong></p>
 
-  <div style="flex: 1; color: #2c3e50; line-height: 1.6; font-weight: normal;">
-    Nuestra misión es proteger y cuidar a los gatos callejeros de El Prat de Llobregat y sus alrededores, ofreciéndoles alimento, refugio, cuidados, atención veterinaria y cariño.
-    <br>
-    Trabajamos para que ningún gato tenga que vivir con miedo, frío o hambre. Porque cada vida importa y cada pequeño gesto puede marcar una gran diferencia.
-  </div>
-
-  <div style="width: 40%;">
-    {{< img src="img/Otras/Mision-image.jpeg" alt="Mision imagen" >}}
-  </div>
+<p>Aquí empieza nuestra historia. La historia de quienes sostienen lo invisible.</p>
 
 </div>
---
 
-<!-- Bloque Vision-->
-<div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
- <strong>VISIÓN</strong>
+<hr>
+
+<!-- BLOQUE MISIÓN -->
+<div class="aboutus-block">
+<div class="aboutus-heading">
+<strong>MISIÓN</strong>
+</div>
+<figure class="aboutus-image">
+    {{< img
+        src="img/Otras/Mision-image.jpeg"
+        alt="OHANA - Misión, visión y valores"
+        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+    >}}
+</figure>
+</figure>
+<div class="aboutus-text">
+<p>Nuestra misión es proteger y cuidar a los gatos callejeros de El Prat de Llobregat y sus alrededores, ofreciéndoles alimento, refugio, cuidados, atención veterinaria y cariño.</p>
+
+<p>Trabajamos para que ningún gato tenga que vivir con miedo, frío o hambre. Porque cada vida importa y cada pequeño gesto puede marcar una gran diferencia.</p>
+</div>
 </div>
 
-Construir un futuro donde ningún gato dependa de la suerte. Un futuro donde la comunidad esté unida por el respeto, la empatía y la responsabilidad hacia los animales.
-Queremos ser una organización sólida, cercana y humana, capaz de llegar más lejos, de educar, de inspirar y de demostrar que la ternura y la constancia pueden cambiar el mundo de quienes no tienen voz.
+<!-- BLOQUE VISIÓN -->
+<div class="aboutus-block aboutus-reverse">
+<div class="aboutus-heading">
+<strong>VISIÓN</strong>
+</div>
+<figure class="aboutus-image">
+    {{< img
+        src="img/Otras/Mision-image.jpeg"
+        alt="OHANA - Misión, visión y valores"
+        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+    >}}
+</figure>
+</figure>
+<div class="aboutus-text">
+<p>Construir un futuro donde ningún gato dependa de la suerte. Un futuro donde la comunidad esté unida por el respeto, la empatía y la responsabilidad hacia los animales.</p>
 
-
----
-<!-- Bloque VALORES-->
-<div style="width:100vw; max-width:100%; margin: 0 auto; padding: 14px 24px; background-color: #E6E6FA; border-left: 6px solid #c47da3 ; font-size: 0.95em; color: #2c3e50; text-align: left; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
- <strong>VALORES</strong>
+<p>Queremos ser una organización sólida, cercana y humana, capaz de llegar más lejos, de educar, de inspirar y de demostrar que la ternura y la constancia pueden cambiar el mundo de quienes no tienen voz.</p>
+</div>
 </div>
 
-En OHANA somos una familia que ofrece hogar, unión y apoyo incondicional a quienes más lo necesitan. <br>
-Creemos en el profundo respeto por cada vida, porque cada gesto cuenta.<br>
-Actuamos con responsabilidad y ética, guiados por la empatía, que nos permite escuchar silencios, comprender miedos y acompañar cada proceso con ternura.<br>
-Practicamos la paciencia, amando sin prisas y respetando los tiempos de cada gato.<br>
-Nuestra compasión nos convierte en manos que cuidan y corazones que sostienen, mientras que la inclusión nos une como personas diferentes con un mismo propósito.<br>
-La perseverancia nos mantiene firmes incluso en los días más difíciles, porque siempre hay alguien que nos necesita.<br>
-Y la esperanza ilumina nuestro camino, recordándonos que siempre hay un nuevo amanecer capaz de devolver la luz.
+<!-- BLOQUE VALORES -->
+<div class="aboutus-block">
+<div class="aboutus-heading">
+<strong>VALORES</strong>
+</div>
+<figure class="aboutus-image">
+    {{< img
+        src="img/Otras/Mision-image.jpeg"
+        alt="OHANA - Misión, visión y valores"
+        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+    >}}
+</figure>
+</figure>
+<div class="aboutus-text">
+<p>En OHANA somos una familia que ofrece hogar, unión y apoyo incondicional a quienes más lo necesitan. Creemos en el profundo respeto por cada vida, porque cada gesto cuenta.</p>
+
+<p>Actuamos con responsabilidad y ética, guiados por la empatía, que nos permite escuchar silencios, comprender miedos y acompañar cada proceso con ternura.</p>
+
+<p>Practicamos la paciencia, amando sin prisas y respetando los tiempos de cada gato.</p>
+
+<p>Nuestra compasión nos convierte en manos que cuidan y corazones que sostienen, mientras que la inclusión nos une como personas diferentes con un mismo propósito.</p>
+
+<p>La perseverancia nos mantiene firmes incluso en los días más difíciles, porque siempre hay alguien que nos necesita.</p>
+
+<p>Y la esperanza ilumina nuestro camino, recordándonos que siempre hay un nuevo amanecer capaz de devolver la luz.</p>
+</div>
 </div>
 
----
+<hr>
 
-{{< img src="img/Otras/LoQueNosUne.png" alt="Voces Ohana" >}}
+{{< img src="img/Otras/LoQueNosUne.png" alt="Voces OHANA" >}}

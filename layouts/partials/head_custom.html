@@ -907,4 +907,135 @@ input[type="submit"]:hover {
   }
 } 
 
+
+
+/* ============================================================
+   ABOUT US - EDITORIAL BLOCKS
+   ============================================================ */
+
+.aboutus-block {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 40%;
+    grid-template-areas:
+        "heading heading"
+        "text image";
+    gap: 20px 30px;
+    align-items: start;
+
+    background: #fffdf8;
+    padding: 30px;
+    margin: 35px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+/* Heading */
+
+.aboutus-heading {
+    grid-area: heading;
+    background: #E6E6FA;
+    border-left: 6px solid #c47da3;
+    padding: 14px 24px;
+    font-size: 0.95rem;
+    color: #2c3e50;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Text */
+
+.aboutus-text {
+    grid-area: text;
+    color: #2c3e50;
+    line-height: 1.8;
+    text-align: justify;
+    min-width: 0;
+}
+
+.aboutus-text p {
+    color: #2c3e50 !important;
+    margin-bottom: 1rem;
+}
+
+/* Decorative first letter */
+
+.aboutus-text p:first-child::first-letter {
+    float: left;
+    font-size: 3rem;
+    line-height: 0.85;
+    padding: 5px 8px 0 0;
+    color: #b14c75;
+    font-weight: bold;
+}
+
+/* Image */
+
+.aboutus-image {
+    grid-area: image;
+    width: 100%;
+    margin: 0;
+}
+
+.aboutus-image img {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 8px;
+}
+
+/* Reverse layout - Vision */
+
+.aboutus-reverse {
+    grid-template-areas:
+        "heading heading"
+        "image text";
+}
+ /* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+@media (max-width: 767px) {
+
+  .aboutus-block,
+  .aboutus-reverse {
+    grid-template-columns: 1fr;
+    padding: 18px;
+    gap: 18px;
+    margin: 25px 0;
+  }
+
+  /* Normal block: image first, then text */
+  .aboutus-block {
+    grid-template-areas:
+      "heading"
+      "image"
+      "text";
+  }
+
+  /* Reverse block: text first, then image */
+  .aboutus-reverse {
+    grid-template-areas:
+      "heading"
+      "text"
+      "image";
+  }
+
+  .aboutus-image {
+    width: 100%;
+    max-width: 420px;
+    margin: 0 auto;
+  }
+
+  .aboutus-image img {
+    aspect-ratio: 16 / 9;
+  }
+
+  .aboutus-text {
+    text-align: left;
+    line-height: 1.7;
+  }
+}
+
 </style>

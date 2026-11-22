@@ -18,5 +18,6 @@ Completa el formulario y tu humano-mail se abrirá automáticamente. A veces, un
     labelMessage="Mensaje"
     defaultMessage=``
     privacyNote=`Al enviarnos este correo trataremos tus datos únicamente para gestionar la solicitud de adopción. Puedes consultar cómo protegemos tu información en nuestra [política de privacidad](/privacy/).`
-    buttonText="Enviar"
+    privacyCheck= "Al marcar esta casilla, confirmas que has leído y aceptas nuestra política de privacidad."
+     buttonText="Enviar"
 >}}

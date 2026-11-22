@@ -18,5 +18,6 @@ comments: false
     labelMessage="Mensaje"
     defaultMessage=``   
     privacyNote=`En enviar-nos aquest correu tractarem les teves dades únicament per gestionar la sol·licitud d’adopció. Pots consultar com protegim la teva informació a la nostra [política de privacitat](/privacy/).`
-    buttonText="Enviar"
+    privacyCheck= "En marcar aquesta casella, confirmes que has llegit i acceptes la nostra política de privacitat."
+     buttonText="Enviar"
 >}}

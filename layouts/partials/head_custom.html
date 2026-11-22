@@ -386,10 +386,40 @@ input[type="submit"]:hover {
   box-shadow: 0 0 0 2px rgba(233, 138, 101, 0.2);
 }
 
-.contact-form button {
-  align-self: flex-start;
+ 
+
+ .privacy-consent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: left;
 }
 
+.privacy-consent input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  min-width: 18px;
+  margin: 0;
+  accent-color: #c47da3;
+  cursor: pointer;
+}
+
+.privacy-consent label {
+  margin: 0;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+    
+.contact-form button#sendButton {
+  align-self: center;
+  width: auto;
+  margin-top: 20px;
+}
 /* ============================================================
    LINKS
    ============================================================ */

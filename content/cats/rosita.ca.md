@@ -20,6 +20,6 @@ adopted: false
 
 > *La Rosita va rebre el nom d'una voluntària que es va enamorar del seu bell nas rosat. 🩷🐱*
 >
-> *Els gats taronja són menys comuns que els mascles, per la qual cosa és encara més singular. ✨*
+> *Els gats taronja són menys comuns que els mascles, per la qual cosa és encara més singular.*
 > *Va ser rescatada d'un lloc on els mascles no la deixaven sola i ara mereix viure envoltada de calma i afecte.*
-> *Li dones a la Rosita l'oportunitat de trobar un allotjament on pugui ser feliç? 🏡💕*
+> *Li dones a la Rosita l'oportunitat de trobar un allotjament on pugui ser feliç?*

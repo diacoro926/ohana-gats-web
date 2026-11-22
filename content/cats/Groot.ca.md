@@ -5,16 +5,16 @@ images:
   - "img/cats/Groot-1New.jpeg"
   - "img/cats/Groot-2.jpeg"
   - "img/cats/Groot-3.jpeg"
-age: "3 años"
+age: "😺 Adults — 3–6 anys"
 gender: "🐱♂ Mascle"
 summary: "Tranquil i reservat, necessita temps per confiar, però quan ho fa és especial."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**
 
-- **Perfil:** Adults
-- **Mida:** mitjà
+- **Perfil:** 😺 Adults — 3–6 anys
+- **Mida:** 🐱 Mitjana — aprox. 3–5 kg
 - **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**

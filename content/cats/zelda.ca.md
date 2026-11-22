@@ -24,5 +24,4 @@ adopted: false
 > *Té una personalitat independent i necessita temps per confiar. No conquistarà el teu cor immediatament, però potser aquesta és la màgia: guanyar-te la teva confiança a poc a poc i descobrir el vincle especial que pot néixer.*
 >
 > *Zelda no necessita ser canviada, sinó que algú l'entengui, respecti els seus temps i decideixi estimar-la tal com és.*
->
-> *T'atreveixes a viure aquesta aventura amb ella? Potser ets tu qui aconsegueix desbloquejar el nivell més bonic de tots: el teu cor! 🐾✨*
+

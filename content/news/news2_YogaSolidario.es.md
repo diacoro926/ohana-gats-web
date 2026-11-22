@@ -1,8 +1,10 @@
 ---
-title: "Yoga Solidario 🧘‍♀️🐾"
+title: "Yoga Solidario"
 date: 2025-05-09
 type: "news"
-summary: "Una mañana de yoga y solidaridad para ayudar a nuestros gatitos. 🐈❤️"
+summary: "Una mañana de yoga y solidaridad para ayudar a nuestros gatitos."
+images:
+  - "img/news/Eventos-Yoga  Solidario2026.png"
 ---
 
 ## Yoga solidario por una buena causa

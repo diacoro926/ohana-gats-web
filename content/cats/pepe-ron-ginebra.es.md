@@ -16,7 +16,7 @@ adopted: false
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Salud:** ❌Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
+- **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**
 
@@ -26,4 +26,4 @@ adopted: false
 >
 > *Nos encantaría que los tres pudieran encontrar una familia juntos, pero también valoramos que alguno sea adoptado por separado. Si tienes otro gatito en casa, ¡podría ser un buen compañero!*
 >
-> *Solo necesitan tiempo, paciencia y alguien que les demuestre que las manos también pueden acariciar y que un hogar puede ser para siempre. 🐾💕*
+> *Solo necesitan tiempo, paciencia y alguien que les demuestre que las manos también pueden acariciar y que un hogar puede ser para siempre.*

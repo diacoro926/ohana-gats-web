@@ -6,14 +6,14 @@ images:
 age: "😺 Adultos — 3–6 años"
 gender: "🐱♂ Macho"
 summary: "Mozart, una dulce melodía que merece un hogar 🐾🎼"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**
 
 - **Perfil:** 😺 Adultos — 3–6 años
 - **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
-- **Salud:** ❌Esterilizado, ❌Vacunado, ❌Test Infeciosas(FIV/FeLV), ✔️Desparasitado
+- **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**
 

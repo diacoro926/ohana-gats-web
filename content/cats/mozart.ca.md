@@ -6,14 +6,14 @@ images:
 age: "😺 Adults — 3–6 anys"
 gender: "🐱♂ Mascle"
 summary: "Mozart, una melodia dolça que mereix una llar 🐾🎼"
-adopted: false
+adopted: yes
 ---
 
 🐾 **Les Meves Dades**
 
 - **Perfil:** 😺 Adults — 3–6 anys
 - **Mida:** 🐱 Mitjana — aprox. 3–5 kg
-- **Salut:** ❌Esterilitzat, ❌Vacunat, ❌Test Infecciosos(FIV/FeLV), ✔️Desparasitat
+- **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**
 

@@ -23,5 +23,3 @@ sponsor: true
 >
 > *Cuando lo encontramos entre las plantas, estaba desesperado por comer. Le pusimos comida en un pequeño plato de cartón y metió la carita dentro, tan concentrado en saciar su hambre que ni siquiera se dio cuenta de que lo estábamos cogiendo en brazos.*
 > *Así fue como Chihiro dejó atrás la calle para empezar una nueva vida.*
->
-> *Ayúdanos a que Chihiro deje de ser invisible y tenga, por fin, un hogar donde nunca vuelva a pasar hambre.*

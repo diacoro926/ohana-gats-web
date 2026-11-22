@@ -1,8 +1,10 @@
 ---
-title: "Sant Jordi solidari 🌹📚🐾"
+title: "Sant Jordi solidari 2026"
 date: 2025-04-23
 type: "news"
 summary: "Vam celebrar Sant Jordi amb llibres, roses, totebags i moltes sorpreses, tot preparat amb moltíssim d’amor i amb els nostres gatets al cor."
+images:
+  - "img/news/Eventos-SantJordi2026.jpeg"
 ---
 
 ## Sant Jordi solidari 

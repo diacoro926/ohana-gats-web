@@ -1,5 +1,5 @@
 ---
-title: "Ioga solidari 🧘‍♀️🐾"
+title: "Ioga solidari"
 date: 2025-05-09
 type: "news"
 summary: "Un matí d’ioga i solidaritat per ajudar els nostres gatets."

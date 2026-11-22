@@ -13,7 +13,7 @@ adopted: yes
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Salut:** ❌Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
+- **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**
 
@@ -21,7 +21,7 @@ adopted: yes
 >
 > *Com que la meva mare no estava amb mi, els voluntaris es van convertir en la meva família. Em van alimentar amb biberó, em van cuidar i em van donar tot l'amor que necessitava per créixer. Gràcies a ells, avui sóc un gatet feliç, ple d'energia i amb ganes de descobrir el món.*
 >
-> *La meva especialitat? Emboscades de gats! 😹 M'estic amagant tranquil·lament, esperant que passis i... vaja! Atac sorpresa. Sóc juguetó, divertit i un veritable ventall d'alegria. Amb mi, l'avorriment no té cap possibilitat.*
+> *La meva especialitat? Emboscades de gats! M'estic amagant tranquil·lament, esperant que passis i... vaja! Atac sorpresa. Sóc juguetó, divertit i un veritable ventall d'alegria. Amb mi, l'avorriment no té cap possibilitat.*
 >
 > *Però, tot i que a Ohana m'han cuidat molt, ara he de trobar una cosa que he estat esperant durant molt de temps: una família pròpia que em triarà per sempre.*
 >

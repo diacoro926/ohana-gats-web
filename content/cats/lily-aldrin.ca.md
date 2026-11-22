@@ -14,10 +14,10 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Salut:** ❌Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
+- **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**
 
-> *La Lily forma part de la camada “Com vaig conèixer la teva mare”, i com a bona protagonista de sitcom felina, té una personalitat que enganxa des del primer capítol. És una gatita curiosa i juguetona, sempre conscient del que fan els altres, tot i que encara no es deixa tocar; necessita temps, calma i una llar que entengui que les millors històries es construeixen a poc a poc.*
+> *La Lily forma part de la camada “Com vaig conèixer la teva mare”, i com a bona protagonista de sitcom felina, té una personalitat que enganxa. És una gatita curiosa i juguetona, sempre conscient del que fan els altres, tot i que encara no es deixa tocar; necessita temps, calma i una llar que entengui que les millors històries es construeixen a poc a poc.*
 >
 > *Va ser rescatada del carrer amb els seus germans, per la qual cosa és sociable amb altres gats i se sent més segura quan té companyia felina. L'ideal és que sigui adoptada amb un d'ells o que a la seva nova llar ja hi hagi un altre gatet que l'acompanyi en aquesta aventura.*

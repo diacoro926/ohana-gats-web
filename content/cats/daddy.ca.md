@@ -15,7 +15,7 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Salut:** ❌Esterilitzat, ❌Vacunat, ❌Test Infecciosos(FIV/FeLV), ✔️Desparasitat
+- **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**
 

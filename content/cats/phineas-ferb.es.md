@@ -26,4 +26,4 @@ adopted: false
 >
 > *Son dos hermanos muy unidos y cariñosos, de esos que buscan siempre la compañía del otro y disfrutan compartiendo cada momento. Por eso, su adopción será conjunta: queremos que puedan seguir creciendo y descubriendo el mundo juntos, como siempre han hecho.*
 >
-> *Phineas y Ferb solo necesitan una familia que se enamore de los dos y les dé el hogar que merecen. A cambio, se llevan un doble de amor, ronroneos y compañía para toda la vida. 🐱🧡🤍*
+> *Phineas y Ferb solo necesitan una familia que se enamore de los dos y les dé el hogar que merecen. A cambio, se llevan un doble de amor, ronroneos y compañía para toda la vida.*

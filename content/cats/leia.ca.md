@@ -24,5 +24,3 @@ adopted: false
 >
 > *La Leia és xafardera, divertida i observadora. S'acosta, s'asoma, t'estudia... com si estigués assajant el moment en què per fi donarà el pas i es deixarà estimar. Cada dia va una mica més enllà, cada dia baixa un mur, cada dia demostra que té un cor enorme esperant per obrir-se.*
 >
-> *La Leia és una història en curs.*
-> *I qui l'adopti formarà part del capítol on aprengui a confiar veritablement.*

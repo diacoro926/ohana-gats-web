@@ -13,7 +13,7 @@ adopted: false
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐱 Mitjana — aprox. 3–5 kg
-- **Salut:** ❌Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
+- **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**
 
@@ -21,7 +21,6 @@ adopted: false
 > *Cap de nosaltres mereixia començar la nostra història d'aquesta manera, però ara somio que ens espera un futur molt més bonic.*
 >
 > *El meu nom és un homenatge a Osamu Dazai, un escriptor japonès les obres del qual parlaven de la solitud i de la recerca d'un lloc on pertànyer.*
-> *📖✨ Potser per això m'agrada pensar que la meva pròpia història encara té moltes pàgines boniques per escriure.*
 >
 > *Somio amb trobar una família que m'estimo per sempre, on em sento segur i descobreixo el que significa tenir una llar de debò.*
 >

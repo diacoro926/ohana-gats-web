@@ -8,13 +8,13 @@ images:
 age: "3 años"
 gender: "🐱♂ Macho"
 summary: "Tranquilo y reservado, necesita tiempo para confiar, pero cuando lo hace es especial."
-adopted: false
+adopted: yes
 ---
 
 🐾 **Mis Datos**
 
-- **Perfil:** 😺 Adultos
-- **Tamaño:** 🐱 Mediano
+- **Perfil:** 😺 Adultos — 3–6 años
+- **Tamaño:** 🐱 Mediano — aprox. 3–5 kg
 - **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**

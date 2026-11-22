@@ -21,7 +21,6 @@ adopted: false
 > *Ninguno merecíamos empezar así nuestrahistoria, pero ahora sueño con que nos espere un futuro mucho más bonito.*
 >
 > *Mi nombre es un homenaje a Osamu Dazai, un escritor japonés cuyas obras hablaban de la soledad y de la búsqueda de un lugar al que pertenecer.*
-> *📖✨ Quizá por eso me gusta pensar que mi propia historia todavía tiene muchas páginas bonitas por escribir.*
 >
 > *Sueño con encontrar una familia que me quiera para siempre, donde sentirme seguro y descubrir lo que significa tener un hogar de verdad.*
 >

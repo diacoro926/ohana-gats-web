@@ -25,5 +25,3 @@ adopted: false
 >
 > *Leia es cotilla, divertida y observadora. Se acerca, se asoma, te estudia… como si estuviera ensayando el momento en que por fin dará el paso y se dejará querer. Cada día avanza un poquito más, cada día baja un muro, cada día demuestra que tiene un corazón enorme esperando abrirse.*
 >
-> *Leia es una historia en proceso.*
-> *Y quien la adopte será parte del capítulo donde ella aprende a confiar de verdad.*

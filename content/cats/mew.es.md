@@ -13,7 +13,7 @@ adopted: yes
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Salud:** ❌Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
+- **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**
 
@@ -21,7 +21,7 @@ adopted: yes
 >
 > *Como mi mamá no estaba conmigo, las voluntarias se convirtieron en mi familia. Me alimentaron con biberón, me cuidaron y me dieron todo el amor que necesitaba para crecer. Gracias a ellas, hoy soy una gatita feliz, llena de energía y con muchas ganas de descubrir el mundo.*
 >
-> *¿Mi especialidad? ¡Las emboscadas gatunas! 😹 Me escondo sigilosamente, espero a que pases cerca y… ¡zas! Ataque sorpresa. Soy juguetona, divertida y un auténtico vendaval de alegría. Conmigo, el aburrimiento no tiene ninguna oportunidad.*
+> *¿Mi especialidad? ¡Las emboscadas gatunas! Me escondo sigilosamente, espero a que pases cerca y… ¡zas! Ataque sorpresa. Soy juguetona, divertida y un auténtico vendaval de alegría. Conmigo, el aburrimiento no tiene ninguna oportunidad.*
 >
 > *Pero, aunque en Ohana me han cuidado muchísimo, ahora me toca encontrar algo que llevo tiempo esperando: una familia propia que me elija para siempre.*
 >

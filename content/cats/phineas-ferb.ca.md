@@ -18,7 +18,7 @@ adopted: false
 
 - **Perfil:** 🐣 Gatets — 0–6 mesos
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Salut:** ✔️Esterilitzat, ❌Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
+- **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**
 
@@ -26,4 +26,4 @@ adopted: false
 >
 > *Són dos germans molt propers i afectuosos, els que sempre busquen la companyia de l'altre i gaudeixen compartint cada moment. Per tant, la seva adopció serà conjunta: volem que continuïn creixent i descobrint el món junts, com sempre han fet.*
 >
-> *Phineas i Ferb només necessiten una família que s'enamori de tots dos i els doni la llar que es mereixen. A canvi, aconsegueixen un doble d'amor, ronroneig i companyia de per vida. 🐱🧡🤍*
+> *Phineas i Ferb només necessiten una família que s'enamori de tots dos i els doni la llar que es mereixen. A canvi, aconsegueixen un doble d'amor, ronroneig i companyia de per vida.*

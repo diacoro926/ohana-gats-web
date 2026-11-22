@@ -1,5 +1,5 @@
 ---
-title: "La Michiteca 📚😻 El nostre club de lectura felí"
+title: "La Michiteca. El nostre club de lectura felí"
 date: 2026-01-01
 type: "news"
 summary: "Llibres, gats i solidaritat. Què més es pot demanar?"

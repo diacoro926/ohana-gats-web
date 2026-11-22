@@ -38,7 +38,7 @@ comments: false
     {{< img
         src="img/Otras/SobreNosotras-Bloque1.jpeg"
         alt="Gato gris sobre nosotras"
-        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+       
     >}}
 </figure>
 </figure>
@@ -55,7 +55,7 @@ comments: false
     {{< img
          src="img/Otras/SobreNosotras-Bloque2.jpeg"
         alt="Gato Naranja Bloque2"
-        style="width:50%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+        
     >}}
 </figure>
 </figure>
@@ -63,6 +63,7 @@ comments: false
 <p>Queremos construir un futuro donde ningún gato callejero dependa de la suerte para sobrevivir y donde las personas se unan para proteger y respetar a los animales.</p>
 
 <p>Nuestro sueño es seguir creciendo, concienciando y ayudando a más gatos, demostrando que con amor, compromiso y pequeños gestos podemos cambiar sus vidas.</p>
+
 </div>
 </div>
 
@@ -72,7 +73,7 @@ comments: false
     {{< img
         src="img/Otras/SobreNosotras-Bloque3.jpeg"
         alt="Gato Atigrado Bloque3"
-        style="width:50%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+         
     >}}
 </figure>
 </figure>

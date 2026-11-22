@@ -41,7 +41,7 @@ comments: false
     {{< img
         src="img/Otras/Mision-image.jpeg"
         alt="OHANA - Missió, visió i valors"
-        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+        
     >}}
 </figure>
 <div class="aboutus-text">
@@ -60,7 +60,7 @@ comments: false
     {{< img
         src="img/Otras/Mision-image.jpeg"
         alt="OHANA - Missió, visió i valors"
-        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+        
     >}}
 </figure>
 <div class="aboutus-text">
@@ -79,7 +79,7 @@ comments: false
     {{< img
         src="img/Otras/Mision-image.jpeg"
         alt="OHANA - Missió, visió i valors"
-        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+        
     >}}
 </figure>
 <div class="aboutus-text">

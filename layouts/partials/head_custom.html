@@ -1003,14 +1003,17 @@ input[type="submit"]:hover {
     grid-area: image;
     width: 100%;
     margin: 0;
+    overflow: hidden;
+    border-radius: 8px;
+    aspect-ratio: 4 / 5;
 }
 
 .aboutus-image img {
     display: block;
     width: 100% !important;
-    height: auto !important;
-    aspect-ratio: 4 / 5;
-    object-fit: cover;
+    height: 100% !important;
+    aspect-ratio: 4 / 5 !important;
+    object-fit: cover !important;
     object-position: center;
     border-radius: 8px;
 }
@@ -1018,6 +1021,7 @@ input[type="submit"]:hover {
 /* Reverse layout - Vision */
 
 .aboutus-reverse {
+    grid-template-columns: 40% minmax(0, 1fr);
     grid-template-areas:
         "heading heading"
         "image text";
@@ -1058,9 +1062,16 @@ input[type="submit"]:hover {
     margin: 0 auto;
   }
 
-  .aboutus-image img {
-    aspect-ratio: 16 / 9;
-  }
+ .aboutus-image {
+    aspect-ratio: 4 / 5;
+}
+
+.aboutus-image img {
+    width: 100% !important;
+    height: 100% !important;
+    aspect-ratio: 4 / 5 !important;
+    object-fit: cover !important;
+}
 
   .aboutus-text {
     text-align: left;

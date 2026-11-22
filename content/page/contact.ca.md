@@ -5,10 +5,8 @@ comments: false
 ---
 
  Vols posar-te en contacte amb nosaltres? 
- Omple el formulari i el teu humà‑mail s’obrirà automàticament. De vegades, una nova història comença amb un gest senzill 
+ Omple el formulari i el teu humà‑mail s’obrirà automàticament. De vegades, una nova història comença amb un gest senzill.
  
- 🐾 Abans d’escriure’ns, explica’ns una mica sobre tu i sobre la llar que imagines per a un dels nostres gatets. 
- Conèixer el teu entorn i les teves expectatives ens ajuda a assegurar-nos que cada petit trobi un lloc on créixer, sentir-se protegit i crear un vincle per a tota la vida 💛 
 
 ---
 

@@ -23,7 +23,7 @@ Som el club de lectura de la nostra associació: un espai on compartir històrie
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr)); gap:14px; margin:24px 0;">
 
   <div style="padding:18px; background:#faf3eb; border:1px solid #aba4b3; border-radius:12px;">
-    <div style="font-size:24px; margin-bottom:8px;">📅</div>
+    <div style="font-size:24px; margin-bottom:8px;"></div>
     <h3 style="margin:0 0 8px; color:#80563f; font-size:1.15rem;">Una trobada al mes</h3>
     <p style="margin:0; line-height:1.5;">
       Ens reunim un cop al mes, generalment l'últim divendres, per compartir la nostra passió per la lectura.
@@ -31,7 +31,7 @@ Som el club de lectura de la nostra associació: un espai on compartir històrie
   </div>
 
   <div style="padding:18px; background:#f2f3eb; border:1px solid #dfe2d2; border-radius:12px;">
-    <div style="font-size:24px; margin-bottom:8px;">📚</div>
+    <div style="font-size:24px; margin-bottom:8px;"></div>
     <h3 style="margin:0 0 8px; color:#596447; font-size:1.15rem;">Un llibre entre tots</h3>
     <p style="margin:0; line-height:1.5;">
       Triem conjuntament el llibre del mes i ens reunim per comentar-lo i intercanviar opinions.
@@ -39,7 +39,7 @@ Som el club de lectura de la nostra associació: un espai on compartir històrie
   </div>
 
   <div style="padding:18px; background:#f8eeee; border:1px solid #eddada; border-radius:12px;">
-    <div style="font-size:24px; margin-bottom:8px;">🎨</div>
+    <div style="font-size:24px; margin-bottom:8px;"></div>
     <h3 style="margin:0 0 8px; color:#95615b; font-size:1.15rem;">Molt més que llegir</h3>
     <p style="margin:0; line-height:1.5;">
       Organitzem dinàmiques i activitats creatives inspirades en el llibre escollit.
@@ -47,7 +47,7 @@ Som el club de lectura de la nostra associació: un espai on compartir històrie
   </div>
 
   <div style="padding:18px; background:#f5f0e8; border:1px solid #e8ddca; border-radius:12px;">
-    <div style="font-size:24px; margin-bottom:8px;">🐾</div>
+    <div style="font-size:24px; margin-bottom:8px;"></div>
     <h3 style="margin:0 0 8px; color:#80563f; font-size:1.15rem;">Llegir també és ajudar</h3>
     <p style="margin:0; line-height:1.5;">
       Cada trobada inclou una aportació simbòlica per comprar els subministraments que necessiten els nostres gats.
@@ -77,7 +77,7 @@ I si aquest desembre poguessis entrar en una botiga on els desitjos es convertei
 </p>
 
 <p style="font-size: 14px; line-height: 1.7; color: #79675c;">
-Una botiga molt especial, desitjos per complir i trobades inesperades que ens conviden a creure en la màgia de les petites coses. ✨
+Una botiga molt especial, desitjos per complir i trobades inesperades que ens conviden a creure en la màgia de les petites coses.
 </p>
 
 </div>

@@ -22,7 +22,7 @@ Somos el club de lectura de nuestra asociación: un lugar donde compartir histor
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr)); gap:14px; margin:24px 0;">
 
   <div style="padding:18px; background:#faf3eb; border:1px solid #aba4b3; border-radius:12px;">
-    <div style="font-size:24px; margin-bottom:8px;">📅</div>
+    <div style="font-size:24px; margin-bottom:8px;"></div>
     <h3 style="margin:0 0 8px; color:#80563f; font-size:1.15rem;">Un encuentro al mes</h3>
     <p style="margin:0; line-height:1.5;">
       Nos reunimos una vez al mes, generalmente el último viernes, para compartir nuestra pasión por la lectura.
@@ -30,7 +30,7 @@ Somos el club de lectura de nuestra asociación: un lugar donde compartir histor
   </div>
 
   <div style="padding:18px; background:#f2f3eb; border:1px solid #dfe2d2; border-radius:12px;">
-    <div style="font-size:24px; margin-bottom:8px;">📚</div>
+    <div style="font-size:24px; margin-bottom:8px;"></div>
     <h3 style="margin:0 0 8px; color:#596447; font-size:1.15rem;">Un libro entre todos</h3>
     <p style="margin:0; line-height:1.5;">
       Elegimos conjuntamente el libro del mes y nos reunimos para comentarlo e intercambiar opiniones.
@@ -38,7 +38,7 @@ Somos el club de lectura de nuestra asociación: un lugar donde compartir histor
   </div>
 
   <div style="padding:18px; background:#f8eeee; border:1px solid #eddada; border-radius:12px;">
-    <div style="font-size:24px; margin-bottom:8px;">🎨</div>
+    <div style="font-size:24px; margin-bottom:8px;"></div>
     <h3 style="margin:0 0 8px; color:#95615b; font-size:1.15rem;">Mucho más que leer</h3>
     <p style="margin:0; line-height:1.5;">
       Organizamos dinámicas y actividades creativas inspiradas en el libro elegido.
@@ -46,7 +46,7 @@ Somos el club de lectura de nuestra asociación: un lugar donde compartir histor
   </div>
 
   <div style="padding:18px; background:#f5f0e8; border:1px solid #e8ddca; border-radius:12px;">
-    <div style="font-size:24px; margin-bottom:8px;">🐾</div>
+    <div style="font-size:24px; margin-bottom:8px;"></div>
     <h3 style="margin:0 0 8px; color:#80563f; font-size:1.15rem;">Leer también es ayudar</h3>
     <p style="margin:0; line-height:1.5;">
       Cada encuentro incluye un donativo simbólico para comprar los suministros que necesitan nuestros gatos.
@@ -75,7 +75,7 @@ Nuestro libro del mes
 </p>
 
 <p style="font-size: 14px; line-height: 1.7; color: #79675c;">
-Una tienda muy especial, deseos por cumplir y encuentros inesperados que nos invitan a creer en la magia de las pequeñas cosas. ✨
+Una tienda muy especial, deseos por cumplir y encuentros inesperados que nos invitan a creer en la magia de las pequeñas cosas. 
 </p>
 
 </div>

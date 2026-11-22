@@ -28,16 +28,16 @@
   translation: "Apadrina"  
 
 - id: help_nav_amazon
-  translation: "🛒 Amazon"
+  translation: "Amazon"
 
 - id: help_nav_teaming
-  translation: "🤝 Donaciones"
+  translation: "Donaciones"
 
 - id: help_nav_material
-  translation: "🎁 Material"
+  translation: "Material"
 
 - id: help_nav_volunteer
-  translation: "🐾 Voluntariado" 
+  translation: "Voluntariado" 
 
 - id: help_nav_apadrina
-  translation: "🤝 Apadrina"  
+  translation: "Apadrina"  

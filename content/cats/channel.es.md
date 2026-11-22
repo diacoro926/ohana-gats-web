@@ -25,5 +25,3 @@ sponsor: true
 > *Ahora estoy en apadrinamiento, esperando seguir escribiendo mi historia rodeada de amor. Puedes echarme una patita, ayudarme a seguir adelante y, quién sabe, ¡quizá enamorarte de mí!*
 >
 > *He luchado mucho para llegar hasta aquí. Ahora solo quiero una oportunidad para ser feliz.*
->
-> *Soy Channel, pequeñita por fuera, pero con un corazón enorme. ¿Me ayudas a escribir mi capítulo más bonito?*

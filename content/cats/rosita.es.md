@@ -18,8 +18,8 @@ adopted: false
 
 📖 **Mi Historia**
 
-> *Rosita recibió su nombre por una voluntaria, que se enamoró de su preciosa nariz rosa. 🩷🐱*
+> *Rosita recibió su nombre por una voluntaria, que se enamoró de su preciosa nariz rosa.*
 >
-> *Las gatas naranjas son menos comunes que los machos, por eso ella es todavía más única. ✨*
+> *Las gatas naranjas son menos comunes que los machos, por eso ella es todavía más única.*
 > *Fue rescatada de un lugar donde los machos no la dejaban tranquila y ahora merece vivir rodeada de calma y cariño.*
-> *¿Le das a Rosita la oportunidad de encontrar el hogar donde pueda ser simplemente feliz? 🏡💕*
+> *¿Le das a Rosita la oportunidad de encontrar el hogar donde pueda ser simplemente feliz?*

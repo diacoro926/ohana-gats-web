@@ -32,15 +32,12 @@ comments: false
 
 <hr>
 
-<!-- BLOQUE MISIÓN -->
+<!-- BLOQUE 1 -->
 <div class="aboutus-block">
-<div class="aboutus-heading">
-<strong>MISIÓN</strong>
-</div>
 <figure class="aboutus-image">
     {{< img
-        src="img/Otras/Mision-image.jpeg"
-        alt="OHANA - Misión, visión y valores"
+        src="img/Otras/SobreNosotras-Bloque1.jpeg"
+        alt="Gato gris sobre nosotras"
         style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
     >}}
 </figure>
@@ -48,58 +45,49 @@ comments: false
 <div class="aboutus-text">
 <p>Nuestra misión es proteger y cuidar a los gatos callejeros de El Prat de Llobregat y sus alrededores, ofreciéndoles alimento, refugio, cuidados, atención veterinaria y cariño.</p>
 
-<p>Trabajamos para que ningún gato tenga que vivir con miedo, frío o hambre. Porque cada vida importa y cada pequeño gesto puede marcar una gran diferencia.</p>
+<p>Trabajamos para que ningún gato tenga que vivir con miedo, frío o hambre. Porque cada vida importa y cada pequeño gesto puede marcar una gran diferencia</p>
 </div>
 </div>
 
-<!-- BLOQUE VISIÓN -->
+<!-- BLOQUE 2 -->
 <div class="aboutus-block aboutus-reverse">
-<div class="aboutus-heading">
-<strong>VISIÓN</strong>
-</div>
 <figure class="aboutus-image">
     {{< img
-        src="img/Otras/Mision-image.jpeg"
-        alt="OHANA - Misión, visión y valores"
-        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+         src="img/Otras/SobreNosotras-Bloque2.jpeg"
+        alt="Gato Naranja Bloque2"
+        style="width:50%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
     >}}
 </figure>
 </figure>
 <div class="aboutus-text">
-<p>Construir un futuro donde ningún gato dependa de la suerte. Un futuro donde la comunidad esté unida por el respeto, la empatía y la responsabilidad hacia los animales.</p>
+<p>Queremos construir un futuro donde ningún gato callejero dependa de la suerte para sobrevivir y donde las personas se unan para proteger y respetar a los animales.</p>
 
-<p>Queremos ser una organización sólida, cercana y humana, capaz de llegar más lejos, de educar, de inspirar y de demostrar que la ternura y la constancia pueden cambiar el mundo de quienes no tienen voz.</p>
+<p>Nuestro sueño es seguir creciendo, concienciando y ayudando a más gatos, demostrando que con amor, compromiso y pequeños gestos podemos cambiar sus vidas.</p>
 </div>
 </div>
 
-<!-- BLOQUE VALORES -->
+<!-- BLOQUE 3-->
 <div class="aboutus-block">
-<div class="aboutus-heading">
-<strong>VALORES</strong>
-</div>
 <figure class="aboutus-image">
     {{< img
-        src="img/Otras/Mision-image.jpeg"
-        alt="OHANA - Misión, visión y valores"
-        style="width:100%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
+        src="img/Otras/SobreNosotras-Bloque3.jpeg"
+        alt="Gato Atigrado Bloque3"
+        style="width:50%; height:auto; aspect-ratio:4/5; object-fit:cover; border-radius:8px;"
     >}}
 </figure>
 </figure>
 <div class="aboutus-text">
-<p>En OHANA somos una familia que ofrece hogar, unión y apoyo incondicional a quienes más lo necesitan. Creemos en el profundo respeto por cada vida, porque cada gesto cuenta.</p>
+<p>En OHANA somos una gran familia unida por el amor y el respeto hacia los gatos que más nos necesitan.</p>
 
-<p>Actuamos con responsabilidad y ética, guiados por la empatía, que nos permite escuchar silencios, comprender miedos y acompañar cada proceso con ternura.</p>
+<p>Cuidamos de ellos con empatía, paciencia, responsabilidad y cariño, respetando sus tiempos y necesidades.</p>
 
-<p>Practicamos la paciencia, amando sin prisas y respetando los tiempos de cada gato.</p>
+<p>Creemos en la unión, la solidaridad y la perseverancia, porque incluso en los momentos difíciles seguimos adelante con esperanza.</p>
 
-<p>Nuestra compasión nos convierte en manos que cuidan y corazones que sostienen, mientras que la inclusión nos une como personas diferentes con un mismo propósito.</p>
+<p>Cada gato importa, cada gesto cuenta y juntos podemos cambiar vidas</p>
 
-<p>La perseverancia nos mantiene firmes incluso en los días más difíciles, porque siempre hay alguien que nos necesita.</p>
-
-<p>Y la esperanza ilumina nuestro camino, recordándonos que siempre hay un nuevo amanecer capaz de devolver la luz.</p>
 </div>
 </div>
 
 <hr>
 
-{{< img src="img/Otras/LoQueNosUne.png" alt="Voces OHANA" >}}
+{{< img src="img/Otras/SobreNosotras-FotoPiePagina.jpeg" alt="Foto Golfo" >}}

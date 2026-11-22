@@ -21,14 +21,9 @@ adopted: false
 
 > *Ares y Maomao llegaron al refugio con historias muy diferentes, pero ambos con algo en común: necesitaban una segunda oportunidad.*
 >
-> *Maomao apareció un día en una calle muy céntrica del Prat, desorientado y buscando la compañía de las personas. Después de desaparecer durante unas semanas, volvió a ser localizado en otra zona, cansado y sucio, hasta que finalmente pudo ser rescatado. Hoy está a salvo, recuperado y descubriendo poco a poco que puede volver a confiar y sentirse tranquilo.*
+> *Maomao apareció desorientado en las calles del Prat. Tras semanas desaparecido, fue rescatado cansado y sucio. Hoy está a salvo y aprendiendo a confiar de nuevo.*
 >
-> *Ares fue rescatado cerca de un supermercado en un estado de salud muy delicado. Pasó mucho tiempo ingresado, con un pronóstico muy reservado, pero la ayuda y generosidad de muchas personas hicieron posible su recuperación.*
-> *Hoy es un gato bueno, cariñoso y sociable, amigo de todos en el refugio.*
+> *Ares fue rescatado cerca de un supermercado en estado muy delicado. Tras una larga hospitalización y gracias a la ayuda de muchas personas, consiguió recuperarse.*
+> *Hoy es un gato cariñoso, sociable y amigo de todos en el refugio.*
 >
-> *Pero con Maomao ha creado un vínculo muy especial. 🐾*
-> *Se conocieron aquí y, poco a poco, comenzaron a buscarse, acompañarse y compartir su día a día. Ares se ha convertido en una figura muy importante para Maomao, y juntos han creado una relación que nos resulta imposible ignorar.*
->
-> *Por eso, cuando pensamos en su futuro, no podemos imaginarlo por separado. Después de todo lo que ambos han vivido, creemos que merecen que su nueva oportunidad sea juntos. Queremos encontrarles un hogar donde puedan seguir acompañándose, creciendo en confianza y descubriendo todo lo bonito que les queda por vivir.*
->
-> *Ares y Maomao se han elegido el uno al otro. Ahora solo necesitan encontrar una familia que los elija a los dos.*
+> *No podemos imaginar su futuro por separado. Merecen un hogar donde puedan seguir juntos, ganando confianza y disfrutando de una nueva oportunidad.*

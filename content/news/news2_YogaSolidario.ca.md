@@ -3,6 +3,8 @@ title: "Ioga solidari"
 date: 2025-05-09
 type: "news"
 summary: "Un matí d’ioga i solidaritat per ajudar els nostres gatets."
+images:
+  - "img/news/Eventos-Yoga  Solidario2026.png"
 ---
 
 ## Ioga solidari per una bona causa 

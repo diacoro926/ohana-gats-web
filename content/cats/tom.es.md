@@ -2,7 +2,7 @@
 title: "Tom"
 type: "cats"
 images: 
-  - "img/cats/Placeholder-2.png" 
+  - "img/cats/Tom-1.jpeg" 
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♂ Macho"
 summary: "Tom, nuestro adorable gatito vaquita 🤍🐮🖤"

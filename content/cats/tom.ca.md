@@ -2,7 +2,7 @@
 title: "Tom"
 type: "cats"
 images: 
-  - "img/cats/Placeholder-2.png" 
+  - "img/cats/Tom-1.jpeg" 
 age: ""
 gender: "🐱♀ Femella"
 summary: "Tom, el nostre adorable gatet vaquita 🤍🐮🖤"

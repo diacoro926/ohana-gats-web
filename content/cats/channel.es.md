@@ -2,8 +2,7 @@
 title: "Channel"
 type: "cats"
 images: 
-  - "img/cats/Channel-1.jpeg" 
-  - "img/cats/Channel-2.jpeg"  
+  - "img/cats/Channel-1.jpeg"  
 age: "🐾 Jóvenes — 6 meses–2 años"
 gender: "🐱♀ Hembra"
 summary: "Channel , La gatita que nos enseño a que rendirse no es una opción"

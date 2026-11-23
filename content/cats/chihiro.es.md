@@ -5,8 +5,8 @@ images:
 - "img/cats/Chihiro-1.jpeg"
 - "img/cats/Chihiro-2.jpeg"
 age: "🐣 Gatitos — 0–6 meses"
-gender: "🐱♂ Macho"
-summary: ""
+gender: "🐱♀ Hembra"
+summary: "De la calle a una nueva oportunidad de ser feliz."
 adopted: false
 sponsor: true
 ---
@@ -15,7 +15,7 @@ sponsor: true
 
 - **Perfil:** 🐣 Gatitos — 0–6 meses
 - **Tamaño:** 🐭 Pequeño — hasta aprox. 3 kg
-- **Salud:** ❌Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
+- **Salud:** ✔️Esterilizado, ✔️Vacunado, ✔️Test Infeciosas(FIV/FeLV), ✔️Desparasitado
 
 📖 **Mi Historia**
 

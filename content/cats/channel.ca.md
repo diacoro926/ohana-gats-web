@@ -3,7 +3,6 @@ title: "Channel"
 type: "cats"
 images: 
   - "img/cats/Channel-1.jpeg" 
-  - "img/cats/Channel-2.jpeg" 
 age: "🐾 Joventut — 6 mesos-2 anys"
 gender: "🐱♀ Femella"
 summary: "Canal , El gatet que ens va ensenyar que rendir-se no és una opció"
@@ -15,7 +14,7 @@ sponsor: true
 
 - **Perfil:** 🐾 Joventut — 6 mesos-2 anys
 - **Mida:** 🐭 Petit: fins a 3 kg aprox.
-- **Salut:** ❌Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
+- **Salut:** ✔️Esterilitzat, ✔️Vacunat, ✔️Test Infecciosos(FIV/FeLV), ✔️Desparasitat
 
 📖 **La Meva Història**
 

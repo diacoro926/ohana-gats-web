@@ -5,8 +5,8 @@ images:
 - "img/cats/Chihiro-1.jpeg"
 - "img/cats/Chihiro-2.jpeg"
 age: "🐣 Gatets — 0–6 mesos"
-gender: "🐱♂ Mascle"
-summary: ""
+gender: "🐱♀ Femella"
+summary: "Del carrer a una nova oportunitat de ser feliç."
 adopted: false
 sponsor: true
 ---

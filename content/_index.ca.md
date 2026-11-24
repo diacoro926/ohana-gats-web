@@ -18,6 +18,7 @@ En aquesta web hi trobaràs molt més que fotos de gatets: descobriràs cors que
 
 Gràcies per ser aquí. La teva visita ja és un gest d’afecte. I potser avui coneixes el company de vida que no sabies que estaves buscant.
 </div>
+
 Coneix els nostres [gats disponibles](/cats/) o descobreix més [sobre nosaltres](/page/about/).
 
 <p style="text-align: center;">¡La teva ajuda els pot canviar la vida!!</p>

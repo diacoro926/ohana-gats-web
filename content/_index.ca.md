@@ -8,6 +8,7 @@ layout: "home"
   Aquí no només rescatem gatets, rescatem històries.
 </div>
 <div style="text-align: justify;">
+
 Darrere de cada mirada felina hi ha una vida que mereix amor, cura i una llar on dormir sense por.
 
 Som **OHANA**, una associació sense ànim de lucre que creu en la màgia de les segones oportunitats.

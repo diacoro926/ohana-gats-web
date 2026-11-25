@@ -10,7 +10,7 @@ images:
 
 El pasado **Sant Jordi** salimos a la calle con mucha ilusión para compartir una jornada muy especial en la **Plaça Pau Casals**.
 
-Durante todo el día pudisteis encontrar **libros, rosas, totebags, marcapáginas, dragones y muchas otras cositas**, preparadas con muchísimo cariño para apoyar a nuestros gatitos. 
+Durante todo el día pudisteis encontrar libros, rosas, totebags, marcapáginas, dragones y muchas otras cositas, preparadas con muchísimo cariño para apoyar a nuestros gatitos. 
 
 Además, pensamos también en los hogares con animales. Por eso, nuestras rosas estaban preparadas **sin espigas**, para que pudierais disfrutar de la tradición de Sant Jordi de una forma más segura para vuestros compañeros peludos. 
 

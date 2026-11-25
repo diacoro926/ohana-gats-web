@@ -5,7 +5,7 @@ comments: false
 ---
 
  Vols posar-te en contacte amb nosaltres? 
- Omple el formulari i el teu humà‑mail s’obrirà automàticament. De vegades, una nova història comença amb un gest senzill.
+Completa el formulari i el teu humà-mail s'obrirà automàticament. A vegades, una nova història comença amb un gest senzill.
  
 
 ---
@@ -13,11 +13,11 @@ comments: false
 {{< contact-form
     recipient="Ohanagatspray@gmail.com"
     subjectPrefix="Contacto desde la web"
-    labelName="Nombre"
-    labelEmail="Correo electrónico"
-    labelMessage="Mensaje"
+    labelName="Nom"
+    labelEmail="Correu electrònic "
+    labelMessage="Missatge"
     defaultMessage=``   
-    privacyNote=`En enviar-nos aquest correu tractarem les teves dades únicament per gestionar la sol·licitud d’adopció. Pots consultar com protegim la teva informació a la nostra [política de privacitat](/privacy/).`
+    privacyNote=`En enviar-nos aquest correu, tractarem les teves dades únicament per gestionar la sol·licitud. Pots consultar com protegim la teva informació a la nostra [política de privacitat](/privacy/).`
     privacyCheck= "En marcar aquesta casella, confirmes que has llegit i acceptes la nostra política de privacitat."
      buttonText="Enviar"
 >}}

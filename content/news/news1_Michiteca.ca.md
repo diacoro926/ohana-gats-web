@@ -1,10 +1,10 @@
 ---
-title: "La Michiteca. El nostre club de lectura felí"
+title: "La Michiteca. El nostre club de lectura felí."
 date: 2026-01-01
 type: "news"
 summary: "Llibres, gats i solidaritat. Què més es pot demanar?"
 images:
-  - "img/news/Michiteca/La Michiteca_ Un Rincón de Lectura Felina.png"
+  - "img/news/Michiteca/Michiteca_Portada.png"
   - "img/news/Michiteca/Michiteca_1.jpg"
   - "img/news/Michiteca/Michiteca_EneroFebrero.jpeg"
   - "img/news/Michiteca/Michiteca_MarzoAbril.jpeg"
@@ -12,11 +12,11 @@ images:
   - "img/news/Michiteca/Michiteca_JulioAgosto.jpeg"
 ---
 
-**T'apassionen els llibres i els gats? Doncs a La Michiteca et sentiràs com a casa!**
+**T'apassionen els llibres i els gats? Aleshores, a La Michiteca et sentiràs com a casa!**
 
 ---
 
-Som el club de lectura de la nostra associació: un espai on compartir històries, descobrir llibres nous, conèixer altres persones i, sobretot, ajudar els nostres companys felins. Perquè les bones històries també poden canviar vides.
+Som el club de lectura de la nostra associació: un espai on compartir històries, descobrir nous llibres, conèixer altres persones i, sobretot, ajudar els nostres companys felins. Perquè les bones històries també poden canviar vides.
 
 <!-- Bloc fix de la dinàmica de La Michiteca -->
 
@@ -24,7 +24,7 @@ Som el club de lectura de la nostra associació: un espai on compartir històrie
 
   <div style="padding:18px; background:#faf3eb; border:1px solid #aba4b3; border-radius:12px;">
     <div style="font-size:24px; margin-bottom:8px;"></div>
-    <h3 style="margin:0 0 8px; color:#80563f; font-size:1.15rem;">Una trobada al mes</h3>
+    <h3 style="margin:0 0 8px; color:#80563f; font-size:1.15rem;">Una trobada al mes:</h3>
     <p style="margin:0; line-height:1.5;">
       Ens reunim un cop al mes, generalment l'últim divendres, per compartir la nostra passió per la lectura.
     </p>
@@ -32,7 +32,7 @@ Som el club de lectura de la nostra associació: un espai on compartir històrie
 
   <div style="padding:18px; background:#f2f3eb; border:1px solid #dfe2d2; border-radius:12px;">
     <div style="font-size:24px; margin-bottom:8px;"></div>
-    <h3 style="margin:0 0 8px; color:#596447; font-size:1.15rem;">Un llibre entre tots</h3>
+    <h3 style="margin:0 0 8px; color:#596447; font-size:1.15rem;">Un llibre entre tots:</h3>
     <p style="margin:0; line-height:1.5;">
       Triem conjuntament el llibre del mes i ens reunim per comentar-lo i intercanviar opinions.
     </p>
@@ -48,9 +48,9 @@ Som el club de lectura de la nostra associació: un espai on compartir històrie
 
   <div style="padding:18px; background:#f5f0e8; border:1px solid #e8ddca; border-radius:12px;">
     <div style="font-size:24px; margin-bottom:8px;"></div>
-    <h3 style="margin:0 0 8px; color:#80563f; font-size:1.15rem;">Llegir també és ajudar</h3>
+    <h3 style="margin:0 0 8px; color:#80563f; font-size:1.15rem;">Llegir també és ajudar:</h3>
     <p style="margin:0; line-height:1.5;">
-      Cada trobada inclou una aportació simbòlica per comprar els subministraments que necessiten els nostres gats.
+      Cada trobada inclou un donatiu simbòlic per comprar els materials i productes que necessiten els nostres gats.
     </p>
   </div>
 
@@ -63,7 +63,7 @@ Som el club de lectura de la nostra associació: un espai on compartir històrie
 <div style="flex: 1 1 250px; min-width: 0;">
 
 <p style="margin: 0 0 10px; color: #986b4e; font-size: 12px; font-weight: bold; letter-spacing: 1px;">
-Una historia que nos reúne, una lectura que compartimos.
+Una història que ens uneix, una lectura que compartim.
 </p>
 
 <h2 style="margin: 0 0 20px; color: #49372f; border: none;">
@@ -90,5 +90,5 @@ Una botiga molt especial, desitjos per complir i trobades inesperades que ens co
 
 ---
 
-> 📍 **T'apuntes a la propera sessió?**  
-> Escriu-nos a través de les nostres xarxes socials o per correu electrònic per consultar la data, l'hora i el lloc de la propera trobada de *La Michiteca*.
+> 📍 **T'apuntes a la pròxima sessió?**  
+> Escriu-nos a través de les nostres xarxes socials o del correu electrònic per consultar la data, l'hora i el lloc de la pròxima trobada de *La Michiteca*.

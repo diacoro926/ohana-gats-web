@@ -9,18 +9,16 @@ images:
 
 ## Ioga solidari per una bona causa 
 
-El passat **9 de maig**, vam gaudir d’un matí molt especial d’ioga, connexió i meditació de la mà de **Patri, de Paatryoga**.
+El ioga, la connexió i la solidaritat s'uneixen en una iniciativa molt especial de la mà de la Patri,  **Paatryoga**. 
 
-La sessió va tenir lloc al **Parc Nou**, on diverses persones es van unir a aquesta bonica iniciativa per practicar ioga i, alhora, aportar el seu granet de sorra a una causa que ens importa molt: **ajudar els gatets d’Adopta Gats Prat que busquen una llar**. 
+A través de les sessions de ioga solidari, convidem tothom a gaudir d'un moment de benestar, desconnexió i meditació mentre aporta el seu granet de sorra a una causa que ens importa moltíssim: ajudar els gatets Ohana que busquen una llar.
 
-La contribució de cada participant es va destinar a cobrir **despeses veterinàries** dels nostres petits, convertint un matí de benestar en una oportunitat per cuidar també aquells que més ho necessiten. 
+Les aportacions de les persones participants es destinen a cobrir les despeses veterinàries dels nostres petits, convertint cada sessió en una oportunitat per cuidar-nos i, alhora, cuidar els qui més ho necessiten.
 
-Volem agrair de tot cor a **Paatryoga** que impulsés aquesta iniciativa tan bonica i solidària. 
+Volem agrair de tot cor a Paatryoga que impulsi aquesta bonica iniciativa i que posi el seu temps, la seva energia i la seva passió al servei dels nostres gatets.
+Perquè quan ens unim, el benestar també pot arribar en forma de potetes.
 
-Gràcies per posar el teu temps, la teva energia i la teva passió al servei dels nostres gatets. 
+Anima't a formar part d'aquesta iniciativa solidària!
+Cada gest compta i, gràcies a iniciatives com aquesta, podem continuar cuidant els nostres petits mentre esperen trobar la seva llar definitiva.
 
-> **Perquè quan ens unim, el benestar també pot arribar en forma de patetes.** 
-
-### Gràcies a totes les persones que ho vau fer possible!
-
-Cada gest compta i, gràcies a iniciatives com aquesta, podem continuar cuidant els nostres petits mentre esperen trobar la seva llar definitiva. 
+**Segueix-nos a les xarxes socials per conèixer les properes sessions de ioga solidari!**

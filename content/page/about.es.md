@@ -43,7 +43,7 @@ comments: false
 </figure>
 </figure>
 <div class="aboutus-text">
-<p>Nuestra misión es proteger y cuidar a los gatos callejeros de El Prat de Llobregat y sus alrededores, ofreciéndoles alimento, refugio, cuidados, atención veterinaria y cariño.</p>
+<p>Nuestra misión es proteger y cuidar a los gatos de El Prat de Llobregat y sus alrededores, ofreciéndoles alimento, refugio, cuidados, atención veterinaria y cariño.</p>
 
 <p>Trabajamos para que ningún gato tenga que vivir con miedo, frío o hambre. Porque cada vida importa y cada pequeño gesto puede marcar una gran diferencia</p>
 </div>
@@ -60,7 +60,7 @@ comments: false
 </figure>
 </figure>
 <div class="aboutus-text">
-<p>Queremos construir un futuro donde ningún gato callejero dependa de la suerte para sobrevivir y donde las personas se unan para proteger y respetar a los animales.</p>
+<p>Queremos construir un futuro donde ningún gato dependa de la suerte para sobrevivir y donde las personas se unan para proteger y respetar a los animales.</p>
 
 <p>Nuestro sueño es seguir creciendo, concienciando y ayudando a más gatos, demostrando que con amor, compromiso y pequeños gestos podemos cambiar sus vidas.</p>
 

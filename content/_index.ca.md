@@ -1,6 +1,6 @@
 ---
 title: "Benvinguts a OHANA"
-subtitle: "A OHANA, cada gat és família. Ningú es queda enrere, ningú s’oblida."
+subtitle: "A OHANA, cada gat és família. Ningú es queda enrere, ningú cau en l'oblit."
 layout: "home"
 ---
 
@@ -11,15 +11,16 @@ layout: "home"
 
 Darrere de cada mirada felina hi ha una vida que mereix amor, cura i una llar on dormir sense por.
 
-Som **OHANA**, una associació sense ànim de lucre que creu en la màgia de les segones oportunitats.
+**OHANA** és una associació sense ànim de lucre que creu en la màgia de les segones oportunitats.
 
-Ens dediquem a protegir, cuidar i trobar famílies per a aquells petits bigotis que un dia ho van perdre tot… menys l’esperança
+Ens dediquem a protegir, cuidar i trobar famílies per aquells petits bigotis que un dia ho van perdre tot… menys l'esperança.
 
-En aquesta web hi trobaràs molt més que fotos de gatets: descobriràs cors que bateguen fort, voluntaris incansables i una comunitat que creu que l’amor pot canviar vides, fins i tot les més peludes.
+En aquesta web trobaràs molt més que fotos de gatets: descobriràs cors que bateguen amb força, voluntaris incansables i una comunitat que creu que l'amor pot canviar vides, fins i tot, les més peludes.
 
-Gràcies per ser aquí. La teva visita ja és un gest d’afecte. I potser avui coneixes el company de vida que no sabies que estaves buscant.
+Gràcies !! La teva visita ja és un gest d'afecte. I qui sap… potser avui coneixeràs el company de vida que no sabies que estaves buscant.
+
 </div>
 
-Coneix els nostres [gats disponibles](/cats/) o descobreix més [sobre nosaltres](/page/about/).
+Coneix els nostres [gats disponibles](/cats/)  o descobreix més [sobre nosaltres](/page/about/).
 
-<p style="text-align: center;">¡La teva ajuda els pot canviar la vida!!</p>
+<p style="text-align: center;">La teva ajuda pot canviar-li la vida!</p>
